@@ -130,6 +130,16 @@
           "format": "srt",
           "size_bytes": 2276,
           "sha256": "2a66d1e0d7d23feb3fb11721485883e1a6930aeb5f632d714af84f75f9545de7"
+        },
+        {
+          "category": "gameplay",
+          "asset_type": "gameplay_voice_catalog",
+          "source_path": "localization/gameplay/large-v3-review-20261011/pt-BR.jsonl",
+          "destination_path": "Gameplay/gameplay.jsonl",
+          "format": "jsonl",
+          "size_bytes": 5384501,
+          "sha256": "203efeded4b48a9f6ddea99575ae001ce72acdc07ecd7a3dcd0fb234c5973edb",
+          "review_note": "AI-assisted transcript/translation candidates; audio confirmation and native-speaker review remain pending. Timestamps are clip-relative; this catalog is not integrated into the game runtime."
         }
       ]
     },
@@ -253,6 +263,14 @@
           "size_bytes": 40448,
           "sha256": "f194f96f9389ba7f4cb126ac02e2f619f27df0339ab97df6fe7a740e5a1fca35"
         }
+      ],
+      "pending_assets": [
+        {
+          "category": "gameplay",
+          "asset_type": "gameplay_voice_catalog",
+          "status": "not_published",
+          "note": "No gameplay voice catalog for this locale is published yet."
+        }
       ]
     },
     "ru": {
@@ -373,6 +391,12 @@
           "asset_type": "original_game_menu_catalog",
           "status": "not_published",
           "note": "The Russian MainUK.bin text/font glyph mapping has not been decoded into a verified text catalog."
+        },
+        {
+          "category": "gameplay",
+          "asset_type": "gameplay_voice_catalog",
+          "status": "not_published",
+          "note": "No gameplay voice catalog for this locale is published yet."
         }
       ]
     }
