@@ -1,0 +1,81 @@
+name: Refresh localization manifest
+
+on:
+  push:
+    paths:
+      - "GitHubs/**"
+      - "Launcher/**"
+      - "Localization/**"
+      - "Subtitles/**"
+      - "Test/**"
+      - "Tools/update_manifest.py"
+      - "manifest.json"
+      - "SOURCE-SHA256SUMS.txt"
+  pull_request:
+    paths:
+      - "GitHubs/**"
+      - "Launcher/**"
+      - "Localization/**"
+      - "Subtitles/**"
+      - "Test/**"
+      - "Tools/update_manifest.py"
+      - "manifest.json"
+      - "SOURCE-SHA256SUMS.txt"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: manifest-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  update-after-push:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the pushed branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh hashes and nested folder tree
+        run: python Tools/update_manifest.py
+
+      - name: Commit refreshed metadata when it changed
+        shell: bash
+        run: |
+          git add manifest.json SOURCE-SHA256SUMS.txt
+          if git diff --cached --quiet; then
+            echo "Manifest and checksums already match the repository."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh localization manifest"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+  verify-pull-request:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Check out pull request
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Verify generated metadata is current
+        run: python Tools/update_manifest.py --check

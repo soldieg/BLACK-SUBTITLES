@@ -34,7 +34,9 @@ The extracted WAVs used for analysis are local work products and are not include
 
 ## Manifest behavior
 
-`manifest.json` is an inventory of actual repository assets. Locale `files` list supplemental localization materials; research data is marked `test_only` and remains separate from runtime-ready content. Its presence does not imply that a game or launcher runtime already loads that asset type.
+`manifest.json` is an inventory of actual repository assets. Locale `files` list supplemental localization materials; research data is marked `test_only` and remains separate from runtime-ready content. Its presence does not imply that a game or launcher runtime already loads that asset type. The generated `directory_tree` mirrors the repository's nested asset folders and shows each file's SHA-256, size, locale, and catalog status. Files not yet assigned to a locale list appear as `not_in_locale_catalog`; they are indexed for review but are not made downloadable by that status alone.
+
+The GitHub Action **Refresh localization manifest** regenerates the folder tree, asset hashes, sizes, and `SOURCE-SHA256SUMS.txt` after pushes that touch localization data. Pull requests run the same generator in check-only mode and fail if the generated metadata is stale. To update it locally, run `python Tools/update_manifest.py`; use `python Tools/update_manifest.py --check` to verify without writing files. New files are detected and shown in the generated tree, but still need an explicit locale/category entry before they become part of a downloadable locale package.
 
 ## Formats
 
