@@ -14,8 +14,9 @@ This repository contains text and metadata only. It does not contain the game, e
 | French | `fr` | 9 tracks | Available | Available | Candidate translations |
 | German | `de` | 9 tracks | Available | Available | Candidate translations |
 | Italian | `it` | 9 tracks | Available | Available | Candidate translations |
+| Indonesian | `id` | Not available | Available | Not available | Not available |
 
-Indonesian menu text was supplied separately as a game language-bank archive, but no Indonesian subtitle catalog is included in this snapshot. There are no Indonesian cutscene or gameplay caption tracks here.
+The Indonesian menu catalog is a text-only export of the supplied `MainUS.bin`. It preserves source IDs and order but is not independently reviewed. No Indonesian cutscene, launcher, or gameplay caption catalog is included in this snapshot.
 
 ## Contents
 
@@ -34,7 +35,7 @@ The candidate directories have their own READMEs with their generation and revie
 
 ### `localization/game/` — in-game menu strings
 
-ID-keyed JSONL catalogs for 1,724 `MainUS` string records in English, Portuguese, Spanish, French, German, and Italian. `proper-name-invariants.jsonl` records canonical names. These are editable text catalogs, not game-ready `MainUS.bin` files. Editorial work is recorded in the data, but native-speaker and some game-context review remain pending.
+The English, Portuguese, Spanish, French, German, and Italian catalogs each contain 1,724 ID-keyed `MainUS` records. The Indonesian `id.jsonl` catalog adds 1,724 records from the supplied Indonesian bank. `proper-name-invariants.jsonl` records canonical names. These are editable text catalogs, not game-ready `MainUS.bin` files. Indonesian provenance and review status are documented in `localization/game/INDONESIAN.md`; editorial and native-speaker review remain pending.
 
 ### `localization/launcher/` — launcher interface strings
 
