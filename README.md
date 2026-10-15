@@ -1,5 +1,8 @@
 # BLACK subtitles and localization data
 
+> [!IMPORTANT]
+> **Found an error in any translation?** [Open an Issue](https://github.com/soldieg/BLACK-SUBTITLES/issues/new) so I can review and correct it.
+
 An unofficial, reusable collection of subtitle and localization data prepared for **BLACK (2006)**. The files are kept in open formats so they can be adapted to different players, tools, and projects.
 
 This repository contains text and metadata only. It does not contain the game, executable files, XMV videos, extracted audio, or the game's binary language/font banks. For Indonesian localization, `tools/prepare-indonesian-fonts.ps1` can validate and package the standard font files from a user's own game installation; the original font binaries are not distributed here. It is not affiliated with or endorsed by Electronic Arts.
@@ -35,7 +38,7 @@ subtitles/fr/03_N.srt       # French
 subtitles/de/03_N.srt       # German
 subtitles/it/03_N.srt       # Italian
 subtitles/id/03_N.srt       # Indonesian
-subtitles/ru/03_N.srt       # Russian draft
+subtitles/ru/03_N.srt       # Russian
 ```
 
 The same folder pattern is used for the other eight stems listed above. Videos without dialogue, such as `AK_N` and `MP5_N`, intentionally have no track.
