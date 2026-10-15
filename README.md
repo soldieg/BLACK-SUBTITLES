@@ -15,14 +15,17 @@ This repository contains text and metadata only. It does not contain the game, e
 | German | `de` | 9 tracks | Available | Available | Candidate translations |
 | Italian | `it` | 9 tracks | Available | Available | Candidate translations |
 | Indonesian | `id` | 9 tracks | Available | Available | Not available |
+| Russian | `ru` | 9 draft tracks | Source bank found; encoding review pending | Not yet translated | Not available |
 
 The Indonesian menu catalog is a text-only export of the supplied `MainUS.bin`. It preserves source IDs and order but is not independently reviewed. Indonesian cutscene captions and launcher strings are AI-reviewed drafts; native-speaker review remains pending. No Indonesian gameplay caption catalog is included in this snapshot.
+
+Russian cutscene captions are AI-generated drafts translated primarily from English; native-speaker review and direct Russian-audio confirmation remain pending. The supplied archive appears to contain Russian text in `MainUK.bin`, but its special glyph/font mapping is undecoded, so no Russian menu catalog or game-ready runtime bank has been generated. See `subtitles/ru/README.md` and `localization/game/RUSSIAN.md`. No Russian launcher or gameplay caption catalog is included.
 
 ## Contents
 
 ### `subtitles/` — cutscene SRT files
 
-The primary set has nine spoken video stems in English and six translated languages: `03_N`, `05_N`, `07_N`, `09_N`, `11_N`, `13_N`, `15_N`, `17_N`, and `18_N` (63 SRT files). English files are directly under `subtitles/`; translated files are in locale subfolders:
+The primary set has nine spoken video stems in English and seven translated languages: `03_N`, `05_N`, `07_N`, `09_N`, `11_N`, `13_N`, `15_N`, `17_N`, and `18_N` (72 SRT files). English files are directly under `subtitles/`; translated files are in locale subfolders:
 
 ```text
 subtitles/03_N.srt          # English
@@ -32,11 +35,12 @@ subtitles/fr/03_N.srt       # French
 subtitles/de/03_N.srt       # German
 subtitles/it/03_N.srt       # Italian
 subtitles/id/03_N.srt       # Indonesian
+subtitles/ru/03_N.srt       # Russian draft
 ```
 
 The same folder pattern is used for the other eight stems listed above. Videos without dialogue, such as `AK_N` and `MP5_N`, intentionally have no track.
 
-The dialogue tracks include localized speaker labels. Translation and speaker attribution have received AI/editorial review, but native-speaker review and complete cue-by-cue audio verification remain pending. English source passages also contain uncertain wording. The SRTs are usable as editable caption files; inclusion here does not certify official wording or final synchronization.
+The dialogue tracks include localized speaker labels. Translation and speaker attribution have received AI/editorial review, but native-speaker review and complete cue-by-cue audio verification remain pending. English source passages also contain uncertain wording. Russian timings follow the English source and have not been checked against Russian audio. See `subtitles/ru/README.md` for the Russian translation basis and review status. The SRTs are usable as editable caption files; inclusion here does not certify official wording or final synchronization.
 
 Two separate experimental sets are retained:
 
@@ -47,7 +51,7 @@ The candidate directories have their own READMEs with their generation and revie
 
 ### `localization/game/` — in-game menu strings
 
-The English, Portuguese, Spanish, French, German, and Italian catalogs each contain 1,724 ID-keyed `MainUS` records. The Indonesian `id.jsonl` catalog adds 1,724 records from the supplied Indonesian bank. `proper-name-invariants.jsonl` records canonical names. These are editable text catalogs, not game-ready `MainUS.bin` files. Indonesian provenance and review status are documented in `localization/game/INDONESIAN.md`; editorial and native-speaker review remain pending.
+The English, Portuguese, Spanish, French, German, and Italian catalogs each contain 1,724 ID-keyed `MainUS` records. The Indonesian `id.jsonl` catalog adds 1,724 records from the supplied Indonesian bank. `proper-name-invariants.jsonl` records canonical names. These are editable text catalogs, not game-ready `MainUS.bin` files. Indonesian provenance and review status are documented in `localization/game/INDONESIAN.md`; editorial and native-speaker review remain pending. A supplied archive also contains a Russian-text `MainUK.bin` and alternate font banks. Its special character/font mapping is not yet decoded, so no Russian menu catalog or runtime files have been generated; details are in `localization/game/RUSSIAN.md`.
 
 #### Runtime language file layout
 
