@@ -1,0 +1,71 @@
+1
+00:00:02,760 --> 00:00:07,200
+Interrogatore: Le era stato ordinato espressamente di mantenere la posizione, ma non l’ha fatto. Perché?
+
+2
+00:00:07,800 --> 00:00:10,180
+Sergente Kellar: La squadra Charlie era stata messa fuori combattimento. Non volevo lasciarmelo scappare.
+
+3
+00:00:15,700 --> 00:00:16,740
+Sergente Kellar: Il piano terra era libero.
+
+4
+00:00:17,120 --> 00:00:18,260
+Sergente Kellar: Ho sentito dei rumori al piano di sopra.
+
+5
+00:00:18,500 --> 00:00:21,520
+Sergente Kellar: Sono salito, ed è lì che l’ho visto.
+
+6
+00:00:21,840 --> 00:00:24,300
+Sergente Kellar: Il quarto uomo? Sì, proprio lui.
+
+7
+00:00:25,520 --> 00:00:28,880
+Interrogatore: Nel rapporto post-operazione che ha presentato, risulta che lui l’abbia colta di sorpresa.
+
+8
+00:00:30,000 --> 00:00:31,900
+Interrogatore: Ma non ha sparato. Perché?
+
+9
+00:00:32,240 --> 00:00:35,880
+Sergente Kellar: Era americano. Non russo, non tedesco, non ceceno.
+
+10
+00:00:38,260 --> 00:00:40,380
+Interrogatore: Interessante. Come fa a saperlo?
+
+11
+00:00:40,820 --> 00:00:41,480
+Sergente Kellar: Mi ha parlato.
+
+12
+00:00:42,200 --> 00:00:44,260
+Interrogatore: Cosa ti ha detto questo americano?
+
+13
+00:00:45,060 --> 00:00:49,620
+Sergente Kellar: Non ricordo. Un RPG ha colpito l’edificio. Dopo, non ricordo più nulla.
+
+14
+00:00:51,000 --> 00:00:53,000
+Interrogatore: Qual era il suo incarico successivo? Due obiettivi in un colpo solo:
+
+15
+00:00:53,640 --> 00:00:56,540
+Sergente Kellar: Distruggere il deposito d’armi e la roccaforte di Seventh Wave a Naszran.
+
+16
+00:00:57,840 --> 00:01:01,600
+Interrogatore: Le era stato ordinato di incontrare il tenente McCarver mentre vi dirigevate verso l’obiettivo?
+
+17
+00:01:01,880 --> 00:01:07,320
+Sergente Kellar: Sì. Sarebbe stato facile se le mappe e le informazioni sul valico di frontiera non fossero state obsolete.
+
+18
+00:01:07,280 --> 00:01:08,940
+Sergente Kellar: L’unica informazione corretta riguardava la fattoria.
