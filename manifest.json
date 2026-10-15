@@ -38,8 +38,8 @@
           "source_path": "Localization/Menu/en-US.jsonl",
           "destination_path": "Localization/Menu/en-US.jsonl",
           "format": "jsonl",
-          "size_bytes": 216203,
-          "sha256": "c42f80d5dbc2af97d5361c1a617ea738f7a1273084fd8dd34330fb98dccda2d5"
+          "size_bytes": 82841,
+          "sha256": "62c305a6cc82c55a0ce35eaef1417fb730b397b9cea9d502aef8eae180b4e3b6"
         },
         {
           "category": "subtitle",
@@ -142,8 +142,8 @@
           "source_path": "Localization/Menu/pt-BR.jsonl",
           "destination_path": "Localization/Menu/pt-BR.jsonl",
           "format": "jsonl",
-          "size_bytes": 148178,
-          "sha256": "bad44eb89024a26a0f508c7a97e86341b036fdca3c254c0caf9c666fd3f20fc2"
+          "size_bytes": 91147,
+          "sha256": "209ce375b20b7385596fcd98de8ce7ab7f185ae78dc4d335a25d68e64fa12a76"
         },
         {
           "category": "localization",
@@ -151,8 +151,8 @@
           "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/pt-BR.jsonl",
           "destination_path": "Localization/Menu/recomp.jsonl",
           "format": "jsonl",
-          "size_bytes": 443797,
-          "sha256": "af3d41097babc0197af5f62acb3841df438c796806d8538db3a0e8da1eade4f9"
+          "size_bytes": 95499,
+          "sha256": "f65c8e345367450f0b69bc1bd1ed6fdbb209b5d3d9591718cd93dceafd24549c"
         },
         {
           "category": "subtitle",
@@ -255,8 +255,8 @@
           "source_path": "Localization/Menu/es.jsonl",
           "destination_path": "Localization/Menu/es.jsonl",
           "format": "jsonl",
-          "size_bytes": 218835,
-          "sha256": "a8da556767144d03e5b763cc0dd8e60799914e239da076daa9a1c490e3de5c1f"
+          "size_bytes": 90645,
+          "sha256": "742566e423ae13bd7ca2c3aea41ee431edfde0c82aa69cf2195bf6c88ceeb600"
         },
         {
           "category": "subtitle",
@@ -345,8 +345,8 @@
           "source_path": "Launcher/es.jsonl",
           "destination_path": "Launcher/es.jsonl",
           "format": "jsonl",
-          "size_bytes": 37476,
-          "sha256": "f116a873addd546b2e363139ca5c6d12d4e13d305a1537f0149fd04f3c2bfa8e"
+          "size_bytes": 20117,
+          "sha256": "717328045c0602cd9ae3b6b68f3829b2affd30408862fd39030cab32197fcbfa"
         }
       ]
     },
@@ -359,8 +359,8 @@
           "source_path": "Localization/Menu/fr.jsonl",
           "destination_path": "Localization/Menu/fr.jsonl",
           "format": "jsonl",
-          "size_bytes": 220697,
-          "sha256": "20ae9d31392e0599ffb915c381a3b9a0301e44d16174596f80fb700d6b834211"
+          "size_bytes": 92507,
+          "sha256": "943b77ddfecbcde59b03961b25e0c952ec6a3cbacdcbd7fe426643eeb963340f"
         },
         {
           "category": "subtitle",
@@ -449,8 +449,8 @@
           "source_path": "Launcher/fr.jsonl",
           "destination_path": "Launcher/fr.jsonl",
           "format": "jsonl",
-          "size_bytes": 38014,
-          "sha256": "57c76b4b75bbc88425d0f582b744901b69fdf53ea1c1961580145064abbddda0"
+          "size_bytes": 20683,
+          "sha256": "930574084e0cdda71e9dfa0fb2d8ca5523b172c89849f2bc44a5b28b172a29a4"
         }
       ]
     },
@@ -463,8 +463,8 @@
           "source_path": "Localization/Menu/de.jsonl",
           "destination_path": "Localization/Menu/de.jsonl",
           "format": "jsonl",
-          "size_bytes": 215638,
-          "sha256": "90313618742eb0fd11b18f7301ab50579c30242d8d96d2e722bec620ae86217b"
+          "size_bytes": 87448,
+          "sha256": "e4a56fecce85c2ff2f5d3783cfb464e759c53a3c81469919fb49110c93f60f5d"
         },
         {
           "category": "subtitle",
@@ -553,8 +553,8 @@
           "source_path": "Launcher/de.jsonl",
           "destination_path": "Launcher/de.jsonl",
           "format": "jsonl",
-          "size_bytes": 37297,
-          "sha256": "369f16815a5f7fc409ab20d2d91c736ca28027200362f998a7bf7e9bc449414d"
+          "size_bytes": 19912,
+          "sha256": "3342b87927a63837791798f91f7a76c6fe62f6b9943e6086277581a7258b028c"
         },
         {
           "category": "localization",
@@ -585,8 +585,8 @@
           "source_path": "Localization/Menu/it.jsonl",
           "destination_path": "Localization/Menu/it.jsonl",
           "format": "jsonl",
-          "size_bytes": 216434,
-          "sha256": "da1ea5af1bfc86f76d9933bf2c479cb840d1bcdb09054ccab4d99e4495b7cf79"
+          "size_bytes": 88244,
+          "sha256": "7572b57ccab29457f4c36089916cb8a4997de4c500786bde74573e143e68a601"
         },
         {
           "category": "subtitle",
@@ -675,8 +675,8 @@
           "source_path": "Launcher/it.jsonl",
           "destination_path": "Launcher/it.jsonl",
           "format": "jsonl",
-          "size_bytes": 37387,
-          "sha256": "0eb4a642685d05787adb428320c64b8e35eae2556bf3b5d8b31eea0ac11bddbe"
+          "size_bytes": 20079,
+          "sha256": "2d112f1ecac50dd22c004b165a1e75dcbfea0492f5453351a5dd0fe4d177dc92"
         }
       ]
     },
@@ -689,8 +689,8 @@
           "source_path": "Localization/Menu/id.jsonl",
           "destination_path": "Localization/Menu/id.jsonl",
           "format": "jsonl",
-          "size_bytes": 184386,
-          "sha256": "ee6795e5b5d56e8713f90232ca3b8f2a0d68a00da648434f9733671fb1a7bf71"
+          "size_bytes": 82670,
+          "sha256": "f6b36134ab1541596a0d7a252a0420a0cc914634a6bf9e61c9edff4dab808a1d"
         },
         {
           "category": "localization",
@@ -698,8 +698,8 @@
           "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/id.jsonl",
           "destination_path": "Localization/Menu/recomp.jsonl",
           "format": "jsonl",
-          "size_bytes": 462045,
-          "sha256": "276c55c22fbce9ee25aab7bab87d8f6e9a64eceee1c8f700a62890e4a1befb0c"
+          "size_bytes": 86913,
+          "sha256": "585767c8e1b832b4664951f986be42848cf4e9e758de14f6f7d8207d6c05c98d"
         },
         {
           "category": "subtitle",
@@ -788,8 +788,8 @@
           "source_path": "Launcher/id.jsonl",
           "destination_path": "Launcher/id.jsonl",
           "format": "jsonl",
-          "size_bytes": 36636,
-          "sha256": "6e38c0b6b69b49e5ae5c7db6feeea62f66dbf8de0ead0a053520c8fea7c2c0ad"
+          "size_bytes": 18532,
+          "sha256": "c08354cb1e834cf6bbd99d71325be59d851ea9e0aea4ee2deec671ba40038139"
         },
         {
           "category": "localization",
@@ -820,8 +820,8 @@
           "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/ru.jsonl",
           "destination_path": "Localization/Menu/recomp.jsonl",
           "format": "jsonl",
-          "size_bytes": 1026983,
-          "sha256": "a1de1263468f5069fe7671d68fdccea77e0a54cd4506f31f57b0d6650ddc0df8"
+          "size_bytes": 88706,
+          "sha256": "471c074c5b65bcf51b74208089a3611b21f03e7effd9783e528dc223fa6bd8aa"
         },
         {
           "category": "subtitle",
@@ -2132,8 +2132,8 @@
         "asset_type": "black_xbe_recomp_original_menu_catalog_mirror",
         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/original-game-menu/en-US.jsonl",
         "canonical_source_path": "Localization/Menu/en-US.jsonl",
-        "size_bytes": 216203,
-        "sha256": "c42f80d5dbc2af97d5361c1a617ea738f7a1273084fd8dd34330fb98dccda2d5",
+        "size_bytes": 82841,
+        "sha256": "62c305a6cc82c55a0ce35eaef1417fb730b397b9cea9d502aef8eae180b4e3b6",
         "mirror_only": true
       }
     ],
@@ -2143,8 +2143,8 @@
         "asset_type": "black_xbe_recomp_original_menu_catalog_mirror",
         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/original-game-menu/pt-BR.jsonl",
         "canonical_source_path": "Localization/Menu/pt-BR.jsonl",
-        "size_bytes": 148178,
-        "sha256": "bad44eb89024a26a0f508c7a97e86341b036fdca3c254c0caf9c666fd3f20fc2",
+        "size_bytes": 91147,
+        "sha256": "209ce375b20b7385596fcd98de8ce7ab7f185ae78dc4d335a25d68e64fa12a76",
         "mirror_only": true
       }
     ],
@@ -2154,8 +2154,8 @@
         "asset_type": "black_xbe_recomp_original_menu_catalog_mirror",
         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/original-game-menu/es.jsonl",
         "canonical_source_path": "Localization/Menu/es.jsonl",
-        "size_bytes": 218835,
-        "sha256": "a8da556767144d03e5b763cc0dd8e60799914e239da076daa9a1c490e3de5c1f",
+        "size_bytes": 90645,
+        "sha256": "742566e423ae13bd7ca2c3aea41ee431edfde0c82aa69cf2195bf6c88ceeb600",
         "mirror_only": true
       }
     ],
@@ -2165,8 +2165,8 @@
         "asset_type": "black_xbe_recomp_original_menu_catalog_mirror",
         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/original-game-menu/fr.jsonl",
         "canonical_source_path": "Localization/Menu/fr.jsonl",
-        "size_bytes": 220697,
-        "sha256": "20ae9d31392e0599ffb915c381a3b9a0301e44d16174596f80fb700d6b834211",
+        "size_bytes": 92507,
+        "sha256": "943b77ddfecbcde59b03961b25e0c952ec6a3cbacdcbd7fe426643eeb963340f",
         "mirror_only": true
       }
     ],
@@ -2176,8 +2176,8 @@
         "asset_type": "black_xbe_recomp_original_menu_catalog_mirror",
         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/original-game-menu/de.jsonl",
         "canonical_source_path": "Localization/Menu/de.jsonl",
-        "size_bytes": 215638,
-        "sha256": "90313618742eb0fd11b18f7301ab50579c30242d8d96d2e722bec620ae86217b",
+        "size_bytes": 87448,
+        "sha256": "e4a56fecce85c2ff2f5d3783cfb464e759c53a3c81469919fb49110c93f60f5d",
         "mirror_only": true
       }
     ],
@@ -2187,8 +2187,8 @@
         "asset_type": "black_xbe_recomp_original_menu_catalog_mirror",
         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/original-game-menu/it.jsonl",
         "canonical_source_path": "Localization/Menu/it.jsonl",
-        "size_bytes": 216434,
-        "sha256": "da1ea5af1bfc86f76d9933bf2c479cb840d1bcdb09054ccab4d99e4495b7cf79",
+        "size_bytes": 88244,
+        "sha256": "7572b57ccab29457f4c36089916cb8a4997de4c500786bde74573e143e68a601",
         "mirror_only": true
       }
     ],
@@ -2198,8 +2198,8 @@
         "asset_type": "black_xbe_recomp_original_menu_catalog_mirror",
         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/original-game-menu/id.jsonl",
         "canonical_source_path": "Localization/Menu/id.jsonl",
-        "size_bytes": 184386,
-        "sha256": "ee6795e5b5d56e8713f90232ca3b8f2a0d68a00da648434f9733671fb1a7bf71",
+        "size_bytes": 82670,
+        "sha256": "f6b36134ab1541596a0d7a252a0420a0cc914634a6bf9e61c9edff4dab808a1d",
         "mirror_only": true
       }
     ]
