@@ -1,13 +1,9 @@
-# Multilingual gameplay speech review set
+# Gameplay voice catalog — detailed review set
 
-This is a six-locale candidate corpus for gameplay voice lines. The six JSONL files contain 3,591 rows each and retain clip/bank identifiers, source audio hashes, segment-relative timestamps, ASR evidence, translation text, and review metadata. Target locales are Brazilian Portuguese, Spanish, French, German, and Italian; `en-US` is the English pivot/source catalog.
+This set has six locale catalogs (`en-US`, `pt-BR`, `es`, `fr`, `de`, `it`) with 3,591 records each. It contains ASR transcripts, translations, clip/audio identity, timestamps, and AI-assisted editorial corrections. The 2026-10-15 correction log contains 774 records.
 
-## Status in this snapshot
+## Review state
 
-Each translated target catalog has 592 assistant-curated rows awaiting native-speaker review, 315 candidates awaiting direct audio confirmation, 734 machine candidates awaiting source-language review, 8 dual-ASR candidates still awaiting audio/language review, and 1,942 machine-ASR drafts. The English catalog has its own distinct status counts (see the top-level repository README). There are 33 onomatopoeia candidates, 138 possible-vocalization rows, and 132 spoken-dialogue candidates in the English dataset; these categories describe classification fields, not human-confirmed transcripts.
+The row-level `translation_status` and `review_status` fields are authoritative. The set includes onomatopoeia/vocalization and dialogue candidates; entries remain candidates whenever their status says audio or source-language review is pending. AI review is not human listening, native-speaker review, or confirmation against the game. No extracted audio is distributed, and timestamps are clip-relative rather than mission/gameplay timing.
 
-ASR agreement, model confidence, and AI-assisted curation do not count as human listening or native-speaker review. Source-language labels and reconstructed words can be wrong. Do not treat these entries as verified dialogue.
-
-Timestamps are relative to extracted source clips, not mission/gameplay time. Clip hashes and bank/index fields are included to help a reviewer match a candidate to their own source files. Audio is not included, and these catalogs are not loaded by the game runtime.
-
-`AUDIT.md` and `HISTORY.md` preserve earlier analysis notes. Some notes reference private temporary reports that are not distributed here and may state earlier counts. `historical-build-summary-20261011.json` is an original historical build summary, not the current row-count source.
+`AUDIT.md`, `HISTORY.md`, `build-summary.json`, and the correction log retain detailed provenance. Some audit history describes earlier snapshots; use the six current JSONL catalogs for current row counts. This data is not wired into the game runtime.

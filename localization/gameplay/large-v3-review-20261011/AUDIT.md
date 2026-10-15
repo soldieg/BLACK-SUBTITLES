@@ -636,3 +636,49 @@ Batch 364 corrected three global Speech rows where the repeated Russian phrase �
 
 
 Batch 365 corrected ten repeated global Speech entries whose source transcript candidate is Russian “Отстреливаемся!” (first-person plural reflexive, “we are returning fire”), but whose English/target text was an imperative (“Return fire!”). Aligned all six locale texts with the five already-consistent repeats. The ten source WAV hashes match the audio catalog. Two source-language-review rows were left unchanged. All ten corrected rows were moved to direct-audio-review; human listening and native-speaker review remain pending. Backup + SHA-256 manifest: `.work/gameplay-localization-before-batch365-20261012/`; report `.work/gameplay-localization-editorial-batch365-20261012.json`.
+
+Batch 185 aligned the two remaining literal translations of the repeated Russian battlefield warning “Воздух!” (clips 1224 and 1733) with the established “air attack” meaning across English, Brazilian Portuguese, Spanish, French, German, and Italian (12 catalog rows). Context is supported by 16 parallel occurrences already localized as an air-attack warning. Direct audio and native-language review remain pending.
+
+Batch 186 completed an AI semantic and cross-locale consistency pass on 13 intelligible Russian gameplay calls (clips 29, 110, 467, 931, 1596, 1716, 1878, 2040, 2165, 2434, 2751, 2933, and 2977), covering the English pivot and five target locales (78 catalog entries). Existing text was retained where it conveyed the source accurately. All entries remain explicitly pending direct audio and native-language review.
+
+Batch 187 completed an AI semantic and idiom pass on five clear English gameplay calls (“What’s up?”, “I got him!”, “Incoming!”, “Get down! Get down! Grenade!”, and “Oh fuck! I’m hit.”), covering five target locales (25 entries). Existing translations were retained where they conveyed the line naturally; 16 target entries were advanced from machine draft to AI-curated pending human confirmation. Direct audio and native-speaker review remain pending.
+
+Batch 188 AI-reviewed 26 machine-translated English pivots against clear Russian/Ukrainian source phrases and the five existing target translations (26 source rows; 156 locale texts checked). Updated the mistranslated first-person plural Russian call “Прячемся!” from “Hide!” to “Let’s hide!”; all target translations already conveyed the inclusive command. Other reviewed pivots were retained where meaning aligned. Direct audio and native-speaker reviews remain pending.
+
+Batch 189 AI-reviewed eight English pivots against clear Russian lines and all five target translations (48 locale entries). Aligned the repeated source phrase “Нас валят!” in clip 1775 with the already-established translation of the identical line in clip 295 (“We’re taking fire!” and locale equivalents). Direct audio and native review remain pending.
+
+Batch 190 completed AI semantic review of 22 English pivots translated from clear Russian gameplay calls (commands, radio responses, status calls, and combat alerts). Each pivot was checked against its Cyrillic source and the already AI-curated translations in PT-BR, ES, FR, DE, and IT. No wording changes were needed; English pivot entries are now marked AI-curated with direct audio and native review still pending.
+
+Batch 191 corrected the German rendering of Russian Замерли! (“Freeze!”) from “Stillgestanden!” (stand at attention) to “Keine Bewegung!” (freeze/don’t move), matching the stop-command context and the other locales. Audio and native review remain pending.
+
+Batch 192 aligned clip 1658 with the identical Russian command Уточните позицию! in clip 2142. Standardized the English pivot as “Specify your position!” and harmonized PT-BR, ES, FR, DE, and IT with the existing parallel translations (6 rows). Direct audio and native review remain pending.
+
+Batch 193 AI-reviewed 15 English pivots for recurring Russian gameplay calls (90 locale texts cross-checked). Reconciled repeated forms: Повисли! → “Hang on!”, Сделаем их! → “We’ll take them out!”, and Берегись! → “Watch out!”. Other repeated lines were retained where the English and five locale texts agreed. Direct audio and native review remain pending.
+
+Batch 194 AI-reviewed 30 English pivots for clear Russian gameplay calls, cross-checking each with all five already AI-curated target translations (180 locale texts). Corrected “СТРЕЛЯЮ!” to “I’m shooting!”, preserved profanity in the French translation of “Сраный ковбой!”, and resolved the “Ready! I took him out!” line so PT-BR and Spanish say the target was taken out rather than merely hit. Audio and native-language confirmation remain pending.
+
+Batch 195 AI-reviewed 19 English pivots and their five target translations for readable Russian/Ukrainian gameplay lines (114 locale texts). Restored the omitted “again” in Ukrainian Ще рване! across all six languages, and completed the English sentence for Помогите! Срочно!. Audio and native review remain pending.
+
+
+Batch 196 AI-curated 93 simple vocalization candidates across six catalogs (558 locale rows), reviewed clear English source lines against Qwen3-ASR 1.7B/adjudication, corrected the Russian colloquial grenade call (Лимонка!), aligned two repeated Берёт! clips, and fixed Перед! from “before” to the forward/ahead direction. The localization text for the corrected calls was harmonized across all six languages. All direct audio confirmation and native-speaker review remain pending; conflicting ASR candidates were left as drafts. Backup and SHA-256 manifest: `build legendas\.work\gameplay-localization-before-batch196-20261015`; report: `.work/gameplay-localization-batch196-20261015.json`.
+
+
+Batch 197 AI-reviewed 13 readable Russian/Ukrainian pivots across the six catalogs and localized two short vocalization candidates (Айа and Ап.) with natural equivalents in all six languages. This advanced existing English pivots without changing target text where the five translations already agreed, and replaced the incorrect “App/application” reading for Ап. with a phonetic exclamation. Source audio and native-speaker review remain pending. Backup and SHA-256 manifest: `build legendas\.work\gameplay-localization-before-batch197-20261015`; report: `.work/gameplay-localization-batch197-20261015.json`.
+
+
+Batch 198 localized Russian hesitation Ам. naturally across all six languages, and AI-curated two English gameplay transcript candidates (Moving. and I ain’t covering me.) with target text retained. The latter wording remains under direct audio review. Native-speaker and human-audio confirmation are still pending. Backup and SHA-256 manifest: `build legendas\.work\gameplay-localization-before-batch198-20261015`; report: `.work/gameplay-localization-batch198-20261015.json`.
+
+
+Batch 199 AI-curated three additional readable English pivots and aligned the Qwen-supported “he is down” phrase in clip 2483 with its repeated gameplay callout in clips 1499, 2020, and 2986 across all six locales. Qwen differs on source grammatical gender; the chosen wording remains a candidate. Direct audio and native-speaker review remain pending. Backup and SHA-256 manifest: `build legendas\.work\gameplay-localization-before-batch199-20261015`; report: `.work/gameplay-localization-batch199-20261015.json`.
+
+
+Batch 200 reviewed the final 10 machine-translation-to-English pivots against the five target-language texts. The candidate pivot and locale meanings align, so the six catalog entries per line were advanced to AI-curated status; questionable source transcripts remain explicitly pending direct audio review. No wording was changed in this batch. Backup and SHA-256 manifest: `build legendas\.work\gameplay-localization-before-batch200-20261015`; report: `.work/gameplay-localization-batch200-20261015.json`.
+
+
+Batch 201 produced an AI-localized rendering for the 14 remaining machine-draft clips in all six catalogs. Clear candidates were translated semantically (Bridge, Climb, Group, Monument, greeting); uncertain short tokens were kept as phonetic forms or conservative invariant symbols. The working source transcript/language metadata records Qwen disagreements and remains unconfirmed by direct audio. Native-speaker review also remains pending. Backup and SHA-256 manifest: `build legendas\.work\gameplay-localization-before-batch201-20261015`; report: `.work/gameplay-localization-batch201-20261015.json`.
+
+
+Batch 200 follow-up: corrected a status-write issue found during the final audit. The 10 reviewed English pivots now carry AI-curated status in en-US; their text and five target translations were unchanged. Audio and native-speaker review remain pending.
+
+
+Final status normalization: the last 10 reviewed English pivots were promoted after the first status write did not persist, and 273 legacy English rows had an AI-curated review_status but no translation_status. Their status fields were aligned without changing text. All six catalogs now contain a non-empty text for every row and no machine-draft or machine-translation-to-English entries. Direct audio and native-speaker review remain pending where indicated.
