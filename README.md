@@ -2,7 +2,7 @@
 
 An unofficial, reusable collection of subtitle and localization data prepared for **BLACK (2006)**. The files are kept in open formats so they can be adapted to different players, tools, and projects.
 
-This repository contains text and metadata only. It does not contain the game, executable files, XMV videos, extracted audio, or the game's binary language/font banks. It is not affiliated with or endorsed by Electronic Arts.
+This repository contains text and metadata only. It does not contain the game, executable files, XMV videos, extracted audio, or the game's binary language/font banks. For Indonesian localization, `tools/prepare-indonesian-fonts.ps1` can validate and package the standard font files from a user's own game installation; the original font binaries are not distributed here. It is not affiliated with or endorsed by Electronic Arts.
 
 ## Languages
 
@@ -22,7 +22,19 @@ The Indonesian menu catalog is a text-only export of the supplied `MainUS.bin`. 
 
 ### `subtitles/` — cutscene SRT files
 
-The primary set has nine spoken video stems in English and six translated languages: `03_N`, `05_N`, `07_N`, `09_N`, `11_N`, `13_N`, `15_N`, `17_N`, and `18_N` (63 SRT files). English files are directly under `subtitles/`; other languages use locale subfolders. Videos without dialogue, such as `AK_N` and `MP5_N`, intentionally have no track.
+The primary set has nine spoken video stems in English and six translated languages: `03_N`, `05_N`, `07_N`, `09_N`, `11_N`, `13_N`, `15_N`, `17_N`, and `18_N` (63 SRT files). English files are directly under `subtitles/`; translated files are in locale subfolders:
+
+```text
+subtitles/03_N.srt          # English
+subtitles/pt-BR/03_N.srt    # Brazilian Portuguese
+subtitles/es/03_N.srt       # Spanish
+subtitles/fr/03_N.srt       # French
+subtitles/de/03_N.srt       # German
+subtitles/it/03_N.srt       # Italian
+subtitles/id/03_N.srt       # Indonesian
+```
+
+The same folder pattern is used for the other eight stems listed above. Videos without dialogue, such as `AK_N` and `MP5_N`, intentionally have no track.
 
 The dialogue tracks include localized speaker labels. Translation and speaker attribution have received AI/editorial review, but native-speaker review and complete cue-by-cue audio verification remain pending. English source passages also contain uncertain wording. The SRTs are usable as editable caption files; inclusion here does not certify official wording or final synchronization.
 
@@ -36,6 +48,18 @@ The candidate directories have their own READMEs with their generation and revie
 ### `localization/game/` — in-game menu strings
 
 The English, Portuguese, Spanish, French, German, and Italian catalogs each contain 1,724 ID-keyed `MainUS` records. The Indonesian `id.jsonl` catalog adds 1,724 records from the supplied Indonesian bank. `proper-name-invariants.jsonl` records canonical names. These are editable text catalogs, not game-ready `MainUS.bin` files. Indonesian provenance and review status are documented in `localization/game/INDONESIAN.md`; editorial and native-speaker review remain pending.
+
+#### Runtime language file layout
+
+The expected game-relative paths are represented for every catalog locale (`en-US`, `pt-BR`, `es`, `fr`, `de`, `it`, and `id`) under `localization/game/runtime/<locale>/language/`:
+
+```text
+localization/game/runtime/<locale>/language/MainUS.bin
+localization/game/runtime/<locale>/language/fonts/Small.bin
+localization/game/runtime/<locale>/language/fonts/Big.bin
+```
+
+GitHub contains only `.gitkeep` placeholders in these folders; it does not contain the game's binary language or font assets. The editable Indonesian menu text is at `localization/game/id.jsonl`; it is not a compiled `MainUS.bin`. For Indonesian, `Small.bin` and `Big.bin` are identical to the standard game fonts. Their expected hashes and the local preparation instructions are in `localization/game/id-font-dependencies.json` and `localization/game/INDONESIAN.md`.
 
 ### `localization/launcher/` — launcher interface strings
 
