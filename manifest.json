@@ -1,0 +1,480 @@
+{
+  "manifest_version": 1,
+  "repository": "soldieg/BLACK-SUBTITLES",
+  "ref": "main",
+  "hash_algorithm": "sha256",
+  "locale_root": "language",
+  "default_locale": "en-US",
+  "distribution_scope": "downloadable_supplemental_assets",
+  "bundled_locales": [
+    {
+      "locale": "en-US",
+      "display_name": "English"
+    },
+    {
+      "locale": "es",
+      "display_name": "Español"
+    },
+    {
+      "locale": "fr",
+      "display_name": "Français"
+    },
+    {
+      "locale": "de",
+      "display_name": "Deutsch"
+    },
+    {
+      "locale": "it",
+      "display_name": "Italiano"
+    }
+  ],
+  "locales": {
+    "pt-BR": {
+      "display_name": "Português",
+      "files": [
+        {
+          "category": "game_runtime",
+          "asset_type": "original_game_menu_catalog",
+          "source_path": "localization/game/pt-BR.jsonl",
+          "destination_path": "Game/Runtime/menu/game-source.jsonl",
+          "format": "jsonl",
+          "size_bytes": 148178,
+          "sha256": "bad44eb89024a26a0f508c7a97e86341b036fdca3c254c0caf9c666fd3f20fc2"
+        },
+        {
+          "category": "game_runtime",
+          "asset_type": "recomp_menu_catalog",
+          "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/pt-BR.jsonl",
+          "destination_path": "Game/Runtime/menu/recomp.jsonl",
+          "format": "jsonl",
+          "size_bytes": 15492,
+          "sha256": "c059eda318e18290bda189b0390ea79bba0051b4b1ff0fd7341fc35ed92ca28a"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/pt-BR/03_N.srt",
+          "destination_path": "Subtitle/03_N.srt",
+          "format": "srt",
+          "size_bytes": 3159,
+          "sha256": "e156e6e607a38a71cf10e7a0c3bb3dede222b2218cfc81a8563573706c40a4bd"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/pt-BR/05_N.srt",
+          "destination_path": "Subtitle/05_N.srt",
+          "format": "srt",
+          "size_bytes": 1938,
+          "sha256": "dc88dcb01f531504ba4b3ee9635c3230b0875dcfe53fe24f632c816be183c752"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/pt-BR/07_N.srt",
+          "destination_path": "Subtitle/07_N.srt",
+          "format": "srt",
+          "size_bytes": 2939,
+          "sha256": "6433917ea1aa90bb3dba83b9af75f68924e27ca33c26abea37d4e5310d237524"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/pt-BR/09_N.srt",
+          "destination_path": "Subtitle/09_N.srt",
+          "format": "srt",
+          "size_bytes": 2611,
+          "sha256": "fc139670621c0ec9609d666b61a7463693ec434f44e99514e09ca26099bfdf9e"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/pt-BR/11_N.srt",
+          "destination_path": "Subtitle/11_N.srt",
+          "format": "srt",
+          "size_bytes": 2401,
+          "sha256": "bba18d287c39fe5a330fabff4356a4223071af3cf20242826789948a7787d6bc"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/pt-BR/13_N.srt",
+          "destination_path": "Subtitle/13_N.srt",
+          "format": "srt",
+          "size_bytes": 1735,
+          "sha256": "b923ec92f1cccc5c7e5c555ae09ee7324102c2f7d2cecba068ffee0e8605728e"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/pt-BR/15_N.srt",
+          "destination_path": "Subtitle/15_N.srt",
+          "format": "srt",
+          "size_bytes": 1117,
+          "sha256": "deabf59b2daf7d099a9451e054478cfb37edd6c88c96eba973bfdb8485e5d9db"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/pt-BR/17_N.srt",
+          "destination_path": "Subtitle/17_N.srt",
+          "format": "srt",
+          "size_bytes": 397,
+          "sha256": "2392c4ec1da0fddc1f1fd6c14f21bb33c0d85df190e6a1533b34625467d514f1"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/pt-BR/18_N.srt",
+          "destination_path": "Subtitle/18_N.srt",
+          "format": "srt",
+          "size_bytes": 2276,
+          "sha256": "2a66d1e0d7d23feb3fb11721485883e1a6930aeb5f632d714af84f75f9545de7"
+        },
+        {
+          "category": "gameplay",
+          "asset_type": "gameplay_voice_catalog",
+          "source_path": "localization/gameplay/large-v3-review-20261011/pt-BR.jsonl",
+          "destination_path": "Gameplay/gameplay.jsonl",
+          "format": "jsonl",
+          "size_bytes": 5384501,
+          "sha256": "203efeded4b48a9f6ddea99575ae001ce72acdc07ecd7a3dcd0fb234c5973edb",
+          "review_note": "AI-assisted transcript/translation candidates; direct audio confirmation and native-speaker review remain pending. Timestamps are clip-relative; this catalog is not integrated into the game runtime."
+        }
+      ]
+    },
+    "id": {
+      "display_name": "Bahasa Indonesia",
+      "files": [
+        {
+          "category": "game_runtime",
+          "asset_type": "original_game_menu_catalog",
+          "source_path": "localization/game/id.jsonl",
+          "destination_path": "Game/Runtime/menu/game-source.jsonl",
+          "format": "jsonl",
+          "size_bytes": 184386,
+          "sha256": "ee6795e5b5d56e8713f90232ca3b8f2a0d68a00da648434f9733671fb1a7bf71"
+        },
+        {
+          "category": "game_runtime",
+          "asset_type": "recomp_menu_catalog",
+          "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/id.jsonl",
+          "destination_path": "Game/Runtime/menu/recomp.jsonl",
+          "format": "jsonl",
+          "size_bytes": 15383,
+          "sha256": "0a9c57abc1308602e11a7288cfa686c5dd033fec1774d48f2dd70b9c24fee9e1"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/id/03_N.srt",
+          "destination_path": "Subtitle/03_N.srt",
+          "format": "srt",
+          "size_bytes": 3110,
+          "sha256": "15a29995461966380e7cb9356069539762ba618ce02daeeaf807d685e31fb1bf"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/id/05_N.srt",
+          "destination_path": "Subtitle/05_N.srt",
+          "format": "srt",
+          "size_bytes": 1879,
+          "sha256": "fbd333031ecbcec922a46451b2171b6e72bb58bf86fd840e64597bd39a11d2d6"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/id/07_N.srt",
+          "destination_path": "Subtitle/07_N.srt",
+          "format": "srt",
+          "size_bytes": 2821,
+          "sha256": "88fb89d359cbe1ee221bea48de1642e610c61b05b9d611cc3af54f1fd7e4811c"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/id/09_N.srt",
+          "destination_path": "Subtitle/09_N.srt",
+          "format": "srt",
+          "size_bytes": 2459,
+          "sha256": "46873c16f9a2e3cfc26f406740d322250d36ef83f2994b20f498cce995dd9029"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/id/11_N.srt",
+          "destination_path": "Subtitle/11_N.srt",
+          "format": "srt",
+          "size_bytes": 2417,
+          "sha256": "1343d0f628f1cee4c9b10007eb22029ace782c04851cca60f3cd3c6529954f1f"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/id/13_N.srt",
+          "destination_path": "Subtitle/13_N.srt",
+          "format": "srt",
+          "size_bytes": 1725,
+          "sha256": "f0a8771b6193926126ddef4f4b177c15a53e3b5e176fb96b1a8ef86d91fe106d"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/id/15_N.srt",
+          "destination_path": "Subtitle/15_N.srt",
+          "format": "srt",
+          "size_bytes": 1053,
+          "sha256": "0e23cf7e1a5a1c20bb23a35a14ffa647f8e2224d32dba01a3c756ec2ee677182"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/id/17_N.srt",
+          "destination_path": "Subtitle/17_N.srt",
+          "format": "srt",
+          "size_bytes": 370,
+          "sha256": "68a10b930428f04000058d9f0f50bbab37244d6bbd97304434279d6d9182ca05"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/id/18_N.srt",
+          "destination_path": "Subtitle/18_N.srt",
+          "format": "srt",
+          "size_bytes": 2106,
+          "sha256": "36e1b4cda9a2bf28cfba9f0d5b45a4fdd9da5229d4d9a9867f8212c16d644d03"
+        },
+        {
+          "category": "game_runtime",
+          "asset_type": "font_dependency",
+          "source_path": "localization/game/runtime/id/language/fonts/Big.bin",
+          "destination_path": "Game/Runtime/language/fonts/Big.bin",
+          "format": "bin",
+          "size_bytes": 72832,
+          "sha256": "119ede7ec211ddebde76b46e4dcbea86e486f1b13549fc1fe58ecb5ed59611c5"
+        },
+        {
+          "category": "game_runtime",
+          "asset_type": "font_dependency",
+          "source_path": "localization/game/runtime/id/language/fonts/Small.bin",
+          "destination_path": "Game/Runtime/language/fonts/Small.bin",
+          "format": "bin",
+          "size_bytes": 40448,
+          "sha256": "f194f96f9389ba7f4cb126ac02e2f619f27df0339ab97df6fe7a740e5a1fca35"
+        }
+      ],
+      "pending_assets": [
+        {
+          "category": "gameplay",
+          "asset_type": "gameplay_voice_catalog",
+          "status": "not_published",
+          "note": "No gameplay voice catalog for this locale is published yet."
+        }
+      ]
+    },
+    "ru": {
+      "display_name": "Русский",
+      "files": [
+        {
+          "category": "game_runtime",
+          "asset_type": "recomp_menu_catalog",
+          "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/ru.jsonl",
+          "destination_path": "Game/Runtime/menu/recomp.jsonl",
+          "format": "jsonl",
+          "size_bytes": 16790,
+          "sha256": "f545c925aaefa86554698145b98ae85345585989fe5dbbd3f1b9734c01a34200"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/ru/03_N.srt",
+          "destination_path": "Subtitle/03_N.srt",
+          "format": "srt",
+          "size_bytes": 4469,
+          "sha256": "c63df6907ff71518ff4701e7bf66523a71e870960f90eb4d7222ec7ebe58bf00"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/ru/05_N.srt",
+          "destination_path": "Subtitle/05_N.srt",
+          "format": "srt",
+          "size_bytes": 2509,
+          "sha256": "077d123b1e5377430e84f4467ebf34b3d04d8f65515953d67a21ecaaac028fcd"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/ru/07_N.srt",
+          "destination_path": "Subtitle/07_N.srt",
+          "format": "srt",
+          "size_bytes": 4281,
+          "sha256": "7dec4076bfccfd3a42ed90524f753dbf3b8217a56d27b32cb548086f5bc1fdc9"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/ru/09_N.srt",
+          "destination_path": "Subtitle/09_N.srt",
+          "format": "srt",
+          "size_bytes": 3829,
+          "sha256": "8c0fa15bb77bb43681beabd9be6b182a071821cf4c2a07793e850a5098f0b1c4"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/ru/11_N.srt",
+          "destination_path": "Subtitle/11_N.srt",
+          "format": "srt",
+          "size_bytes": 3484,
+          "sha256": "6a6d17282cbae30dab75bf3cb36614e718711712ef07f111d6be88a5f9d692dc"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/ru/13_N.srt",
+          "destination_path": "Subtitle/13_N.srt",
+          "format": "srt",
+          "size_bytes": 2417,
+          "sha256": "9e7416d7dadc05a0c79e1db5532656c7c4c16be65afb08f76cb2daecf400826d"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/ru/15_N.srt",
+          "destination_path": "Subtitle/15_N.srt",
+          "format": "srt",
+          "size_bytes": 1528,
+          "sha256": "1fd68cd609b2691f85e26d550c88c47e48bbbc17ab3836e14466c219db5dcd7d"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/ru/17_N.srt",
+          "destination_path": "Subtitle/17_N.srt",
+          "format": "srt",
+          "size_bytes": 529,
+          "sha256": "cb9a4bfb639f2879d0209bda648e19111bf323b53f848a99ea4c84b923b32694"
+        },
+        {
+          "category": "subtitle",
+          "asset_type": "cutscene_subtitle",
+          "source_path": "subtitles/ru/18_N.srt",
+          "destination_path": "Subtitle/18_N.srt",
+          "format": "srt",
+          "size_bytes": 2907,
+          "sha256": "239e31416ca447229910a96d019fd9408294c202e3d3059a53c42dc410fa7022"
+        },
+        {
+          "category": "game_runtime",
+          "asset_type": "font_dependency",
+          "source_path": "localization/game/runtime/ru/language/fonts/Big.bin",
+          "destination_path": "Game/Runtime/language/fonts/Big.bin",
+          "format": "bin",
+          "size_bytes": 72832,
+          "sha256": "73d8872cfffc3b2c6026ef89b9b015df70d442548656b28900bfacfbc1cd4ecd"
+        },
+        {
+          "category": "game_runtime",
+          "asset_type": "font_dependency",
+          "source_path": "localization/game/runtime/ru/language/fonts/Small.bin",
+          "destination_path": "Game/Runtime/language/fonts/Small.bin",
+          "format": "bin",
+          "size_bytes": 40448,
+          "sha256": "de383f6eb7ff2ea80374255e6212d9455cc7c62e6a367accbeecdfed72301c90"
+        }
+      ],
+      "pending_assets": [
+        {
+          "category": "game_runtime",
+          "asset_type": "original_game_menu_catalog",
+          "status": "not_published",
+          "note": "The Russian MainUK.bin text/font glyph mapping has not been decoded into a verified text catalog."
+        },
+        {
+          "category": "gameplay",
+          "asset_type": "gameplay_voice_catalog",
+          "status": "not_published",
+          "note": "No gameplay voice catalog for this locale is published yet."
+        }
+      ]
+    },
+    "en-US": {
+      "display_name": "English",
+      "files": [
+        {
+          "category": "gameplay",
+          "asset_type": "gameplay_voice_catalog",
+          "source_path": "localization/gameplay/large-v3-review-20261011/en-US.jsonl",
+          "destination_path": "Gameplay/gameplay.jsonl",
+          "format": "jsonl",
+          "size_bytes": 5319087,
+          "sha256": "f858ca9b7847a6d7580d11280f9e0512461dc00f507c360bd3ed524c95021bd4",
+          "review_note": "AI-assisted transcript/translation candidates; direct audio confirmation and native-speaker review remain pending. Timestamps are clip-relative; this catalog is not integrated into the game runtime."
+        }
+      ]
+    },
+    "es": {
+      "display_name": "Español",
+      "files": [
+        {
+          "category": "gameplay",
+          "asset_type": "gameplay_voice_catalog",
+          "source_path": "localization/gameplay/large-v3-review-20261011/es.jsonl",
+          "destination_path": "Gameplay/gameplay.jsonl",
+          "format": "jsonl",
+          "size_bytes": 5379793,
+          "sha256": "d648127b74692fa5e3909f9fc4fabd49bb111a1ed827c75859bc591b61c04da2",
+          "review_note": "AI-assisted transcript/translation candidates; direct audio confirmation and native-speaker review remain pending. Timestamps are clip-relative; this catalog is not integrated into the game runtime."
+        }
+      ]
+    },
+    "fr": {
+      "display_name": "Français",
+      "files": [
+        {
+          "category": "gameplay",
+          "asset_type": "gameplay_voice_catalog",
+          "source_path": "localization/gameplay/large-v3-review-20261011/fr.jsonl",
+          "destination_path": "Gameplay/gameplay.jsonl",
+          "format": "jsonl",
+          "size_bytes": 5382171,
+          "sha256": "059617b51eb6dd2396520af957888948643137b9bf8c6a6a0fcb64321899cc3a",
+          "review_note": "AI-assisted transcript/translation candidates; direct audio confirmation and native-speaker review remain pending. Timestamps are clip-relative; this catalog is not integrated into the game runtime."
+        }
+      ]
+    },
+    "de": {
+      "display_name": "Deutsch",
+      "files": [
+        {
+          "category": "gameplay",
+          "asset_type": "gameplay_voice_catalog",
+          "source_path": "localization/gameplay/large-v3-review-20261011/de.jsonl",
+          "destination_path": "Gameplay/gameplay.jsonl",
+          "format": "jsonl",
+          "size_bytes": 5377329,
+          "sha256": "7143f14d7f18999a30e0e2478b999f181303b650f54b7c3e837bf17851f3691e",
+          "review_note": "AI-assisted transcript/translation candidates; direct audio confirmation and native-speaker review remain pending. Timestamps are clip-relative; this catalog is not integrated into the game runtime."
+        }
+      ]
+    },
+    "it": {
+      "display_name": "Italiano",
+      "files": [
+        {
+          "category": "gameplay",
+          "asset_type": "gameplay_voice_catalog",
+          "source_path": "localization/gameplay/large-v3-review-20261011/it.jsonl",
+          "destination_path": "Gameplay/gameplay.jsonl",
+          "format": "jsonl",
+          "size_bytes": 5374629,
+          "sha256": "30af515fc552d434b7fa7dbba94c5bfa42be6abbfe29ef4e216e112346d51e65",
+          "review_note": "AI-assisted transcript/translation candidates; direct audio confirmation and native-speaker review remain pending. Timestamps are clip-relative; this catalog is not integrated into the game runtime."
+        }
+      ]
+    }
+  },
+  "bundled_locale_note": "The bundled locale list describes language support already present in the original game. Supplemental gameplay caption catalogs are listed separately under locales when published."
+}
