@@ -13,7 +13,7 @@ An independent manifest audit found 3,559 unique keys, one row per expected entr
 
 ## Translation candidate set
 
-Six parallel catalogs are in `localization/gameplay/large-v3-review-20261011/`. They contain 3,330 rows each, with identical ordered IDs and no empty text. All 3,196 earlier English candidate rows map to the new audio inventory.
+The current six parallel catalogs are in this directory. They contain 3,591 rows each, with identical ordered IDs and no empty text. All 3,196 earlier English candidate rows map to the expanded audio inventory. Earlier summaries and batch notes below may describe intermediate snapshots; use the current JSONL catalogs for current counts.
 
 The builder initially accepted 2,711 voice clips as new source candidates: 2,262 labeled Russian, 447 English, one Portuguese, and one French. Batch 40 added eight exact multiword transcript agreements recovered from the earlier reject set, bringing the accepted candidate total to 2,719: 2,263 Russian, 454 English, one Portuguese, and one French. These require review; forced Russian/English hints retain the first detector's language probability so uncertain labels are visible. Argos Translate 1.11.0 generated the English pivot and the five other locale drafts. The raw ASR phrase is preserved separately in `source_audio_text`.
 

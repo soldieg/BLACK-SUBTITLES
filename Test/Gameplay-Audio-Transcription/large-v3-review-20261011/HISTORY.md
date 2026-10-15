@@ -1,3 +1,5 @@
+> Historical processing log: the batches below describe an intermediate snapshot with 3,330 rows per locale. The current catalogs contain 3,591 rows per locale; use the sibling README and current JSONL files for current counts.
+
 # Gameplay dialogue review candidates — 2026-10-11
 
 These six catalogs are a parallel review set. The existing gameplay catalogs remain unchanged. The files are not loaded by the game runtime and their clip-relative times are not gameplay synchronization times.
