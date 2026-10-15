@@ -1,5 +1,5 @@
-# Gameplay voice caption data
+# Gameplay voice-caption data
 
-This folder contains two versions of the gameplay dialogue candidate catalogs. The six top-level JSONL files contain 3,196 rows per locale (`en-US`, `pt-BR`, `es`, `fr`, `de`, `it`). The later `large-v3-review-20261011/` set contains 3,591 rows per locale and additional source-language, ASR, and editorial-review evidence.
+Two snapshots are retained. The six top-level locale catalogs are the earlier 3,196-row candidate set. `large-v3-review-20261011/` is the current detailed six-locale set with 3,591 records per language and an AI editorial correction log.
 
-The later set is the more detailed review corpus, but neither set is a final, synchronized gameplay subtitle package. Text is candidate transcription and AI-assisted translation; audio confirmation, source-language resolution, and native-speaker review remain pending as recorded on each row. The clip-relative timestamps are not mission time. The game does not load these catalogs, and the source audio is not included.
+Transcription and translation statuses are recorded per row. AI/ASR processing does not count as direct audio confirmation or native-speaker review. The catalogs are not final synchronized gameplay subtitles, contain clip-relative timestamps, include no audio, and are not loaded by the game runtime. See the detailed set README and audit for provenance.
