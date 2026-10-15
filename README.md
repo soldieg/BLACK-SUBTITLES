@@ -8,7 +8,7 @@ Reusable subtitle and localization source data for **BLACK (2006)**. This reposi
 ## Repository layout
 
 - `Subtitles/`: the 72 primary cutscene SRTs, grouped by locale (`en`, `pt-BR`, `es`, `fr`, `de`, `it`, `id`, `ru`). These are the primary caption tracks, not the experimental audio-sync outputs.
-- `Localization/Menu/`: original game menu catalogs and source/review notes. Six stable-ID catalogs contain 1,724 rows; Indonesian source records are retained without invented IDs. There is no verified Russian original-bank catalog yet.
+- `Localization/Menu/`: original game menu catalogs and source notes. Translation rows keep only their identifier and text; Indonesian source records are retained without invented IDs.
 - `Localization/Fonts/`: runtime font dependencies and their locale-specific layout (`de`, `id`, `ru`).
 - `Launcher/`: 292 keyed launcher strings per available locale.
 - `Test/Audio-Sync/`: separate ASR candidate and retimed candidate sets. They are experimental and must not replace primary subtitle files without review.
@@ -22,7 +22,7 @@ Reusable subtitle and localization source data for **BLACK (2006)**. This reposi
 
 Primary cutscene subtitles have nine tracks per each of eight locales (72 SRTs total). English tracks are under `Subtitles/en/`. Per-locale READMEs document editorial work and remaining audio/native-speaker review; AI review is not human confirmation.
 
-Original game-menu catalogs are available in English, Portuguese, Spanish, French, German, Italian, and Indonesian. The Russian Recomp-specific menu catalog is separate; Russian original-menu text remains unpublished because the `MainUK.bin` glyph mapping has not been verified. Indonesian and Russian font files are included under `Localization/Fonts/`.
+Original game-menu catalogs are available in English, Portuguese, Spanish, French, German, Italian, and Indonesian. The XBERecomp Russian catalog includes records from `MainUK.bin` in the game’s byte-preserving glyph representation; the mapping is not yet decoded as Unicode prose. Its Russian fonts are included under `Localization/Fonts/`.
 
 Gameplay voice catalogs remain experimental: six locales have 3,591 rows each in the detailed set, and human audio confirmation/native review remain pending per row. PT-BR gameplay is retained for research but intentionally omitted from the locale download entries in `manifest.json`.
 
@@ -34,12 +34,14 @@ The extracted WAVs used for analysis are local work products and are not include
 
 ## Manifest behavior
 
-`manifest.json` is an inventory of actual repository assets. Locale `files` list supplemental localization materials; research data is marked `test_only` and remains separate from runtime-ready content. Its presence does not imply that a game or launcher runtime already loads that asset type.
+`manifest.json` is an inventory of actual repository assets. Locale `files` list supplemental localization materials; research data is marked `test_only` and remains separate from runtime-ready content. Its presence does not imply that a game or launcher runtime already loads that asset type. The generated `directory_tree` mirrors the repository's nested asset folders and shows each file's SHA-256, size, locale, and catalog status. Files not yet assigned to a locale list appear as `not_in_locale_catalog`; they are indexed for review but are not made downloadable by that status alone.
+
+The GitHub Action **Refresh localization manifest** regenerates the folder tree, asset hashes, sizes, and `SOURCE-SHA256SUMS.txt` after pushes that touch localization data. Pull requests run the same generator in check-only mode and fail if the generated metadata is stale. To update it locally, run `python Tools/update_manifest.py`; use `python Tools/update_manifest.py --check` to verify without writing files. New files are detected and shown in the generated tree, but still need an explicit locale/category entry before they become part of a downloadable locale package.
 
 ## Formats
 
 - Cutscene captions: SubRip (`.srt`).
-- Menus, launcher, and gameplay catalogs: UTF-8 JSON Lines (`.jsonl`).
+- Menus, launcher, and gameplay catalogs: UTF-8 JSON Lines (`.jsonl`) with identifiers and text. The bilingual launcher source also retains its Portuguese text column.
 - Alignment and review data: CSV/JSON.
 
 The repository contains localization text and metadata plus documented font dependencies. It does not contain the game, executable, cutscene videos, or extracted audio.
