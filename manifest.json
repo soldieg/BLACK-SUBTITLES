@@ -5,7 +5,7 @@
   "hash_algorithm": "sha256",
   "locale_root": "language",
   "default_locale": "en-US",
-  "distribution_scope": "additional_locales_only",
+  "distribution_scope": "downloadable_supplemental_assets",
   "bundled_locales": [
     {
       "locale": "en-US",
@@ -139,7 +139,7 @@
           "format": "jsonl",
           "size_bytes": 5384501,
           "sha256": "203efeded4b48a9f6ddea99575ae001ce72acdc07ecd7a3dcd0fb234c5973edb",
-          "review_note": "AI-assisted transcript/translation candidates; audio confirmation and native-speaker review remain pending. Timestamps are clip-relative; this catalog is not integrated into the game runtime."
+          "review_note": "AI-assisted transcript/translation candidates; direct audio confirmation and native-speaker review remain pending. Timestamps are clip-relative; this catalog is not integrated into the game runtime."
         }
       ]
     },
@@ -399,6 +399,82 @@
           "note": "No gameplay voice catalog for this locale is published yet."
         }
       ]
+    },
+    "en-US": {
+      "display_name": "English",
+      "files": [
+        {
+          "category": "gameplay",
+          "asset_type": "gameplay_voice_catalog",
+          "source_path": "localization/gameplay/large-v3-review-20261011/en-US.jsonl",
+          "destination_path": "Gameplay/gameplay.jsonl",
+          "format": "jsonl",
+          "size_bytes": 5319087,
+          "sha256": "f858ca9b7847a6d7580d11280f9e0512461dc00f507c360bd3ed524c95021bd4",
+          "review_note": "AI-assisted transcript/translation candidates; direct audio confirmation and native-speaker review remain pending. Timestamps are clip-relative; this catalog is not integrated into the game runtime."
+        }
+      ]
+    },
+    "es": {
+      "display_name": "Español",
+      "files": [
+        {
+          "category": "gameplay",
+          "asset_type": "gameplay_voice_catalog",
+          "source_path": "localization/gameplay/large-v3-review-20261011/es.jsonl",
+          "destination_path": "Gameplay/gameplay.jsonl",
+          "format": "jsonl",
+          "size_bytes": 5379793,
+          "sha256": "d648127b74692fa5e3909f9fc4fabd49bb111a1ed827c75859bc591b61c04da2",
+          "review_note": "AI-assisted transcript/translation candidates; direct audio confirmation and native-speaker review remain pending. Timestamps are clip-relative; this catalog is not integrated into the game runtime."
+        }
+      ]
+    },
+    "fr": {
+      "display_name": "Français",
+      "files": [
+        {
+          "category": "gameplay",
+          "asset_type": "gameplay_voice_catalog",
+          "source_path": "localization/gameplay/large-v3-review-20261011/fr.jsonl",
+          "destination_path": "Gameplay/gameplay.jsonl",
+          "format": "jsonl",
+          "size_bytes": 5382171,
+          "sha256": "059617b51eb6dd2396520af957888948643137b9bf8c6a6a0fcb64321899cc3a",
+          "review_note": "AI-assisted transcript/translation candidates; direct audio confirmation and native-speaker review remain pending. Timestamps are clip-relative; this catalog is not integrated into the game runtime."
+        }
+      ]
+    },
+    "de": {
+      "display_name": "Deutsch",
+      "files": [
+        {
+          "category": "gameplay",
+          "asset_type": "gameplay_voice_catalog",
+          "source_path": "localization/gameplay/large-v3-review-20261011/de.jsonl",
+          "destination_path": "Gameplay/gameplay.jsonl",
+          "format": "jsonl",
+          "size_bytes": 5377329,
+          "sha256": "7143f14d7f18999a30e0e2478b999f181303b650f54b7c3e837bf17851f3691e",
+          "review_note": "AI-assisted transcript/translation candidates; direct audio confirmation and native-speaker review remain pending. Timestamps are clip-relative; this catalog is not integrated into the game runtime."
+        }
+      ]
+    },
+    "it": {
+      "display_name": "Italiano",
+      "files": [
+        {
+          "category": "gameplay",
+          "asset_type": "gameplay_voice_catalog",
+          "source_path": "localization/gameplay/large-v3-review-20261011/it.jsonl",
+          "destination_path": "Gameplay/gameplay.jsonl",
+          "format": "jsonl",
+          "size_bytes": 5374629,
+          "sha256": "30af515fc552d434b7fa7dbba94c5bfa42be6abbfe29ef4e216e112346d51e65",
+          "review_note": "AI-assisted transcript/translation candidates; direct audio confirmation and native-speaker review remain pending. Timestamps are clip-relative; this catalog is not integrated into the game runtime."
+        }
+      ]
     }
-  }
+  },
+  "bundled_locale_note": "The bundled locale list describes language support already present in the original game. Supplemental gameplay caption catalogs are listed separately under locales when published."
 }
