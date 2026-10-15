@@ -1,9 +1,8 @@
-# Recompilation menu translations
+# BLACK-XBERecomp menu localization hub
 
-This folder contains Portuguese (Brazil), Indonesian, and Russian translations for the text added by the BLACK XBE Recomp settings pages and in-game recompilation panel.
+This folder collects the menu text relevant to the `TGP482/BLACK-XBERecomp` fork in two separate groups:
 
-Each JSONL record uses the exact English phrase in `key` and `source_en` as its lookup key. The 90 current phrases are based on `src/common/translations.cpp` in the `soldieg/BLACK-XBERecomp` fork. The three native language names (`PORTUGUESE`, `INDONESIAN`, and `RUSSIAN`) are included for the planned expanded selector. These files are translation data only; runtime loading and language selection are separate implementation work.
+- `pt-BR.jsonl`, `id.jsonl`, and `ru.jsonl` are the 90 Recomp-specific UI strings used by that fork. Their keys match the English phrases from `src/common/translations.cpp`.
+- `original-game-menu/` mirrors the available original game-menu catalogs (`en-US`, `pt-BR`, `es`, `fr`, `de`, `it`, and `id`) from the repository's canonical [`Localization/Menu/`](../../../../Localization/Menu/) data. These contain the game's broader menu text and are kept separate because their schemas and coverage differ from the Recomp strings.
 
-`pt-BR.jsonl`, `id.jsonl`, and `ru.jsonl` contain only these three requested locales. Existing French, German, Italian, and Spanish translations remain in the recompilation source and are not duplicated here. English phrases are the source of truth. Existing game menu catalogs can inform terminology, but their Main-bank records are not interchangeable with recompilation-specific UI strings.
-
-All three catalogs are AI-authored drafts and require human/native-speaker review. Russian strings are translated from English; the supplied Russian MainUK bank's special glyph mapping has not been decoded and was not used as a verified text source. Indonesian and Russian font/runtime dependencies are documented separately under `localization/game/`.
+No verified Russian original-game menu catalog is included: the `MainUK.bin` glyph mapping has not been decoded. The Russian Recomp-specific 90-string catalog is available above. These JSONL files are source data; runtime language switching/loading is separate work. Review states and source provenance remain in the canonical catalog READMEs.

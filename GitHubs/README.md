@@ -1,5 +1,5 @@
 # Translation material grouped by GitHub project
 
-Translation data is organized by the target repository so source material for one fork stays separate from other GitHub projects.
+Translation data is organized by target repository so each fork's source and menu additions stay clearly scoped.
 
-- `BLACK-XBERecomp/`: menu translations for text added by the BLACK XBE Recomp settings pages and recompilation panel.
+- `BLACK-XBERecomp/localization/recomp-menu/`: Recomp-specific menu translations plus mirrors of the available original game-menu catalogs in `original-game-menu/`.

@@ -3,52 +3,43 @@
 > [!IMPORTANT]
 > **Found an error in any translation?** [Open an Issue](https://github.com/soldieg/BLACK-SUBTITLES/issues/new) so it can be reviewed and corrected.
 
-An unofficial, reusable collection of subtitle and localization data for **BLACK (2006)**. The files use open formats so they can be adapted to different players, tools, and projects. This repository is not affiliated with Electronic Arts.
+Reusable subtitle and localization source data for **BLACK (2006)**. This repository is not affiliated with Electronic Arts.
 
-## Current snapshot
+## Repository layout
 
-Updated from the latest local Build Legendas material on 2026-10-15. Six ID-keyed menu catalogs were refreshed from their corresponding original `Main*.bin` language banks (1,724 records each); Indonesian and Russian materials without stable IDs were retained from their existing source files. The current gameplay review set has 3,591 rows in each of six locales, plus a 774-record AI editorial correction log. The primary cutscene set contains 9 tracks for each of eight language directories (English, Portuguese, Spanish, French, German, Italian, Indonesian, and Russian): 72 SRT files total. Existing Indonesian and Russian SRTs were preserved byte-for-byte.
+- `Subtitles/`: the 72 primary cutscene SRTs, grouped by locale (`en`, `pt-BR`, `es`, `fr`, `de`, `it`, `id`, `ru`). These are the primary caption tracks, not the experimental audio-sync outputs.
+- `Localization/Menu/`: original game menu catalogs and source/review notes. Six stable-ID catalogs contain 1,724 rows; Indonesian source records are retained without invented IDs. There is no verified Russian original-bank catalog yet.
+- `Localization/Fonts/`: runtime font dependencies and their locale-specific layout (`de`, `id`, `ru`).
+- `Launcher/`: 292 keyed launcher strings per available locale.
+- `Test/Audio-Sync/`: separate ASR candidate and retimed candidate sets. They are experimental and must not replace primary subtitle files without review.
+- `Test/Gameplay-Audio-Transcription/`: current 3,591-row-per-locale analysis and the earlier 3,196-row snapshot. These are research catalogs, not runtime-ready subtitles.
+- `GitHubs/BLACK-XBERecomp/`: translations specific to the Recomp menu plus mirrors of the available original game-menu catalogs for that fork.
+- `Tools/`: helper scripts.
+- `manifest.json`: locale-indexed inventory with file paths, sizes, SHA-256 hashes, and explicit test-only assets.
+- `SOURCE-SHA256SUMS.txt`: checksums for source text and subtitle files.
 
-“Reviewed” distinguishes source-backed or AI-editorial work from pending human checks. Gameplay text still has audio and/or native review pending as indicated per row; AI review is not human confirmation. Cutscene text retains uncertainty and review caveats in its language READMEs.
+## Language coverage and review state
 
-## Languages and contents
+Primary cutscene subtitles have nine tracks per each of eight locales (72 SRTs total). English tracks are under `Subtitles/en/`. Per-locale READMEs document editorial work and remaining audio/native-speaker review; AI review is not human confirmation.
 
-| Area | Languages / count | Source and state |
-| --- | --- | --- |
-| Cutscene subtitles | 9 SRTs each: en, pt-BR, es, fr, de, it, id, ru | Existing tracks; native/audio review status is documented per locale. |
-| Game menu | 1,724 IDs each: en-US, pt-BR, es, fr, de, it | Exported from corresponding original `Main*.bin` banks; PT-BR uses corrected ID alignment. |
-| Indonesian menu | 1,724 existing records | Preserved source catalog; no IDs are invented. |
-| Launcher | en/pt-BR, es, fr, de, it, id | 292 keyed UI entries; Indonesian review state is documented. |
-| Gameplay voice candidates | 3,591 rows each: en-US, pt-BR, es, fr, de, it | Detailed ASR and AI editorial set; audio/native checks remain pending as recorded per row. |
+Original game-menu catalogs are available in English, Portuguese, Spanish, French, German, Italian, and Indonesian. The Russian Recomp-specific menu catalog is separate; Russian original-menu text remains unpublished because the `MainUK.bin` glyph mapping has not been verified. Indonesian and Russian font files are included under `Localization/Fonts/`.
 
-## Folder guide
+Gameplay voice catalogs remain experimental: six locales have 3,591 rows each in the detailed set, and human audio confirmation/native review remain pending per row. PT-BR gameplay is retained for research but intentionally omitted from the locale download entries in `manifest.json`.
 
-- `subtitles/`: primary cutscene SRTs by locale, plus separate ASR/timing experiments.
-- `localization/game/`: ID-keyed menu catalogs, Indonesian no-ID source, source notes, runtime font layout, and prior editorial catalogs for comparison.
-- `localization/launcher/`: launcher interface catalogs.
-- `localization/gameplay/`: earlier candidate set and detailed 3,591-row review set with row-level provenance.
-- `tools/`: helper scripts for local preparation and validation.
-- `SOURCE-SHA256SUMS.txt`: checksums for distributed `.srt`, `.csv`, `.jsonl`, and `.json` files. Binary game fonts are identified by hashes in `localization/game/id-font-dependencies.json`.
+## Audio-sync experiments and provenance
 
-## Game menu banks and runtime fonts
+`Test/Audio-Sync/asr-candidates-20261011/` contains 44 SRT candidates, generated from language-specific speech-stream WAVs. `Test/Audio-Sync/retimed-candidates-20261011/` contains 54 experimental files. The 44 tracks present in both sets differ in both text and timing; the retimed set also has ten additional files. Neither set is a verified replacement for `Subtitles/`.
 
-The six language banks were exported into open JSONL for comparison and editing. See [`localization/game/MAIN-BANK-SOURCES.md`](localization/game/MAIN-BANK-SOURCES.md) for source filenames and the Portuguese alignment note. Indonesian and Russian source materials without stable IDs remain in their existing files; no artificial IDs are assigned. Indonesian `Small.bin` and `Big.bin` runtime fonts are included under `localization/game/runtime/id/language/fonts/` and verified identical to the standard game fonts. Text catalogs remain source data and are not compiled game-ready banks.
+The extracted WAVs used for analysis are local work products and are not included here. The experiment READMEs and index CSVs preserve the available stream mapping and processing provenance.
 
-## Subtitle notes
+## Manifest behavior
 
-The primary cutscene tracks use SubRip (`.srt`) and are organized by locale and video stem. Videos without dialogue intentionally have no track. Translation and speaker labels may have AI/editorial review, while native-speaker review and full cue-by-cue audio verification can remain pending; consult each locale README.
+`manifest.json` is an inventory of actual repository assets. Locale `files` list supplemental localization materials; research data is marked `test_only` and remains separate from runtime-ready content. Its presence does not imply that a game or launcher runtime already loads that asset type.
 
-Experimental sets in `subtitles/audio-sync-candidates-20261011/` and `subtitles/audio-sync-retimed-20261011/` contain ASR and timing candidates. They are experiments and should not replace the primary tracks without review. Their READMEs document stream-specific caveats.
-
-## Gameplay review notes
-
-The detailed gameplay catalogs contain clip-relative timestamps, source/audio identifiers, ASR evidence, translations, and row-level review states. They are not synchronized to mission time, are not wired into the game, and do not include extracted audio. A language label or agreement between ASR models is not proof of what was spoken. Read `localization/gameplay/large-v3-review-20261011/README.md` and `AUDIT.md` before treating any candidate as confirmed.
-
-## Formats and reuse
+## Formats
 
 - Cutscene captions: SubRip (`.srt`).
-- Menu, launcher, and gameplay catalogs: UTF-8 JSON Lines (`.jsonl`), one record per line.
-- Alignment/audit tables: CSV.
-- Preserve IDs, ordering, provenance, and review-status fields when adapting catalogs.
+- Menus, launcher, and gameplay catalogs: UTF-8 JSON Lines (`.jsonl`).
+- Alignment and review data: CSV/JSON.
 
-The repository contains localization text and metadata plus the explicitly documented Indonesian font files. It does not contain the game, executable, videos, or extracted audio.
+The repository contains localization text and metadata plus documented font dependencies. It does not contain the game, executable, cutscene videos, or extracted audio.

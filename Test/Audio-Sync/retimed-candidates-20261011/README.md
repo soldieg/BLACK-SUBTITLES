@@ -1,6 +1,6 @@
 # Cutscene audio alignment candidates — 2026-10-11
 
-These 54 SRT files are experimental timing candidates generated from the extracted localized cutscene voice streams. They are kept separate from the runtime tracks in the parent `subtitles/` folders. The report is `alignment-review.csv` and has one row per cue, including the chosen audio language, match score, and whether the cue was aligned or fell back to another timing.
+These 54 SRT files are experimental timing candidates generated from the extracted localized cutscene voice streams. They are kept separate from the runtime tracks in the parent `Subtitles/` folders. The report is `alignment-review.csv` and has one row per cue, including the chosen audio language, match score, and whether the cue was aligned or fell back to another timing.
 
 The existing game assets contain speech streams associated with English, Spanish, French, German, and Italian. The script aligned translated SRT words against automatic word transcripts for each available language; where the lexical match was weak, it retained the corresponding English cue timing. The Brazilian Portuguese track uses English audio timing because no pt-BR cutscene voice stream was identified.
 
