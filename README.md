@@ -14,15 +14,15 @@ This repository contains text and metadata only. It does not contain the game, e
 | French | `fr` | 9 tracks | Available | Available | Candidate translations |
 | German | `de` | 9 tracks | Available | Available | Candidate translations |
 | Italian | `it` | 9 tracks | Available | Available | Candidate translations |
-| Indonesian | `id` | Not available | Available | Not available | Not available |
+| Indonesian | `id` | 9 tracks | Available | Available | Not available |
 
-The Indonesian menu catalog is a text-only export of the supplied `MainUS.bin`. It preserves source IDs and order but is not independently reviewed. No Indonesian cutscene, launcher, or gameplay caption catalog is included in this snapshot.
+The Indonesian menu catalog is a text-only export of the supplied `MainUS.bin`. It preserves source IDs and order but is not independently reviewed. Indonesian cutscene captions and launcher strings are AI-reviewed drafts; native-speaker review remains pending. No Indonesian gameplay caption catalog is included in this snapshot.
 
 ## Contents
 
 ### `subtitles/` — cutscene SRT files
 
-The primary set has nine spoken video stems in all six languages: `03_N`, `05_N`, `07_N`, `09_N`, `11_N`, `13_N`, `15_N`, `17_N`, and `18_N` (54 SRT files). English files are directly under `subtitles/`; other languages use locale subfolders. Videos without dialogue, such as `AK_N` and `MP5_N`, intentionally have no track.
+The primary set has nine spoken video stems in English and six translated languages: `03_N`, `05_N`, `07_N`, `09_N`, `11_N`, `13_N`, `15_N`, `17_N`, and `18_N` (63 SRT files). English files are directly under `subtitles/`; other languages use locale subfolders. Videos without dialogue, such as `AK_N` and `MP5_N`, intentionally have no track.
 
 The dialogue tracks include localized speaker labels. Translation and speaker attribution have received AI/editorial review, but native-speaker review and complete cue-by-cue audio verification remain pending. English source passages also contain uncertain wording. The SRTs are usable as editable caption files; inclusion here does not certify official wording or final synchronization.
 
@@ -39,7 +39,7 @@ The English, Portuguese, Spanish, French, German, and Italian catalogs each cont
 
 ### `localization/launcher/` — launcher interface strings
 
-The English/Portuguese source catalog and Spanish, French, German, and Italian catalogs contain 292 keyed UI entries. Locale catalogs are intended as source data for a launcher; they are not a launcher executable. Native-speaker review remains pending.
+The English/Portuguese source catalog and Spanish, French, German, Italian, and Indonesian catalogs contain 292 keyed UI entries. Indonesian received an AI editorial pass; native-speaker review remains pending. Locale catalogs are source data for a launcher, not launcher executables.
 
 ### `localization/gameplay/` — voice-caption candidates
 
