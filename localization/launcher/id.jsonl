@@ -1,0 +1,292 @@
+{"id":"0000","text":"Tampilan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0001","text":"Grafik","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0002","text":"Input","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0003","text":"Permainan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0004","text":"BLACK | Peluncur PC","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0005","text":"BLACK  /  DIBANGUN ULANG UNTUK PC","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0006","text":"Build pengembangan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0007","text":"Game ini dapat dimainkan dengan keyboard, mouse, dan kontroler.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0008","text":"Resolusi keluaran","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0009","text":"Mode jendela","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0010","text":"Berjendela","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0011","text":"Tanpa bingkai","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0012","text":"Layar penuh","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0013","text":"Resolusi internal","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0014","text":"Penskalaan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0015","text":"Sesuaikan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0016","text":"Regangkan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0017","text":"Bilangan bulat","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0018","text":"Filter penskalaan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0019","text":"Halus","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0020","text":"Tajam","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0021","text":"Sinkronisasi vertikal","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0022","text":"Batas FPS","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0023","text":"Rasio aspek kamera","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0024","text":"Asli","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0025","text":"Buram gerak","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0026","text":"Bidang pandang vertikal","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0027","text":"Pertahankan bidang pandang asli BLACK dan zoom bidikan. Hapus centang untuk memilih sudut vertikal dalam derajat.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0028","text":"Sudut bidang pandang vertikal dalam derajat. Nilai yang lebih tinggi menampilkan lebih banyak area di atas dan bawah; rasio gambar menentukan lebar pandangan.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0029","text":"Mengatur cara gambar menyesuaikan diri dengan ukuran jendela atau video. Pertahankan rasio gambar akan menambahkan bilah pembatas; Regangkan akan memenuhi jendela.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0030","text":"Ukuran jendela game saat mode berjendela. Ukuran khusus yang tersimpan akan tetap dipilih.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0031","text":"Jumlah garis yang dirender game; lebarnya mengikuti rasio gambar kamera, lalu gambar diskalakan ke jendela. Resolusi lebih tinggi lebih tajam tetapi lebih lambat. Halaman Pengaturan Video di game (Opsi) juga mengubahnya.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0032","text":"Penskalaan dan filter bekerja secara terpisah. Halus mencampur piksel di sekitarnya; Tajam mempertahankan tepi piksel yang jelas.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0033","text":"Membatasi pembaruan tampilan. Ini tidak mengubah kecepatan simulasi game.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0034","text":"Mengubah seberapa lebar pandangan kamera. Resolusi mengatur detail gambar; bidang pandang mengatur sudut vertikalnya.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0035","text":"Anti-aliasing","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0036","text":"Anisotropik","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0037","text":"Kedalaman bidang","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0038","text":"Penajaman","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0039","text":"Oklusi ambien","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0040","text":"Kualitas AO","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0041","text":"Mati","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0042","text":"Rendah","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0043","text":"Sedang","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0044","text":"Tinggi","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0045","text":"Ultra","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0046","text":"FXAA","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0047","text":"SSAA 4x","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0048","text":"SSAO Klasik","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0049","text":"Efek dari perender GPU, diterapkan pada gambar sebelum HUD. Halaman Pengaturan Video di game","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0050","text":"(Opsi > V) dapat mengubahnya saat bermain. Resolusi internal ada di tab Tampilan.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0051","text":"FXAA menghaluskan tepi bergerigi dengan biaya kinerja yang hampir tidak terasa. SSAA 4x merender gambar dengan lebar dan tinggi dua kali lipat lalu mengecilkannya: hasil paling bersih sekaligus paling berat. Memerlukan perender GPU.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0052","text":"Menjaga tekstur di lantai dan dinding tetap tajam saat terlihat dari sudut miring. Biayanya hampir tidak terasa. Memerlukan perender GPU.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0053","text":"Memburamkan latar di belakang titik yang Anda lihat; senjata dan HUD tetap tajam. Memerlukan perender GPU.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0054","text":"Mengembalikan detail halus yang dilembutkan oleh filter dan penskalaan. Memerlukan perender GPU.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0055","text":"Oklusi ambien menambahkan bayangan kontak dengan menggunakan kedalaman adegan. Pilih SSAO Klasik, HBAO, HBAO+, atau GTAO. Memerlukan perender GPU.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0056","text":"Kualitas yang lebih tinggi meningkatkan kepadatan sampel dan radius AO, sehingga beban GPU bertambah. Semua tingkat menggunakan resolusi adegan dan blur yang mempertimbangkan kedalaman. Pilih metode AO untuk mengaktifkan efek.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0057","text":"Mode kontroler saja mengabaikan keyboard dan mouse di game; mode keyboard dan mouse saja mengabaikan kontroler.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0058","text":"Input mouse mentah, tanpa akselerasi. Nilai 1,00 setara dengan 0,06 derajat per hitungan mouse.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0059","text":"Seberapa sering jam game melangkah. Frame yang ditampilkan mengikuti nilai ini; 240 memerlukan PC cepat dan layar 240 Hz.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0060","text":"Merender game pada kartu grafis, yang mempertahankan 60 FPS pada 3440x1440. Jika dimatikan, perender CPU jauh lebih lambat pada resolusi tinggi.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0061","text":"Mempercepat jam game agar setiap frame yang ditampilkan juga merupakan frame simulasi. Jika dimatikan, jam tetap pada 30 Hz seperti versi asli.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0062","text":"Bahasa menu game","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0063","text":"Bahasa menu","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0064","text":"Memilih bank teks game. Launcher memasang pilihan ini sebelum setiap sesi; bahasa Inggris dipilih secara bawaan.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0065","text":"Inggris","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0066","text":"Portugis (Brasil)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0067","text":"Lewati video","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0068","text":"Majukan menu awal secara otomatis (65 detik pertama)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0069","text":"Jejak visual terperinci","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0070","text":"Frame (awal-akhir/langkah)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0071","text":"Jejak status DSP terperinci (stack GP/EP)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0072","text":"Log gambar GPU (frame,jumlah)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0073","text":"Merekam data gambar [KTRACE] terperinci di reports\\...\\visual-trace.log (maksimum 1 MB). Memerlukan CPU Kelvin; matikan perender GPU untuk diagnostik ini. Perender menyinkronkan pekerjaan selama pengumpulan, sehingga waktu frame dapat berubah. Gunakan sesi tanpa pelacakan untuk membandingkan kinerja.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0074","text":"Contoh: 120, 120-180, atau 120-240/30. Memerlukan CPU Kelvin dan dapat mengubah waktu frame; bandingkan kinerja dengan sesi normal.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0075","text":"Merekam status GP/EP, aktivitas FIFO keluaran EP, dan tingkat PCM akhir kira-kira sekali per detik di reports\\...\\audio-dsp-trace.log (maksimum 1 MB). Audio tidak disimpan; kejadian stack yang singkat mungkin terlewat.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0076","text":"Biarkan kosong untuk menonaktifkan diagnostik ini. Contoh: 2400,2 merekam maksimal 2 frame ke reports\\...\\kgpu-draw-trace.log (maksimum 1 MB). Memerlukan GPU Kelvin dan menambah beban pada frame tersebut.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0077","text":"Thread perender","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0078","text":"Pengaturan tombol...","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0079","text":"Balikkan arah pandang vertikal mouse","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0080","text":"Mode tampilan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0081","text":"Batas FPS","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0082","text":"Ukuran jendela","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0083","text":"Siap dimainkan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0084","text":"Build PC Release tidak ditemukan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0085","text":"Game sedang berjalan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0086","text":"Gagal menjalankan game","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0087","text":"Menghentikan game...","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0088","text":"Game dihentikan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0089","text":"Game ditutup","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0090","text":"Buka log","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0091","text":"Kontrol","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0092","text":"Hentikan game","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0093","text":"MAIN","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0094","text":"Laporkan kesalahan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0095","text":"Kirim laporan kesalahan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0096","text":"Jelaskan apa yang terjadi","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0097","text":"Lampirkan log yang tercantum di GitHub sebelum mengirim laporan. Gunakan Lampirkan file atau seret log ke deskripsi, lalu tinjau dan kirim.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0098","text":"Laporan GitHub dibuat dalam bahasa Inggris. Log tetap tersimpan secara lokal; tidak ada file yang dilampirkan otomatis. Tambahkan informasi lain di bagian Catatan tambahan di GitHub.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0099","text":"Log yang perlu dilampirkan dari sesi terakhir","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0100","text":"Draf Markdown disimpan secara lokal dan disalin. Launcher tidak mengunggah file.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0101","text":"Buka folder log","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0102","text":"Tidak dapat membuka folder log","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0103","text":"Lampirkan log ini:","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0104","text":"Lampirkan juga jika tersedia:","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0105","text":"Log diagnostik opsional:","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0106","text":"Folder sesi launcher tidak ditemukan.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0107","text":"Log sesi utama tidak ditemukan.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0108","text":"Informasi yang terdeteksi dari sesi terakhir","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0109","text":"Draf Markdown disimpan secara lokal dan disalin. Log tetap ada di PC ini; lampirkan secara manual jika diperlukan.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0110","text":"Siapkan laporan dan buka GitHub","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0111","text":"Jelaskan apa yang terjadi sebelum menyiapkan laporan.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0112","text":"Laporan disimpan dan disalin. Tinjau formulir laporan yang sudah terisi di GitHub, lalu klik Kirim. Jika teks di browser terpotong, laporan lengkap tersedia di clipboard.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0113","text":"Laporan siap","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0114","text":"Tidak dapat menyiapkan laporan: ","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0115","text":"# Laporan kesalahan BLACK PC","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0116","text":"## Deskripsi","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0117","text":"## Diagnostik yang terdeteksi","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0118","text":"Launcher tidak mengunggah log. Lampirkan file yang relevan melalui formulir laporan GitHub.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0119","text":"Tidak ditemukan data sesi launcher.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0120","text":"Folder sesi: ","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0121","text":"Kode keluar proses: ","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0122","text":"Waktu mulai (UTC): ","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0123","text":"Bahasa menu game: ","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0124","text":"SHA-256 berkas game executable: ","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0125","text":"SHA-256 game versi retail: ","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0126","text":"Klasifikasi: proses keluar dengan kode bukan nol.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0127","text":"Klasifikasi: tidak ditemukan kode keluar bukan nol; gejala yang dilaporkan perlu dijelaskan oleh pengguna.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0128","text":"Tidak ditemukan baris bertanda error/failure/exception di session.log.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0129","text":"Baris terbaru yang tampak seperti kesalahan dari session.log:","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0130","text":"Baris terbaru yang tampak seperti kesalahan dari kernel.log:","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0131","text":"Tidak ditemukan baris yang tampak seperti kesalahan di kernel.log.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0132","text":"File diagnostik dalam sesi ini: ","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0133","text":"Diagnostik sesi tidak dapat dibaca: ","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0134","text":"tidak ada","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0135","text":"Pengaturan tidak dapat disimpan: ","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0136","text":"Tidak dapat membuka log","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0137","text":"Kontrol BLACK PC","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0138","text":"Tutup game yang sedang berjalan sebelum memilih Main. Launcher ini dapat menghentikan sesi yang dimulainya.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0139","text":"Keyboard dan mouse siap digunakan; kontroler opsional. Proses awal dapat memakan waktu satu menit.\nSimpanan game tetap berada di folder penyimpanan lokal.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0140","text":"Pelacakan visual dapat mengubah waktu frame. Bandingkan kinerja dengan sesi normal.\nData terperinci: visual-trace.log (maks. 1 MB).","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0141","text":"Pelacakan DSP mengambil sampel GP/EP dan level PCM akhir kira-kira sekali per detik; waktu dapat sedikit bergeser.\nData terperinci: audio-dsp-trace.log (maks. 1 MB).","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0142","text":"Log gambar GPU menambah beban pada frame yang dipilih.\nData terperinci: kgpu-draw-trace.log (maks. 1 MB).","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0143","text":"Gunakan jendela BLACK PC untuk bermain.\nTombol Hentikan akan mengakhiri proses game; pastikan penyimpanan selesai terlebih dahulu.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0144","text":"Buka log untuk melihat keluaran sesi dan pengaturan peluncuran.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0145","text":"Kesalahan pencatatan sesi: ","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0146","text":"Tutup jendela game atau gunakan Hentikan game untuk mengakhiri sesi. Pastikan penyimpanan selesai sebelum menutup.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0147","text":"Tetapkan ","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0148","text":"Tekan sebuah tombol atau klik tombol mouse, atau putar roda untuk\n","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0149","text":"Hapus penetapan tombol ini","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0150","text":"Batal","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0151","text":"F11 mengaktifkan atau menonaktifkan layar penuh dan tidak dapat diikat.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0152","text":"Tombol itu tidak dapat diikat.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0153","text":"Ikatan keyboard dan mouse","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0154","text":"Klik dua kali sebuah slot (atau pilih lalu tekan Enter), kemudian tekan tombol atau tombol mouse.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0155","text":"Aksi","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0156","text":"Ikatan 1","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0157","text":"Ikatan 2","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0158","text":"Ikatan 3","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0159","text":"Kembalikan ke bawaan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0160","text":"Oke","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0161","text":"Escape (jeda / kembali) dan F11 (layar penuh) sudah ditetapkan. Enter selalu mengonfirmasi; tombol panah dan roda mouse digunakan untuk menavigasi menu.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0162","text":"Tombol yang sama: ","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0163","text":". Kedua aksi akan dijalankan.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0164","text":"Launcher BLACK PC","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0165","text":"BLACK PC","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0166","text":"Game PC sudah berjalan (PID ","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0167","text":"Tutup game yang sedang berjalan sebelum memilih Main.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0168","text":"BLACK PC  /  Simpanan lokal","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0169","text":"ditingkatkan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0170","text":"tersimpan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0171","text":"Kustom","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0172","text":"Datar","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0173","text":"Bawaan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0174","text":"Otomatis","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0175","text":"Keyboard dan mouse","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0176","text":"Kontroler","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0177","text":"Sensitivitas mouse","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0178","text":"Perangkat pemicu petunjuk tombol","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0179","text":"Mode input","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0180","text":"Pengaturan video","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0181","text":"Game ini dapat dimainkan dengan keyboard, mouse, dan kontroler.\nBuild ini masih eksperimental; game dapat mengalami crash dan ketidakakuratan masih mungkin terjadi.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0182","text":"Jendela","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0183","text":"Filter","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0184","text":"Layar penuh tanpa bingkai","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0185","text":"Pertahankan rasio gambar","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0186","text":"Regangkan hingga memenuhi layar","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0187","text":"Penskalaan bilangan bulat","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0188","text":"Tanpa batas","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0189","text":"Standar (4:3)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0190","text":"Layar lebar (16:9)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0191","text":"Ultrawide (21:9)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0192","text":"Super Ultrawide (32:9)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0193","text":"Internal","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0194","text":"720p (bawaan)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0195","text":"SSAA 4x (2 x 2)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0196","text":"Perangkat","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0197","text":"Petunjuk tombol","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0198","text":"Sensitivitas","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0199","text":"0,06° per hitungan mouse","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0200","text":"Keyboard, mouse, kontroler","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0201","text":"Hanya keyboard dan mouse","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0202","text":"Ikuti perangkat yang terakhir saya gunakan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0203","text":"Bidang pandang","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0204","text":"Batas frame tampilan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0205","text":"Mode penskalaan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0206","text":"Laju waktu","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0207","text":"Perangkat input","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0208","text":"Petunjuk tombol","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0209","text":"Bidang pandang asli","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0210","text":"Bidang pandang vertikal dalam derajat","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0211","text":"Bergerak maju","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0212","text":"Bergerak mundur","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0213","text":"Bergerak ke kiri","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0214","text":"Bergerak ke kanan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0215","text":"Menoleh ke kiri (tombol)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0216","text":"Menoleh ke kanan (tombol)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0217","text":"Menoleh ke atas (tombol)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0218","text":"Menoleh ke bawah (tombol)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0219","text":"tidak terikat","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0220","text":"Ctrl kiri","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0221","text":"Ctrl kanan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0222","text":"Ctrl (kiri atau kanan)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0223","text":"Shift kiri","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0224","text":"Shift kanan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0225","text":"Shift (kiri atau kanan)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0226","text":"Alt kiri","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0227","text":"Alt kanan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0228","text":"Alt (kiri atau kanan)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0229","text":"Tombol mouse kiri","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0230","text":"Tombol mouse kanan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0231","text":"Tombol mouse tengah","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0232","text":"Tombol mouse 4","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0233","text":"Tombol mouse 5","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0234","text":"Roda mouse ke atas","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0235","text":"Roda mouse ke bawah","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0236","text":"Tembak","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0237","text":"Bidik / zoom","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0238","text":"Isi ulang","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0239","text":"Jongkok","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0240","text":"Gunakan / ambil","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0241","text":"Ganti senjata","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0242","text":"Ganti senjata (arah sebaliknya)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0243","text":"Lempar granat","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0244","text":"Mode tembak","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0245","text":"Peredam","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0246","text":"Serangan jarak dekat","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0247","text":"Gunakan kotak P3K","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0248","text":"Ganti item (tombol Putih)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0249","text":"Kembali / sasaran","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0250","text":"Mulai (jeda)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0251","text":"KEYBOARD DAN MOUSE (kontroler tidak diperlukan)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0252","text":"Lihat: gerakkan mouse (input mentah, tanpa akselerasi).","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0253","text":"Menu: gunakan tombol panah atau roda mouse untuk berpindah; tekan Enter/Spasi atau klik kiri untuk memilih,","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0254","text":"Backspace / klik kanan / Escape untuk kembali. Enter juga mengonfirmasi perintah \"tekan untuk melanjutkan\".","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0255","text":"Escape menjeda misi.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0256","text":"HANYA KONTROLER","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0257","text":"KONTROLER (opsional)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0258","text":"Kontroler XInput apa pun tetap berfungsi seperti sebelumnya.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0259","text":"Kontrol game dan menu dengan keyboard serta mouse dinonaktifkan.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0260","text":"Input kontroler dinonaktifkan.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0261","text":"Petunjuk mengikuti perangkat yang terakhir Anda gunakan.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0262","text":"Petunjuk menampilkan tombol kontroler.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0263","text":"Petunjuk menampilkan ikatan keyboard dan mouse.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0264","text":"Keluar dari jendela game akan menjeda misi.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0265","text":"F11 beralih ke layar penuh. Untuk video, Escape melewati video yang sedang diputar.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0266","text":"Ukuran jendela game","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0267","text":"480p","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0268","text":"720p","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0269","text":"1080p","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0270","text":"1440p","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0271","text":"2160p","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0272","text":"60 langkah per detik","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0273","text":"120 langkah per detik","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0274","text":"240 langkah per detik","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0275","text":"Laju waktu lebih cepat (game asli berjalan pada 30 langkah per detik)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0276","text":"Perender GPU (Direct3D 11)","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0277","text":"FPS","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0278","text":"Asli mempertahankan efek buram gerak bawaan BLACK. Mati menonaktifkan efek itu sambil mempertahankan efek pascapemrosesan lainnya.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0279","text":"Ikatan tombol","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0280","text":"Penyaringan anisotropik","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0281","text":"Metode oklusi ambien","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0282","text":"Kualitas oklusi ambien","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0283","text":"Kamera","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0284","text":"Pilih bahasa","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0285","text":"Game PC sudah berjalan","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0286","text":"Status game","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0287","text":"WASD untuk bergerak, mouse untuk melihat, tombol kiri untuk menembak.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0288","text":"Escape menjeda misi (dan kembali di menu). Keluar dari jendela juga menjeda game.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0289","text":"F11 beralih ke layar penuh. Petunjuk dalam game menampilkan ikatan tombol Anda.","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0290","text":" bawaan pada ","review_status":"ai-editorial-reviewed-native-review-pending"}
+{"id":"0291","text":"-thread PC","review_status":"ai-editorial-reviewed-native-review-pending"}
