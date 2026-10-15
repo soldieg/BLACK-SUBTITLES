@@ -1,0 +1,105 @@
+1
+00:00:03,020 --> 00:00:06,100
+Interrogateur: Comment saviez-vous que MacCarver détenait des informations sur l'Américain ?
+
+2
+00:00:10,680 --> 00:00:14,100
+Lieutenant MacCarver: Kellar m'a interrogée sans relâche sur la Septième Vague. Je lui ai dit ce que je savais.
+
+3
+00:00:14,460 --> 00:00:15,520
+Interrogateur: Et qu'est-ce que c'était ?
+
+4
+00:00:16,120 --> 00:00:23,620
+Lieutenant MacCarver: Surtout des rumeurs : un Américain dirigerait des camps en Afghanistan ;
+un autre conseillerait une guérilla indépendante aux Philippines.
+
+5
+00:00:24,000 --> 00:00:26,000
+Lieutenant MacCarver: Vous savez, des histoires comme ça.
+
+6
+00:00:25,040 --> 00:00:25,660
+Interrogateur: Et vous les avez crues ?
+
+7
+00:00:26,120 --> 00:00:30,140
+Lieutenant MacCarver: Pas au début. Mais peu à peu, les éléments manquants se sont mis en place.
+
+8
+00:00:30,300 --> 00:00:31,040
+Interrogateur: Quels éléments ?
+
+9
+00:00:31,340 --> 00:00:32,620
+Lieutenant MacCarver: Opération Cléopâtre.
+
+10
+00:00:33,080 --> 00:00:36,500
+Lieutenant MacCarver: La première fois que j'ai entendu le nom de William Lennox, j'étais affectée à Langley.
+
+11
+00:00:37,340 --> 00:00:40,180
+Lieutenant MacCarver: Lennox était spécialiste des opérations clandestines.
+Assassin [SFOR / S4?].
+
+12
+00:00:41,240 --> 00:00:43,980
+Lieutenant MacCarver: Cléopâtre était censée empêcher un attentat terroriste dans le centre du Caire.
+
+13
+00:00:44,700 --> 00:00:45,800
+Lieutenant MacCarver: Ce fut un désastre.
+
+14
+00:00:46,280 --> 00:00:52,960
+Lieutenant MacCarver: La bombe a explosé, tuant beaucoup de gens, dont Lennox – du moins, c'est ce que pensait la Division.
+
+15
+00:00:53,780 --> 00:00:55,600
+Lieutenant MacCarver: Trois mois plus tard, il a réapparu à Moscou.
+
+16
+00:00:55,600 --> 00:00:57,280
+Lieutenant MacCarver: Deux semaines après, à Séoul.
+
+17
+00:00:57,420 --> 00:00:59,960
+Lieutenant MacCarver: Puis Belgrade, Belfast, Londres… toujours avec un coup d'avance.
+
+18
+00:01:01,400 --> 00:01:03,920
+Interrogateur: Et vous pensez que Lennox est lié à la Septième Vague ?
+
+19
+00:01:05,080 --> 00:01:07,860
+Lieutenant MacCarver: Lié ? C'est lui qui a tout déclenché.
+
+20
+00:01:13,360 --> 00:01:14,620
+Interrogateur: MacCarver a été interrogée hier.
+
+21
+00:01:14,980 --> 00:01:16,820
+Interrogateur: Alors comment saviez-vous qu'elle avait des informations sur l'Américain ?
+
+22
+00:01:17,720 --> 00:01:22,560
+Sergent Kellar: Le sergent Solomon était dans notre unité et m'a prévenu. Coïncidence, c'est tout.
+
+23
+00:01:22,940 --> 00:01:24,760
+Interrogateur: Je ne crois pas aux coïncidences.
+
+24
+00:01:25,000 --> 00:01:27,000
+Interrogateur: [Quelles étaient vos missions pour l'opération suivante ?]
+
+25
+00:01:27,380 --> 00:01:34,260
+Sergent Kellar: McCarver voulait établir un axe de progression depuis l'est. Le plan consistait à traverser le cimetière en bordure de Naszran et à attaquer l'aciérie de l'autre côté.
+
+26
+00:01:34,800 --> 00:01:36,720
+Sergent Kellar: Nous étions à moins d'un kilomètre quand on nous a attaqués.

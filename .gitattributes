@@ -1,0 +1,6 @@
+*.srt -text
+*.csv -text
+*.jsonl -text
+*.json -text
+*.txt text eol=lf
+*.md text eol=lf

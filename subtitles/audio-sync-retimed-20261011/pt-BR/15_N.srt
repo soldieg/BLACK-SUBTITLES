@@ -1,0 +1,51 @@
+1
+00:00:02,780 --> 00:00:04,280
+Sargento Kellar: Perdemos muita gente boa.
+
+2
+00:00:04,480 --> 00:00:06,100
+Interrogador: Vocês eram colegas da escola de formação militar, não é?
+
+3
+00:00:08,380 --> 00:00:10,680
+Interrogador: Sua equipe recebeu ordens para voltar depois da missão.
+
+4
+00:00:10,920 --> 00:00:12,280
+Interrogador: McCarver o convenceu do contrário?
+
+5
+00:00:14,260 --> 00:00:15,540
+Interrogador: Você não teve nada a ver com isso?
+
+6
+00:00:18,000 --> 00:00:19,000
+Sargento Kellar: Sim.
+
+7
+00:00:17,580 --> 00:00:18,380
+Sargento Kellar: Quer dizer, não!
+
+8
+00:00:18,660 --> 00:00:22,060
+Interrogador: Você está de sacanagem comigo? Afinal, qual é?
+
+9
+00:00:22,140 --> 00:00:24,060
+Sargento Kellar: Todos concordamos em ir atrás de Lennox.
+
+10
+00:00:24,220 --> 00:00:25,880
+Interrogador: Mas o sargento Solomon queria cair fora.
+
+11
+00:00:26,060 --> 00:00:27,460
+Sargento Kellar: Não foi difícil convencê-lo.
+
+12
+00:00:28,300 --> 00:00:31,320
+Sargento Kellar: Lennox precisava ser detido. Ele matou meus amigos.
+
+13
+00:00:31,580 --> 00:00:33,100
+Interrogador: Então, qual era o plano?
