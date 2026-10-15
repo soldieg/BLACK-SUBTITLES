@@ -17,5 +17,7 @@
     }
   ],
   "source_archive": "indonesia language (1).rar",
-  "evidence": "SHA-256 comparison of archive-extracted files against Build Legendas and other local BLACK builds."
+  "evidence": "SHA-256 comparison of archive-extracted files against Build Legendas and other local BLACK builds.",
+  "preparation_script": "tools/prepare-indonesian-fonts.ps1",
+  "output_relative_path": "dist/indonesian-support/language/fonts"
 }
