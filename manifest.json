@@ -865,8 +865,8 @@
           "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/ru.jsonl",
           "destination_path": "Localization/Menu/recomp.jsonl",
           "format": "jsonl",
-          "size_bytes": 91851,
-          "sha256": "170a2129da4aed42b5ead235aa7761d0a4f136ddac6454bc48fda1e21b8dd467"
+          "size_bytes": 91869,
+          "sha256": "2c75289106900c8f9f1be6a3f91260e4f130158e9f76174e21187a010bb06e04"
         },
         {
           "category": "subtitle",
@@ -2249,6 +2249,16 @@
         "sha256": "f6b36134ab1541596a0d7a252a0420a0cc914634a6bf9e61c9edff4dab808a1d",
         "mirror_only": true
       }
+    ],
+    "ru": [
+      {
+        "category": "repository_reference",
+        "asset_type": "black_xbe_recomp_original_menu_russian_review",
+        "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/original-game-menu/ru.jsonl",
+        "size_bytes": 622,
+        "sha256": "559ac5ed216ace0b8f3dbda7de7c9999749be84bd13271a66f7277ecc348cddd",
+        "review_only": true
+      }
     ]
   },
   "directory_tree": {
@@ -2412,8 +2422,8 @@
                             "type": "file",
                             "status": "not_in_locale_catalog",
                             "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/original-game-menu/README.md",
-                            "size_bytes": 626,
-                            "sha256": "658876aec9999a6a895887efa32e4a16aba808cca3117c612cd7c39cab0b5e0b"
+                            "size_bytes": 1046,
+                            "sha256": "985ac786b0401be9dc96488016c90a44478f1c2bbf055170aedf634eaa16767b"
                           },
                           "de.jsonl": {
                             "type": "file",
@@ -2526,6 +2536,22 @@
                             "asset_types": [
                               "black_xbe_recomp_original_menu_catalog_mirror"
                             ]
+                          },
+                          "ru.jsonl": {
+                            "type": "file",
+                            "status": "listed",
+                            "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/original-game-menu/ru.jsonl",
+                            "size_bytes": 622,
+                            "sha256": "559ac5ed216ace0b8f3dbda7de7c9999749be84bd13271a66f7277ecc348cddd",
+                            "locales": [
+                              "ru"
+                            ],
+                            "categories": [
+                              "repository_reference"
+                            ],
+                            "asset_types": [
+                              "black_xbe_recomp_original_menu_russian_review"
+                            ]
                           }
                         }
                       },
@@ -2555,8 +2581,8 @@
                         "type": "file",
                         "status": "listed",
                         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/ru.jsonl",
-                        "size_bytes": 91851,
-                        "sha256": "170a2129da4aed42b5ead235aa7761d0a4f136ddac6454bc48fda1e21b8dd467",
+                        "size_bytes": 91869,
+                        "sha256": "2c75289106900c8f9f1be6a3f91260e4f130158e9f76174e21187a010bb06e04",
                         "locales": [
                           "ru"
                         ],
@@ -2966,8 +2992,8 @@
                 "type": "file",
                 "status": "not_in_locale_catalog",
                 "source_path": "Localization/Menu/RUSSIAN.md",
-                "size_bytes": 730,
-                "sha256": "6983949b4a7b32352801e7f1a3744519a4a3c7cc751ac56ca05862588ca8bb3c"
+                "size_bytes": 1057,
+                "sha256": "9ba9557dc65053326f8d77b2a7be645431c4fcef756e96c4c03a141d98ac959d"
               },
               "de.jsonl": {
                 "type": "file",
