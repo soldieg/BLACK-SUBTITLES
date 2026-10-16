@@ -90,7 +90,53 @@
 {"key":"Right click or Delete clears the key","text":"CLIC DERECHO O SUPR PARA BORRAR LA TECLA"}
 {"key":"PORTUGUESE","text":"PORTUGUÊS"}
 {"key":"INDONESIAN","text":"BAHASA INDONESIA"}
-{"key":"RUSSIAN","text":"РУССКИЙ"}
+{"key":"RUSSIAN","text":"RUSO"}
+{"key":"SUBTITLES","text":"Subtítulos"}
+{"key":"UPDATE TRANSLATIONS","text":"Actualizar traducciones"}
+{"key":"CHECK NOW","text":"Comprobar ahora"}
+{"key":"QUEUED...","text":"En cola..."}
+{"key":"CHECKING TRANSLATIONS...","text":"Comprobando traducciones..."}
+{"key":"TRANSLATIONS UPDATED","text":"ACTUALIZADO"}
+{"key":"TRANSLATIONS UP TO DATE","text":"AL DÍA"}
+{"key":"NO LANGUAGE PACKAGES INSTALLED","text":"No hay paquetes de idioma instalados"}
+{"key":"UPDATE FAILED (SEE LOG)","text":"Error al actualizar (ver registro)"}
+{"key":"SUBTITLE SETTINGS","text":"Ajustes de subtítulos"}
+{"key":"SUBTITLE SIZE","text":"Tamaño de subtítulos"}
+{"key":"CURRENT SIZE","text":"Tamaño actual"}
+{"key":"PREVIEW","text":"Vista previa"}
+{"key":"This is a subtitle preview.","text":"Así se verán los subtítulos."}
+{"key":"BOLD","text":"Negrita"}
+{"key":"COLOR","text":"Color"}
+{"key":"SHADOW","text":"Sombra"}
+{"key":"BACKGROUND","text":"Fondo"}
+{"key":"WHITE","text":"Blanco"}
+{"key":"YELLOW","text":"Amarillo"}
+{"key":"SUBTLE","text":"Suave"}
+{"key":"STRONG","text":"Fuerte"}
+{"key":"READY","text":"Listo"}
+{"key":"MANIFEST NEEDED","text":"Se necesita manifiesto"}
+{"key":"NOT IN MANIFEST","text":"No está en el manifiesto"}
+{"key":"MISSING","text":"Falta"}
+{"key":"NOT DOWNLOADED","text":"No descargado"}
+{"key":"DAMAGED","text":"Dañado"}
+{"key":"CURRENT","text":"Actual"}
+{"key":"PENDING","text":"Pendiente"}
+{"key":"QUEUED","text":"En cola"}
+{"key":"DOWNLOADING","text":"Descargando"}
+{"key":"OPEN","text":"Abrir"}
+{"key":"Windows display language not available","text":"Idioma de Windows no disponible"}
+{"key":"UNSUPPORTED WINDOWS LANGUAGE","text":"IDIOMA DE WINDOWS NO COMPATIBLE"}
+{"key":"LANGUAGE PACKAGE FILES","text":"ARCHIVOS DEL PAQUETE DE IDIOMA"}
+{"key":"The game will use English. Review a suggestion on GitHub?","text":"El juego usará inglés. ¿Sugerir este idioma en GitHub?"}
+{"key":"Review on GitHub","text":"Revisar en GitHub"}
+{"key":"Not now","text":"Ahora no"}
+{"key":"Could not open the browser.","text":"No se pudo abrir el navegador."}
+{"key":"Package status","text":"Estado del paquete"}
+{"key":"Download in progress.","text":"Descarga en curso."}
+{"key":"Download / repair","text":"Descargar / reparar"}
+{"key":"Close","text":"Cerrar"}
+{"key":"All files listed in the manifest are present and match their SHA-256 checks.","text":"Todos los archivos del manifiesto están presentes y coinciden con SHA-256."}
+{"key":"Nothing is submitted automatically; you can review the draft before submitting.","text":"No se envía nada automáticamente; revisa el borrador antes de enviarlo."}
 {"id":"80238916","text":"Solo los objetivos principales. Montones de botiquines. Sin recompensa."}
 {"id":"8024F22A","text":"PONTE A CUBIERTO TRAS LAS LÁPIDAS"}
 {"id":"8026E5C0","text":"Vacío"}

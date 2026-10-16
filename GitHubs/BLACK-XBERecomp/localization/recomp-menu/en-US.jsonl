@@ -90,7 +90,53 @@
 {"key":"Right click or Delete clears the key","text":"RIGHT CLICK OR DELETE CLEARS THE KEY"}
 {"key":"PORTUGUESE","text":"PORTUGUÊS"}
 {"key":"INDONESIAN","text":"BAHASA INDONESIA"}
-{"key":"RUSSIAN","text":"РУССКИЙ"}
+{"key":"RUSSIAN","text":"RUSSIAN"}
+{"key":"SUBTITLES","text":"SUBTITLES"}
+{"key":"UPDATE TRANSLATIONS","text":"UPDATE TRANSLATIONS"}
+{"key":"CHECK NOW","text":"CHECK NOW"}
+{"key":"QUEUED...","text":"QUEUED..."}
+{"key":"CHECKING TRANSLATIONS...","text":"CHECKING TRANSLATIONS..."}
+{"key":"TRANSLATIONS UPDATED","text":"UPDATED"}
+{"key":"TRANSLATIONS UP TO DATE","text":"UP TO DATE"}
+{"key":"NO LANGUAGE PACKAGES INSTALLED","text":"NO LANGUAGE PACKAGES INSTALLED"}
+{"key":"UPDATE FAILED (SEE LOG)","text":"UPDATE FAILED (SEE LOG)"}
+{"key":"SUBTITLE SETTINGS","text":"SUBTITLE SETTINGS"}
+{"key":"SUBTITLE SIZE","text":"SUBTITLE SIZE"}
+{"key":"CURRENT SIZE","text":"CURRENT SIZE"}
+{"key":"PREVIEW","text":"PREVIEW"}
+{"key":"This is a subtitle preview.","text":"This is a subtitle preview."}
+{"key":"BOLD","text":"BOLD"}
+{"key":"COLOR","text":"COLOR"}
+{"key":"SHADOW","text":"SHADOW"}
+{"key":"BACKGROUND","text":"BACKGROUND"}
+{"key":"WHITE","text":"WHITE"}
+{"key":"YELLOW","text":"YELLOW"}
+{"key":"SUBTLE","text":"SUBTLE"}
+{"key":"STRONG","text":"STRONG"}
+{"key":"READY","text":"READY"}
+{"key":"MANIFEST NEEDED","text":"MANIFEST NEEDED"}
+{"key":"NOT IN MANIFEST","text":"NOT IN MANIFEST"}
+{"key":"MISSING","text":"MISSING"}
+{"key":"NOT DOWNLOADED","text":"NOT DOWNLOADED"}
+{"key":"DAMAGED","text":"DAMAGED"}
+{"key":"CURRENT","text":"CURRENT"}
+{"key":"PENDING","text":"PENDING"}
+{"key":"QUEUED","text":"QUEUED"}
+{"key":"DOWNLOADING","text":"DOWNLOADING"}
+{"key":"OPEN","text":"OPEN"}
+{"key":"Windows display language not available","text":"Windows display language not available"}
+{"key":"UNSUPPORTED WINDOWS LANGUAGE","text":"UNSUPPORTED WINDOWS LANGUAGE"}
+{"key":"LANGUAGE PACKAGE FILES","text":"LANGUAGE PACKAGE FILES"}
+{"key":"The game will use English. Review a suggestion on GitHub?","text":"The game will use English. Review a suggestion on GitHub?"}
+{"key":"Review on GitHub","text":"Review on GitHub"}
+{"key":"Not now","text":"Not now"}
+{"key":"Could not open the browser.","text":"Could not open the browser."}
+{"key":"Package status","text":"Package status"}
+{"key":"Download in progress.","text":"Download in progress."}
+{"key":"Download / repair","text":"Download / repair"}
+{"key":"Close","text":"Close"}
+{"key":"All files listed in the manifest are present and match their SHA-256 checks.","text":"All files listed in the manifest are present and match their SHA-256 checks."}
+{"key":"Nothing is submitted automatically; you can review the draft before submitting.","text":"Nothing is submitted automatically; you can review the draft before submitting."}
 {"id":"80238916","text":"Primary objectives only. Lots of Healthpacks. No rewards."}
 {"id":"8024F22A","text":"use gravestones for cover"}
 {"id":"8026E5C0","text":"Blank"}

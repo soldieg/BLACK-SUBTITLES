@@ -91,6 +91,52 @@
 {"key":"PORTUGUESE","text":"PORTUGUÊS"}
 {"key":"INDONESIAN","text":"BAHASA INDONESIA"}
 {"key":"RUSSIAN","text":"РУССКИЙ"}
+{"key":"SUBTITLES","text":"СУБТИТРЫ"}
+{"key":"UPDATE TRANSLATIONS","text":"ОБНОВИТЬ ПЕРЕВОДЫ"}
+{"key":"CHECK NOW","text":"ПРОВЕРИТЬ СЕЙЧАС"}
+{"key":"QUEUED...","text":"В ОЧЕРЕДИ..."}
+{"key":"CHECKING TRANSLATIONS...","text":"ПРОВЕРКА ПЕРЕВОДОВ..."}
+{"key":"TRANSLATIONS UPDATED","text":"ОБНОВЛЕНО"}
+{"key":"TRANSLATIONS UP TO DATE","text":"АКТУАЛЬНО"}
+{"key":"NO LANGUAGE PACKAGES INSTALLED","text":"ЯЗЫКОВЫЕ ПАКЕТЫ НЕ УСТАНОВЛЕНЫ"}
+{"key":"UPDATE FAILED (SEE LOG)","text":"ОШИБКА ОБНОВЛЕНИЯ (СМ. ЖУРНАЛ)"}
+{"key":"SUBTITLE SETTINGS","text":"НАСТРОЙКИ СУБТИТРОВ"}
+{"key":"SUBTITLE SIZE","text":"РАЗМЕР СУБТИТРОВ"}
+{"key":"CURRENT SIZE","text":"ТЕКУЩИЙ РАЗМЕР"}
+{"key":"PREVIEW","text":"ПРЕДПРОСМОТР"}
+{"key":"This is a subtitle preview.","text":"Так будут выглядеть субтитры."}
+{"key":"BOLD","text":"ЖИРНЫЙ"}
+{"key":"COLOR","text":"ЦВЕТ"}
+{"key":"SHADOW","text":"ТЕНЬ"}
+{"key":"BACKGROUND","text":"ФОН"}
+{"key":"WHITE","text":"БЕЛЫЙ"}
+{"key":"YELLOW","text":"ЖЕЛТЫЙ"}
+{"key":"SUBTLE","text":"СЛАБАЯ"}
+{"key":"STRONG","text":"СИЛЬНАЯ"}
+{"key":"READY","text":"ГОТОВО"}
+{"key":"MANIFEST NEEDED","text":"НУЖЕН МАНИФЕСТ"}
+{"key":"NOT IN MANIFEST","text":"НЕТ В МАНИФЕСТЕ"}
+{"key":"MISSING","text":"ОТСУТСТВУЕТ"}
+{"key":"NOT DOWNLOADED","text":"НЕ ЗАГРУЖЕНО"}
+{"key":"DAMAGED","text":"ПОВРЕЖДЕНО"}
+{"key":"CURRENT","text":"ТЕКУЩИЙ"}
+{"key":"PENDING","text":"ОЖИДАНИЕ"}
+{"key":"QUEUED","text":"В ОЧЕРЕДИ"}
+{"key":"DOWNLOADING","text":"ЗАГРУЗКА"}
+{"key":"OPEN","text":"ОТКРЫТЬ"}
+{"key":"Windows display language not available","text":"Язык интерфейса Windows недоступен"}
+{"key":"UNSUPPORTED WINDOWS LANGUAGE","text":"НЕПОДДЕРЖИВАЕМЫЙ ЯЗЫК WINDOWS"}
+{"key":"LANGUAGE PACKAGE FILES","text":"ФАЙЛЫ ЯЗЫКОВОГО ПАКЕТА"}
+{"key":"The game will use English. Review a suggestion on GitHub?","text":"Игра будет использовать английский. Предложить язык на GitHub?"}
+{"key":"Review on GitHub","text":"ПРОВЕРИТЬ НА GITHUB"}
+{"key":"Not now","text":"НЕ СЕЙЧАС"}
+{"key":"Could not open the browser.","text":"Не удалось открыть браузер."}
+{"key":"Package status","text":"СОСТОЯНИЕ ПАКЕТА"}
+{"key":"Download in progress.","text":"ЗАГРУЗКА ВЫПОЛНЯЕТСЯ."}
+{"key":"Download / repair","text":"СКАЧАТЬ / ИСПРАВИТЬ"}
+{"key":"Close","text":"ЗАКРЫТЬ"}
+{"key":"All files listed in the manifest are present and match their SHA-256 checks.","text":"Все файлы манифеста на месте и соответствуют проверке SHA-256."}
+{"key":"Nothing is submitted automatically; you can review the draft before submitting.","text":"Ничего не отправляется автоматически; проверьте черновик перед отправкой."}
 {"id":"80238916","text":"OCHOBHSE QELN. MHOFO AZTE4EK. HAFPAD HET."}
 {"id":"8024F22A","text":"NCZOLJ3YN HADFPO6NR DLR YKPSTNR"}
 {"id":"8026E5C0","text":"ZYCTO"}

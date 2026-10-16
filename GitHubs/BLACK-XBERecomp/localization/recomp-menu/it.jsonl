@@ -90,7 +90,53 @@
 {"key":"Right click or Delete clears the key","text":"CLIC DESTRO O CANC PER CANCELLARE IL TASTO"}
 {"key":"PORTUGUESE","text":"PORTUGUÊS"}
 {"key":"INDONESIAN","text":"BAHASA INDONESIA"}
-{"key":"RUSSIAN","text":"РУССКИЙ"}
+{"key":"RUSSIAN","text":"RUSSO"}
+{"key":"SUBTITLES","text":"Sottotitoli"}
+{"key":"UPDATE TRANSLATIONS","text":"Aggiorna traduzioni"}
+{"key":"CHECK NOW","text":"Controlla ora"}
+{"key":"QUEUED...","text":"In coda..."}
+{"key":"CHECKING TRANSLATIONS...","text":"Controllo traduzioni..."}
+{"key":"TRANSLATIONS UPDATED","text":"AGGIORNATO"}
+{"key":"TRANSLATIONS UP TO DATE","text":"IN REGOLA"}
+{"key":"NO LANGUAGE PACKAGES INSTALLED","text":"Nessun pacchetto lingua installato"}
+{"key":"UPDATE FAILED (SEE LOG)","text":"Aggiornamento non riuscito (vedi log)"}
+{"key":"SUBTITLE SETTINGS","text":"Impostazioni sottotitoli"}
+{"key":"SUBTITLE SIZE","text":"Dimensione sottotitoli"}
+{"key":"CURRENT SIZE","text":"Dimensione attuale"}
+{"key":"PREVIEW","text":"Anteprima"}
+{"key":"This is a subtitle preview.","text":"Ecco un'anteprima dei sottotitoli."}
+{"key":"BOLD","text":"Grassetto"}
+{"key":"COLOR","text":"Colore"}
+{"key":"SHADOW","text":"Ombra"}
+{"key":"BACKGROUND","text":"Sfondo"}
+{"key":"WHITE","text":"Bianco"}
+{"key":"YELLOW","text":"Giallo"}
+{"key":"SUBTLE","text":"Leggera"}
+{"key":"STRONG","text":"Forte"}
+{"key":"READY","text":"Pronto"}
+{"key":"MANIFEST NEEDED","text":"Manifesto necessario"}
+{"key":"NOT IN MANIFEST","text":"Non nel manifesto"}
+{"key":"MISSING","text":"Mancante"}
+{"key":"NOT DOWNLOADED","text":"Non scaricato"}
+{"key":"DAMAGED","text":"Danneggiato"}
+{"key":"CURRENT","text":"Attuale"}
+{"key":"PENDING","text":"In attesa"}
+{"key":"QUEUED","text":"In coda"}
+{"key":"DOWNLOADING","text":"Download"}
+{"key":"OPEN","text":"Apri"}
+{"key":"Windows display language not available","text":"Lingua di visualizzazione Windows non disponibile"}
+{"key":"UNSUPPORTED WINDOWS LANGUAGE","text":"LINGUA WINDOWS NON SUPPORTATA"}
+{"key":"LANGUAGE PACKAGE FILES","text":"FILE DEL PACCHETTO LINGUISTICO"}
+{"key":"The game will use English. Review a suggestion on GitHub?","text":"Il gioco userà l'inglese. Suggerire la lingua su GitHub?"}
+{"key":"Review on GitHub","text":"Controlla su GitHub"}
+{"key":"Not now","text":"Non ora"}
+{"key":"Could not open the browser.","text":"Impossibile aprire il browser."}
+{"key":"Package status","text":"Stato del pacchetto"}
+{"key":"Download in progress.","text":"Download in corso."}
+{"key":"Download / repair","text":"Scarica / ripara"}
+{"key":"Close","text":"Chiudi"}
+{"key":"All files listed in the manifest are present and match their SHA-256 checks.","text":"Tutti i file del manifest sono presenti e corrispondono ai controlli SHA-256."}
+{"key":"Nothing is submitted automatically; you can review the draft before submitting.","text":"Non viene inviato nulla automaticamente; controlla la bozza prima di inviarla."}
 {"id":"80238916","text":"Solo obiettivi primari. Molti kit medici. Nessuna ricompensa."}
 {"id":"8024F22A","text":"USA LE LAPIDI COME COPERTURA"}
 {"id":"8026E5C0","text":"Vuoto"}

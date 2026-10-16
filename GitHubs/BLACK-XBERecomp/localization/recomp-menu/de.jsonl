@@ -90,7 +90,53 @@
 {"key":"Right click or Delete clears the key","text":"RECHTSKLICK ODER ENTF LÖSCHT DIE TASTE"}
 {"key":"PORTUGUESE","text":"PORTUGUÊS"}
 {"key":"INDONESIAN","text":"BAHASA INDONESIA"}
-{"key":"RUSSIAN","text":"РУССКИЙ"}
+{"key":"RUSSIAN","text":"RUSSISCH"}
+{"key":"SUBTITLES","text":"Untertitel"}
+{"key":"UPDATE TRANSLATIONS","text":"Übersetzungen aktualisieren"}
+{"key":"CHECK NOW","text":"Jetzt prüfen"}
+{"key":"QUEUED...","text":"Warteschlange..."}
+{"key":"CHECKING TRANSLATIONS...","text":"Übersetzungen werden geprüft..."}
+{"key":"TRANSLATIONS UPDATED","text":"AKTUALISIERT"}
+{"key":"TRANSLATIONS UP TO DATE","text":"AKTUELL"}
+{"key":"NO LANGUAGE PACKAGES INSTALLED","text":"Keine Sprachpakete installiert"}
+{"key":"UPDATE FAILED (SEE LOG)","text":"Aktualisierung fehlgeschlagen (siehe Protokoll)"}
+{"key":"SUBTITLE SETTINGS","text":"Untertiteleinstellungen"}
+{"key":"SUBTITLE SIZE","text":"Untertitelgröße"}
+{"key":"CURRENT SIZE","text":"Aktuelle Größe"}
+{"key":"PREVIEW","text":"Vorschau"}
+{"key":"This is a subtitle preview.","text":"So sehen die Untertitel aus."}
+{"key":"BOLD","text":"Fett"}
+{"key":"COLOR","text":"Farbe"}
+{"key":"SHADOW","text":"Schatten"}
+{"key":"BACKGROUND","text":"Hintergrund"}
+{"key":"WHITE","text":"Weiß"}
+{"key":"YELLOW","text":"Gelb"}
+{"key":"SUBTLE","text":"Dezent"}
+{"key":"STRONG","text":"Stark"}
+{"key":"READY","text":"Bereit"}
+{"key":"MANIFEST NEEDED","text":"Manifest nötig"}
+{"key":"NOT IN MANIFEST","text":"Nicht im Manifest"}
+{"key":"MISSING","text":"Fehlt"}
+{"key":"NOT DOWNLOADED","text":"Nicht heruntergeladen"}
+{"key":"DAMAGED","text":"Beschädigt"}
+{"key":"CURRENT","text":"Aktuell"}
+{"key":"PENDING","text":"Ausstehend"}
+{"key":"QUEUED","text":"Warteschlange"}
+{"key":"DOWNLOADING","text":"Wird geladen"}
+{"key":"OPEN","text":"Öffnen"}
+{"key":"Windows display language not available","text":"Windows-Anzeigesprache nicht verfügbar"}
+{"key":"UNSUPPORTED WINDOWS LANGUAGE","text":"NICHT UNTERSTÜTZTE WINDOWS-SPRACHE"}
+{"key":"LANGUAGE PACKAGE FILES","text":"SPRACHPACKETDATEIEN"}
+{"key":"The game will use English. Review a suggestion on GitHub?","text":"Das Spiel verwendet Englisch. Sprache auf GitHub vorschlagen?"}
+{"key":"Review on GitHub","text":"Auf GitHub prüfen"}
+{"key":"Not now","text":"Nicht jetzt"}
+{"key":"Could not open the browser.","text":"Browser konnte nicht geöffnet werden."}
+{"key":"Package status","text":"Paketstatus"}
+{"key":"Download in progress.","text":"Download läuft."}
+{"key":"Download / repair","text":"Herunterladen / reparieren"}
+{"key":"Close","text":"Schließen"}
+{"key":"All files listed in the manifest are present and match their SHA-256 checks.","text":"Alle Manifestdateien sind vorhanden und stimmen mit den SHA-256-Prüfungen überein."}
+{"key":"Nothing is submitted automatically; you can review the draft before submitting.","text":"Es wird nichts automatisch gesendet; prüfe den Entwurf vor dem Absenden."}
 {"id":"80238916","text":"nur primärziele. zahlreiche medikits. keine belohnungen."}
 {"id":"8024F22A","text":"geh hinter grabsteinen in deckung"}
 {"id":"8026E5C0","text":"Leer"}
