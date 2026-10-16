@@ -44,11 +44,11 @@
 {"key":"(RESTART)","text":"(ТРЕБУЕТСЯ ПЕРЕЗАПУСК)"}
 {"key":"PRIMARY","text":"ОСНОВНОЙ"}
 {"key":"(PRIMARY)","text":"(ОСНОВНОЙ)"}
-{"key":"ENGLISH","text":"АНГЛИЙСКИЙ"}
-{"key":"FRENCH","text":"ФРАНЦУЗСКИЙ"}
-{"key":"GERMAN","text":"НЕМЕЦКИЙ"}
-{"key":"ITALIAN","text":"ИТАЛЬЯНСКИЙ"}
-{"key":"SPANISH","text":"ИСПАНСКИЙ"}
+{"key":"ENGLISH","text":"ENGLISH"}
+{"key":"FRENCH","text":"FRANÇAIS"}
+{"key":"GERMAN","text":"DEUTSCH"}
+{"key":"ITALIAN","text":"ITALIANO"}
+{"key":"SPANISH","text":"ESPAÑOL"}
 {"key":"MOUSE SENSITIVITY","text":"ЧУВСТВИТЕЛЬНОСТЬ МЫШИ"}
 {"key":"INVERT LOOK","text":"ИНВЕРТИРОВАТЬ ОБЗОР"}
 {"key":"HOLD TO AIM","text":"УДЕРЖИВАТЬ ДЛЯ ПРИЦЕЛИВАНИЯ"}
@@ -88,8 +88,8 @@
 {"key":"KEYBOARD","text":"КЛАВИАТУРА"}
 {"key":"Press a key or mouse button to bind, Escape cancels","text":"Нажмите клавишу или кнопку мыши для назначения; Esc отменяет действие"}
 {"key":"Right click or Delete clears the key","text":"Щёлкните правой кнопкой мыши или нажмите Delete, чтобы очистить назначение"}
-{"key":"PORTUGUESE","text":"ПОРТУГАЛЬСКИЙ"}
-{"key":"INDONESIAN","text":"ИНДОНЕЗИЙСКИЙ"}
+{"key":"PORTUGUESE","text":"PORTUGUÊS"}
+{"key":"INDONESIAN","text":"BAHASA INDONESIA"}
 {"key":"RUSSIAN","text":"РУССКИЙ"}
 {"id":"80238916","text":"OCHOBHSE QELN. MHOFO AZTE4EK. HAFPAD HET."}
 {"id":"8024F22A","text":"NCZOLJ3YN HADFPO6NR DLR YKPSTNR"}
