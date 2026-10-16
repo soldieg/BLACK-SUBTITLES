@@ -2,9 +2,9 @@
 
 This folder collects the menu text relevant to the `TGP482/BLACK-XBERecomp` fork in two separate groups:
 
-- `pt-BR.jsonl`, `id.jsonl`, and `ru.jsonl` each contain 93 Recomp-specific UI strings plus 1,724 original game-menu records. Recomp UI rows use `key` and `text`; original menu rows use `id` and `text`. Editorial/source metadata is kept out of these translation rows.
+- Each of the eight locale catalogs (`en-US`, `pt-BR`, `es`, `fr`, `de`, `it`, `id`, and `ru`) contains 93 Recomp-specific UI strings plus 1,724 original game-menu records. Recomp UI rows use `key` and `text`; original menu rows use `id` and `text`. Editorial/source metadata is kept out of these translation rows.
 - `original-game-menu/` mirrors the available original game-menu catalogs (`en-US`, `pt-BR`, `es`, `fr`, `de`, `it`, and `id`) from the repository's canonical [`Localization/Menu/`](../../../../Localization/Menu/) data. These mirror the broader original game menu catalogs from the canonical menu data; rows contain only `id` and `text`.
 
 Russian menu records from `MainUK.bin` are included in `ru.jsonl` using the byte-preserving game-glyph representation; they are not yet decoded as Unicode Russian prose. Russian runtime fonts are cataloged separately. These JSONL files are source data; runtime language switching/loading is separate work. Review and source notes remain in the repository documentation.
 
-Language choices in the Recomp menu use each language's endonym in every UI locale (for example, `ENGLISH`, `FRANÇAIS`, `DEUTSCH`, `ITALIANO`, `ESPAÑOL`, `PORTUGUÊS`, `BAHASA INDONESIA`, and `РУССКИЙ`). Keep these labels consistent across the available `pt-BR`, `id`, and `ru` catalogs instead of translating the language names into the active UI language.
+Language choices in the Recomp menu use each language's endonym in every UI locale (for example, `ENGLISH`, `FRANÇAIS`, `DEUTSCH`, `ITALIANO`, `ESPAÑOL`, `PORTUGUÊS`, `BAHASA INDONESIA`, and `РУССКИЙ`). Keep these labels consistent across all eight locale catalogs instead of translating the language names into the active UI language. The five catalogs added for `en-US`, `es`, `fr`, `de`, and `it` use the existing Recomp menu translations and the matching original-game menu catalog.
