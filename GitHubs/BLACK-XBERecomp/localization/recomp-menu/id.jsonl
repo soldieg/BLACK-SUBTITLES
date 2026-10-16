@@ -44,11 +44,11 @@
 {"key":"(RESTART)","text":"(MULAI ULANG)"}
 {"key":"PRIMARY","text":"UTAMA"}
 {"key":"(PRIMARY)","text":"(UTAMA)"}
-{"key":"ENGLISH","text":"INGGRIS"}
-{"key":"FRENCH","text":"PRANCIS"}
-{"key":"GERMAN","text":"JERMAN"}
-{"key":"ITALIAN","text":"ITALIA"}
-{"key":"SPANISH","text":"SPANYOL"}
+{"key":"ENGLISH","text":"ENGLISH"}
+{"key":"FRENCH","text":"FRANÇAIS"}
+{"key":"GERMAN","text":"DEUTSCH"}
+{"key":"ITALIAN","text":"ITALIANO"}
+{"key":"SPANISH","text":"ESPAÑOL"}
 {"key":"MOUSE SENSITIVITY","text":"SENSITIVITAS MOUSE"}
 {"key":"INVERT LOOK","text":"BALIK ARAH PANDANG"}
 {"key":"HOLD TO AIM","text":"TAHAN UNTUK MEMBIDIK"}
@@ -88,9 +88,9 @@
 {"key":"KEYBOARD","text":"KEYBOARD"}
 {"key":"Press a key or mouse button to bind, Escape cancels","text":"Tekan tombol atau tombol mouse untuk menetapkan; Escape membatalkan"}
 {"key":"Right click or Delete clears the key","text":"Klik kanan atau tekan Delete untuk menghapus tombol"}
-{"key":"PORTUGUESE","text":"PORTUGIS"}
+{"key":"PORTUGUESE","text":"PORTUGUÊS"}
 {"key":"INDONESIAN","text":"BAHASA INDONESIA"}
-{"key":"RUSSIAN","text":"RUSIA"}
+{"key":"RUSSIAN","text":"РУССКИЙ"}
 {"id":"80238916","text":"Target utama aja. Health pack melimpah. Tanpa hadiah."}
 {"id":"8024F22A","text":"pakai batu nisan buat berlindung"}
 {"id":"8026E5C0","text":"Kosong"}
