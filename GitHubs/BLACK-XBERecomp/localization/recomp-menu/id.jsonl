@@ -91,6 +91,52 @@
 {"key":"PORTUGUESE","text":"PORTUGUÊS"}
 {"key":"INDONESIAN","text":"BAHASA INDONESIA"}
 {"key":"RUSSIAN","text":"RUSSIAN"}
+{"key":"SUBTITLES","text":"Teks"}
+{"key":"UPDATE TRANSLATIONS","text":"PERBARUI TERJEMAHAN"}
+{"key":"CHECK NOW","text":"PERIKSA SEKARANG"}
+{"key":"QUEUED...","text":"ANTREAN..."}
+{"key":"CHECKING TRANSLATIONS...","text":"MEMERIKSA TERJEMAHAN..."}
+{"key":"TRANSLATIONS UPDATED","text":"DIPERBARUI"}
+{"key":"TRANSLATIONS UP TO DATE","text":"TERKINI"}
+{"key":"NO LANGUAGE PACKAGES INSTALLED","text":"BELUM ADA PAKET BAHASA"}
+{"key":"UPDATE FAILED (SEE LOG)","text":"PEMBARUAN GAGAL (LIHAT LOG)"}
+{"key":"SUBTITLE SETTINGS","text":"PENGATURAN SUBTITLE"}
+{"key":"SUBTITLE SIZE","text":"UKURAN SUBTITLE"}
+{"key":"CURRENT SIZE","text":"UKURAN SAAT INI"}
+{"key":"PREVIEW","text":"PRATINJAU"}
+{"key":"This is a subtitle preview.","text":"Ini contoh tampilan subtitle."}
+{"key":"BOLD","text":"TEBAL"}
+{"key":"COLOR","text":"WARNA"}
+{"key":"SHADOW","text":"BAYANGAN"}
+{"key":"BACKGROUND","text":"LATAR BELAKANG"}
+{"key":"WHITE","text":"PUTIH"}
+{"key":"YELLOW","text":"KUNING"}
+{"key":"SUBTLE","text":"TIPIS"}
+{"key":"STRONG","text":"KUAT"}
+{"key":"READY","text":"SIAP"}
+{"key":"MANIFEST NEEDED","text":"MANIFEST DIPERLUKAN"}
+{"key":"NOT IN MANIFEST","text":"TIDAK ADA DI MANIFEST"}
+{"key":"MISSING","text":"HILANG"}
+{"key":"NOT DOWNLOADED","text":"BELUM DIUNDUH"}
+{"key":"DAMAGED","text":"RUSAK"}
+{"key":"CURRENT","text":"SAAT INI"}
+{"key":"PENDING","text":"MENUNGGU"}
+{"key":"QUEUED","text":"ANTREAN"}
+{"key":"DOWNLOADING","text":"MENGUNDUH"}
+{"key":"OPEN","text":"BUKA"}
+{"key":"Windows display language not available","text":"Bahasa tampilan Windows tidak tersedia"}
+{"key":"UNSUPPORTED WINDOWS LANGUAGE","text":"BAHASA WINDOWS TIDAK DIDUKUNG"}
+{"key":"LANGUAGE PACKAGE FILES","text":"FILE PAKET BAHASA"}
+{"key":"The game will use English. Review a suggestion on GitHub?","text":"Game akan menggunakan bahasa Inggris. Sarankan bahasa ini di GitHub?"}
+{"key":"Review on GitHub","text":"TINJAU DI GITHUB"}
+{"key":"Not now","text":"JANGAN SEKARANG"}
+{"key":"Could not open the browser.","text":"Browser tidak dapat dibuka."}
+{"key":"Package status","text":"Status paket"}
+{"key":"Download in progress.","text":"Unduhan sedang berlangsung."}
+{"key":"Download / repair","text":"UNDUH / PERBAIKI"}
+{"key":"Close","text":"TUTUP"}
+{"key":"All files listed in the manifest are present and match their SHA-256 checks.","text":"Semua file dalam manifest tersedia dan cocok dengan SHA-256."}
+{"key":"Nothing is submitted automatically; you can review the draft before submitting.","text":"Tidak ada yang dikirim otomatis; tinjau draf sebelum mengirim."}
 {"id":"80238916","text":"Target utama aja. Health pack melimpah. Tanpa hadiah."}
 {"id":"8024F22A","text":"pakai batu nisan buat berlindung"}
 {"id":"8026E5C0","text":"Kosong"}

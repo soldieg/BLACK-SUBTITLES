@@ -90,7 +90,53 @@
 {"key":"Right click or Delete clears the key","text":"Clique com o botäo direito ou pressione Delete para limpar a tecla"}
 {"key":"PORTUGUESE","text":"PORTUGUÊS"}
 {"key":"INDONESIAN","text":"BAHASA INDONESIA"}
-{"key":"RUSSIAN","text":"РУССКИЙ"}
+{"key":"RUSSIAN","text":"RUSSO"}
+{"key":"SUBTITLES","text":"Legendas"}
+{"key":"UPDATE TRANSLATIONS","text":"Atualizar traduçöes"}
+{"key":"CHECK NOW","text":"Verificar agora"}
+{"key":"QUEUED...","text":"Na fila..."}
+{"key":"CHECKING TRANSLATIONS...","text":"Verificando traduçöes..."}
+{"key":"TRANSLATIONS UPDATED","text":"ATUALIZADO"}
+{"key":"TRANSLATIONS UP TO DATE","text":"EM DIA"}
+{"key":"NO LANGUAGE PACKAGES INSTALLED","text":"Nenhum pacote de idioma instalado"}
+{"key":"UPDATE FAILED (SEE LOG)","text":"Falha ao atualizar (veja o log)"}
+{"key":"SUBTITLE SETTINGS","text":"Configuraçöes da legenda"}
+{"key":"SUBTITLE SIZE","text":"Tamanho da legenda"}
+{"key":"CURRENT SIZE","text":"Tamanho atual"}
+{"key":"PREVIEW","text":"Prévia"}
+{"key":"This is a subtitle preview.","text":"Esta é uma prévia da legenda."}
+{"key":"BOLD","text":"Negrito"}
+{"key":"COLOR","text":"Cor"}
+{"key":"SHADOW","text":"Sombra"}
+{"key":"BACKGROUND","text":"Fundo"}
+{"key":"WHITE","text":"Branco"}
+{"key":"YELLOW","text":"Amarelo"}
+{"key":"SUBTLE","text":"Suave"}
+{"key":"STRONG","text":"Forte"}
+{"key":"READY","text":"Pronto"}
+{"key":"MANIFEST NEEDED","text":"Manifesto necessário"}
+{"key":"NOT IN MANIFEST","text":"Näo consta no manifesto"}
+{"key":"MISSING","text":"Faltando"}
+{"key":"NOT DOWNLOADED","text":"Näo baixado"}
+{"key":"DAMAGED","text":"Danificado"}
+{"key":"CURRENT","text":"Atual"}
+{"key":"PENDING","text":"Pendente"}
+{"key":"QUEUED","text":"Na fila"}
+{"key":"DOWNLOADING","text":"Baixando"}
+{"key":"OPEN","text":"Abrir"}
+{"key":"Windows display language not available","text":"Idioma de exibiçäo do Windows indisponível"}
+{"key":"UNSUPPORTED WINDOWS LANGUAGE","text":"IDIOMA DO WINDOWS NÄO COMPATÍVEL"}
+{"key":"LANGUAGE PACKAGE FILES","text":"ARQUIVOS DO PACOTE DE IDIOMA"}
+{"key":"The game will use English. Review a suggestion on GitHub?","text":"O jogo usará inglês. Sugerir esse idioma no GitHub?"}
+{"key":"Review on GitHub","text":"Revisar no GitHub"}
+{"key":"Not now","text":"Agora näo"}
+{"key":"Could not open the browser.","text":"Näo foi possível abrir o navegador."}
+{"key":"Package status","text":"Estado do pacote"}
+{"key":"Download in progress.","text":"Download em andamento."}
+{"key":"Download / repair","text":"Baixar / reparar"}
+{"key":"Close","text":"Fechar"}
+{"key":"All files listed in the manifest are present and match their SHA-256 checks.","text":"Todos os arquivos do manifesto estäo presentes e conferem com o SHA-256."}
+{"key":"Nothing is submitted automatically; you can review the draft before submitting.","text":"Nada é enviado automaticamente; revise o rascunho antes de enviar."}
 {"id":"80238916","text":"Apenas objetivos primários. Muitos pacotes de saúde. Nenhuma recompensa."}
 {"id":"8024F22A","text":"Use lápides para se proteger"}
 {"id":"8026E5C0","text":"Vazio"}

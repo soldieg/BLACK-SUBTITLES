@@ -90,7 +90,53 @@
 {"key":"Right click or Delete clears the key","text":"CLIC DROIT OU SUPPR POUR EFFACER LA TOUCHE"}
 {"key":"PORTUGUESE","text":"PORTUGUÊS"}
 {"key":"INDONESIAN","text":"BAHASA INDONESIA"}
-{"key":"RUSSIAN","text":"РУССКИЙ"}
+{"key":"RUSSIAN","text":"RUSSE"}
+{"key":"SUBTITLES","text":"Sous-titres"}
+{"key":"UPDATE TRANSLATIONS","text":"Mettre à jour les traductions"}
+{"key":"CHECK NOW","text":"Vérifier"}
+{"key":"QUEUED...","text":"En attente..."}
+{"key":"CHECKING TRANSLATIONS...","text":"Vérification des traductions..."}
+{"key":"TRANSLATIONS UPDATED","text":"MIS À JOUR"}
+{"key":"TRANSLATIONS UP TO DATE","text":"À JOUR"}
+{"key":"NO LANGUAGE PACKAGES INSTALLED","text":"Aucun paquet linguistique installé"}
+{"key":"UPDATE FAILED (SEE LOG)","text":"Échec de la mise à jour (voir le journal)"}
+{"key":"SUBTITLE SETTINGS","text":"Réglages des sous-titres"}
+{"key":"SUBTITLE SIZE","text":"Taille des sous-titres"}
+{"key":"CURRENT SIZE","text":"Taille actuelle"}
+{"key":"PREVIEW","text":"Aperçu"}
+{"key":"This is a subtitle preview.","text":"Voici un aperçu des sous-titres."}
+{"key":"BOLD","text":"Gras"}
+{"key":"COLOR","text":"Couleur"}
+{"key":"SHADOW","text":"Ombre"}
+{"key":"BACKGROUND","text":"Arrière-plan"}
+{"key":"WHITE","text":"Blanc"}
+{"key":"YELLOW","text":"Jaune"}
+{"key":"SUBTLE","text":"Discrète"}
+{"key":"STRONG","text":"Forte"}
+{"key":"READY","text":"Prêt"}
+{"key":"MANIFEST NEEDED","text":"Manifeste requis"}
+{"key":"NOT IN MANIFEST","text":"Absent du manifeste"}
+{"key":"MISSING","text":"Manquant"}
+{"key":"NOT DOWNLOADED","text":"Non téléchargé"}
+{"key":"DAMAGED","text":"Endommagé"}
+{"key":"CURRENT","text":"Actuel"}
+{"key":"PENDING","text":"En attente"}
+{"key":"QUEUED","text":"En file"}
+{"key":"DOWNLOADING","text":"Téléchargement"}
+{"key":"OPEN","text":"Ouvrir"}
+{"key":"Windows display language not available","text":"Langue d'affichage Windows indisponible"}
+{"key":"UNSUPPORTED WINDOWS LANGUAGE","text":"LANGUE WINDOWS NON PRISE EN CHARGE"}
+{"key":"LANGUAGE PACKAGE FILES","text":"FICHIERS DU PAQUET LINGUISTIQUE"}
+{"key":"The game will use English. Review a suggestion on GitHub?","text":"Le jeu utilisera l'anglais. Proposer cette langue sur GitHub ?"}
+{"key":"Review on GitHub","text":"Vérifier sur GitHub"}
+{"key":"Not now","text":"Pas maintenant"}
+{"key":"Could not open the browser.","text":"Impossible d'ouvrir le navigateur."}
+{"key":"Package status","text":"État du paquet"}
+{"key":"Download in progress.","text":"Téléchargement en cours."}
+{"key":"Download / repair","text":"Télécharger / réparer"}
+{"key":"Close","text":"Fermer"}
+{"key":"All files listed in the manifest are present and match their SHA-256 checks.","text":"Tous les fichiers du manifeste sont présents et conformes aux contrôles SHA-256."}
+{"key":"Nothing is submitted automatically; you can review the draft before submitting.","text":"Rien n'est envoyé automatiquement ; vérifiez le brouillon avant l'envoi."}
 {"id":"80238916","text":"Objectifs primaires seulement. Nombre élevé de médikits. Pas de récompenses."}
 {"id":"8024F22A","text":"UTILISEZ LES TOMBES POUR RESTER A COUVERT"}
 {"id":"8026E5C0","text":"Vide"}
