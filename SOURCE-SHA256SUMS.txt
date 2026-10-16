@@ -2,7 +2,7 @@
 7e0a2932bda29df28e7da1d892817aa549427a79538bffd87edacbfda7ddd5d4  GitHubs/BLACK-XBERecomp/localization/recomp-menu/en-US.jsonl
 37d223f86c3544ab05264d435f48357b03c5c83f0af15a020af3b838e6cc2d76  GitHubs/BLACK-XBERecomp/localization/recomp-menu/es.jsonl
 7008c1cd6c1ad7530243ea47174153fd424fb2b614d3bc95fcfceb0df8914f30  GitHubs/BLACK-XBERecomp/localization/recomp-menu/fr.jsonl
-f5780f863efdc6b3c218a5c01da310717c694d5214b6ad082b135eb1d7c2a4c6  GitHubs/BLACK-XBERecomp/localization/recomp-menu/id.jsonl
+c43552c19a8356066a335622b560f65f42d3fd28005d23bec2b520165b9f51dd  GitHubs/BLACK-XBERecomp/localization/recomp-menu/id.jsonl
 a9744d9dbc328a66c5cbc25c73174167e834c73ae5e8fb97ec075189f8c94e05  GitHubs/BLACK-XBERecomp/localization/recomp-menu/it.jsonl
 e4a56fecce85c2ff2f5d3783cfb464e759c53a3c81469919fb49110c93f60f5d  GitHubs/BLACK-XBERecomp/localization/recomp-menu/original-game-menu/de.jsonl
 62c305a6cc82c55a0ce35eaef1417fb730b397b9cea9d502aef8eae180b4e3b6  GitHubs/BLACK-XBERecomp/localization/recomp-menu/original-game-menu/en-US.jsonl
