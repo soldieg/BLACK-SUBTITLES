@@ -1,29 +1,29 @@
-{"key":"RECOMP SETTINGS","text":"CONFIGURAÇÕES DA RECOMPILAÇÃO"}
+{"key":"RECOMP SETTINGS","text":"CONFIGURAÇÖES DA RECOMPILAÇÄO"}
 {"key":"MOUSE AND KEYBOARD","text":"MOUSE E TECLADO"}
 {"key":"GENERAL","text":"GERAL"}
 {"key":"DISPLAY","text":"TELA"}
 {"key":"GRAPHICS","text":"GRÁFICOS"}
 {"key":"PAGE","text":"PÁGINA"}
-{"key":"RESTORE DEFAULTS","text":"RESTAURAR PADRÕES"}
+{"key":"RESTORE DEFAULTS","text":"RESTAURAR PADRÖES"}
 {"key":"PRESS A KEY","text":"PRESSIONE UMA TECLA"}
-{"key":"UNBOUND","text":"NÃO ATRIBUÍDO"}
+{"key":"UNBOUND","text":"NÄO ATRIBUÍDO"}
 {"key":"MONITOR","text":"MONITOR"}
-{"key":"DISPLAY MODE","text":"MODO DE EXIBIÇÃO"}
-{"key":"RESOLUTION","text":"RESOLUÇÃO"}
-{"key":"RENDER RESOLUTION","text":"RESOLUÇÃO DE RENDERIZAÇÃO"}
-{"key":"FIELD OF VIEW","text":"CAMPO DE VISÃO"}
-{"key":"VIEWMODEL FIELD OF VIEW","text":"CAMPO DE VISÃO DA ARMA"}
-{"key":"VERTICAL SYNC","text":"SINCRONIZAÇÃO VERTICAL"}
+{"key":"DISPLAY MODE","text":"MODO DE EXIBIÇÄO"}
+{"key":"RESOLUTION","text":"RESOLUÇÄO"}
+{"key":"RENDER RESOLUTION","text":"RESOLUÇÄO DE RENDERIZAÇÄO"}
+{"key":"FIELD OF VIEW","text":"CAMPO DE VISÄO"}
+{"key":"VIEWMODEL FIELD OF VIEW","text":"CAMPO DE VISÄO DA ARMA"}
+{"key":"VERTICAL SYNC","text":"SINCRONIZAÇÄO VERTICAL"}
 {"key":"FMV SCALE","text":"ESCALA DOS VÍDEOS"}
 {"key":"FILL","text":"PREENCHER"}
 {"key":"HDR OUTPUT","text":"SAÍDA HDR"}
 {"key":"MAX FRAME RATE","text":"TAXA MÁXIMA DE QUADROS"}
 {"key":"FPS COUNTER","text":"CONTADOR DE FPS"}
 {"key":"ANISOTROPIC FILTERING","text":"FILTRAGEM ANISOTRÓPICA"}
-{"key":"DRAW DISTANCE","text":"DISTÂNCIA DE VISÃO"}
-{"key":"AMBIENT OCCLUSION","text":"OCLUSÃO DE AMBIENTE"}
+{"key":"DRAW DISTANCE","text":"DISTÂNCIA DE VISÄO"}
+{"key":"AMBIENT OCCLUSION","text":"OCLUSÄO DE AMBIENTE"}
 {"key":"RELOAD BLUR","text":"DESFOQUE AO RECARREGAR"}
-{"key":"SKIP INTROS","text":"PULAR INTRODUÇÕES"}
+{"key":"SKIP INTROS","text":"PULAR INTRODUÇÖES"}
 {"key":"PAUSE ON FOCUS LOSS","text":"PAUSAR AO PERDER O FOCO"}
 {"key":"LANGUAGE","text":"IDIOMA"}
 {"key":"AUDIO OUTPUT","text":"SAÍDA DE ÁUDIO"}
@@ -33,24 +33,24 @@
 {"key":"ON","text":"ATIVADO"}
 {"key":"OFF","text":"DESATIVADO"}
 {"key":"UNLIMITED","text":"ILIMITADO"}
-{"key":"REFRESH RATE","text":"TAXA DE ATUALIZAÇÃO"}
+{"key":"REFRESH RATE","text":"TAXA DE ATUALIZAÇÄO"}
 {"key":"AUTOMATIC","text":"AUTOMÁTICO"}
-{"key":"GAME DEFAULT","text":"PADRÃO DO JOGO"}
-{"key":"NOT SUPPORTED","text":"NÃO COMPATÍVEL"}
+{"key":"GAME DEFAULT","text":"PADRÄO DO JOGO"}
+{"key":"NOT SUPPORTED","text":"NÄO COMPATÍVEL"}
 {"key":"MONO","text":"MONO"}
 {"key":"2.0 STEREO","text":"ESTÉREO 2.0"}
 {"key":"5.1 SURROUND","text":"SURROUND 5.1"}
-{"key":"(DEFAULT)","text":"(PADRÃO)"}
+{"key":"(DEFAULT)","text":"(PADRÄO)"}
 {"key":"(RESTART)","text":"(REINICIAR)"}
 {"key":"PRIMARY","text":"PRINCIPAL"}
 {"key":"(PRIMARY)","text":"(PRINCIPAL)"}
 {"key":"ENGLISH","text":"INGLÊS"}
 {"key":"FRENCH","text":"FRANCÊS"}
-{"key":"GERMAN","text":"ALEMÃO"}
+{"key":"GERMAN","text":"ALEMÄO"}
 {"key":"ITALIAN","text":"ITALIANO"}
 {"key":"SPANISH","text":"ESPANHOL"}
 {"key":"MOUSE SENSITIVITY","text":"SENSIBILIDADE DO MOUSE"}
-{"key":"INVERT LOOK","text":"INVERTER VISÃO"}
+{"key":"INVERT LOOK","text":"INVERTER VISÄO"}
 {"key":"HOLD TO AIM","text":"SEGURAR PARA MIRAR"}
 {"key":"WALK SPEED","text":"VELOCIDADE DE CAMINHADA"}
 {"key":"MOVE FORWARD","text":"AVANÇAR"}
@@ -74,20 +74,20 @@
 {"key":"OBJECTIVES","text":"OBJETIVOS"}
 {"key":"PAUSE MENU","text":"MENU DE PAUSA"}
 {"key":"TOGGLE HUD","text":"MOSTRAR/OCULTAR HUD"}
-{"key":"SETTINGS PANEL","text":"PAINEL DE CONFIGURAÇÕES"}
+{"key":"SETTINGS PANEL","text":"PAINEL DE CONFIGURAÇÖES"}
 {"key":"LOOK UP","text":"OLHAR PARA CIMA"}
 {"key":"LOOK DOWN","text":"OLHAR PARA BAIXO"}
 {"key":"LOOK LEFT","text":"OLHAR PARA A ESQUERDA"}
 {"key":"LOOK RIGHT","text":"OLHAR PARA A DIREITA"}
 {"key":"PRESS","text":"PRESSIONE"}
-{"key":"SETTINGS","text":"CONFIGURAÇÕES"}
+{"key":"SETTINGS","text":"CONFIGURAÇÖES"}
 {"key":"BACK","text":"VOLTAR"}
-{"key":"DEFAULTS","text":"PADRÕES"}
+{"key":"DEFAULTS","text":"PADRÖES"}
 {"key":"APPLY","text":"APLICAR"}
 {"key":"MOUSE","text":"MOUSE"}
 {"key":"KEYBOARD","text":"TECLADO"}
-{"key":"Press a key or mouse button to bind, Escape cancels","text":"Pressione uma tecla ou botão do mouse para atribuir; Esc cancela"}
-{"key":"Right click or Delete clears the key","text":"Clique com o botão direito ou pressione Delete para limpar a tecla"}
+{"key":"Press a key or mouse button to bind, Escape cancels","text":"Pressione uma tecla ou botäo do mouse para atribuir; Esc cancela"}
+{"key":"Right click or Delete clears the key","text":"Clique com o botäo direito ou pressione Delete para limpar a tecla"}
 {"key":"PORTUGUESE","text":"PORTUGUÊS"}
 {"key":"INDONESIAN","text":"INDONÉSIO"}
 {"key":"RUSSIAN","text":"RUSSO"}
@@ -1335,7 +1335,7 @@
 {"id":"3A15A03E","text":"Pacotes de saúde podem ser carregados até você precisar usá-los"}
 {"id":"3A3F0F7E","text":"Dami Akintola"}
 {"id":"3A4D3960","text":"Destruído(s) %1 de %2"}
-{"id":"3A7C7126","text":" -EQUIPE DE TRADUÇÄO E ADAPTAÇÄO- \r\n Bruno Fernando, Raynê Games, André Romhacker e HNNEWGAMES \r\n © 2018/2019 TRADUZIDO E ADAPTADO PARA O XBOX - Versão 1.1. "}
+{"id":"3A7C7126","text":" -EQUIPE DE TRADUÇÄO E ADAPTAÇÄO- \r\n Bruno Fernando, Raynê Games, André Romhacker e HNNEWGAMES \r\n © 2018/2019 TRADUZIDO E ADAPTADO PARA O XBOX - Versäo 1.1. "}
 {"id":"3A81356E","text":"Reconhecimento"}
 {"id":"3AA0B866","text":"Foguete propulsionado"}
 {"id":"3ACF3499","text":"Objetivos"}
@@ -1495,7 +1495,7 @@
 {"id":"4ED41850","text":"Destruir os gasômetros"}
 {"id":"4F025559","text":"*"}
 {"id":"4F2C8C0B","text":"Recruta"}
-{"id":"4F2F623B","text":"Você encontrou\r\na lista telefônica do conselho de administração de \"JJ\""}
+{"id":"4F2F623B","text":"Você encontrou\r\na lista telefônica do conselho de administraçäo de \"JJ\""}
 {"id":"4F92AC8B","text":"Silenciador para Fuzil de Assalto"}
 {"id":"4F983C80","text":"Morte tripla"}
 {"id":"4FBA137B","text":"*"}

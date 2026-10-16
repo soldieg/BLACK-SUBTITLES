@@ -143,7 +143,7 @@
           "destination_path": "Localization/Menu/pt-BR.jsonl",
           "format": "jsonl",
           "size_bytes": 91147,
-          "sha256": "209ce375b20b7385596fcd98de8ce7ab7f185ae78dc4d335a25d68e64fa12a76"
+          "sha256": "b0850945a81fcdae1fd538dd03d5dfabcdf713fe2c1baaee78b1ba9c73d052b8"
         },
         {
           "category": "localization",
@@ -152,7 +152,7 @@
           "destination_path": "Localization/Menu/recomp.jsonl",
           "format": "jsonl",
           "size_bytes": 95499,
-          "sha256": "f65c8e345367450f0b69bc1bd1ed6fdbb209b5d3d9591718cd93dceafd24549c"
+          "sha256": "ab754cf489952f1f2f1eee2c5fed42f829e69a58e792b29d58547f6644935ebc"
         },
         {
           "category": "subtitle",
@@ -2146,7 +2146,7 @@
         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/original-game-menu/pt-BR.jsonl",
         "canonical_source_path": "Localization/Menu/pt-BR.jsonl",
         "size_bytes": 91147,
-        "sha256": "209ce375b20b7385596fcd98de8ce7ab7f185ae78dc4d335a25d68e64fa12a76",
+        "sha256": "b0850945a81fcdae1fd538dd03d5dfabcdf713fe2c1baaee78b1ba9c73d052b8",
         "mirror_only": true
       }
     ],
@@ -2361,7 +2361,7 @@
                             "status": "listed",
                             "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/original-game-menu/pt-BR.jsonl",
                             "size_bytes": 91147,
-                            "sha256": "209ce375b20b7385596fcd98de8ce7ab7f185ae78dc4d335a25d68e64fa12a76",
+                            "sha256": "b0850945a81fcdae1fd538dd03d5dfabcdf713fe2c1baaee78b1ba9c73d052b8",
                             "locales": [
                               "pt-BR"
                             ],
@@ -2379,7 +2379,7 @@
                         "status": "listed",
                         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/pt-BR.jsonl",
                         "size_bytes": 95499,
-                        "sha256": "f65c8e345367450f0b69bc1bd1ed6fdbb209b5d3d9591718cd93dceafd24549c",
+                        "sha256": "ab754cf489952f1f2f1eee2c5fed42f829e69a58e792b29d58547f6644935ebc",
                         "locales": [
                           "pt-BR"
                         ],
@@ -2872,7 +2872,7 @@
                     "status": "not_in_locale_catalog",
                     "source_path": "Localization/Menu/editorial-review-build-legendas/pt-BR.jsonl",
                     "size_bytes": 91147,
-                    "sha256": "209ce375b20b7385596fcd98de8ce7ab7f185ae78dc4d335a25d68e64fa12a76"
+                    "sha256": "b0850945a81fcdae1fd538dd03d5dfabcdf713fe2c1baaee78b1ba9c73d052b8"
                   }
                 }
               },
@@ -2998,7 +2998,7 @@
                 "status": "listed",
                 "source_path": "Localization/Menu/pt-BR.jsonl",
                 "size_bytes": 91147,
-                "sha256": "209ce375b20b7385596fcd98de8ce7ab7f185ae78dc4d335a25d68e64fa12a76",
+                "sha256": "b0850945a81fcdae1fd538dd03d5dfabcdf713fe2c1baaee78b1ba9c73d052b8",
                 "locales": [
                   "pt-BR"
                 ],
