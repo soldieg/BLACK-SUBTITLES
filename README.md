@@ -9,7 +9,7 @@ Reusable subtitle and localization source data for **BLACK (2006)**. This reposi
 
 - `Subtitles/`: the 72 primary cutscene SRTs, grouped by locale (`en`, `pt-BR`, `es`, `fr`, `de`, `it`, `id`, `ru`). These are the primary caption tracks, not the experimental audio-sync outputs.
 - `Localization/Menu/`: original game menu catalogs and source notes. Translation rows keep only their identifier and text; Indonesian source records are retained without invented IDs.
-- `Localization/Fonts/`: runtime font dependencies and their locale-specific layout (`de`, `id`, `ru`).
+- `Localization/Fonts/`: runtime font dependencies and their locale-specific layout (`de`, `id`, `pt-BR`, `ru`).
 - `Launcher/`: 292 keyed launcher strings per available locale.
 - `Test/Audio-Sync/`: separate ASR candidate and retimed candidate sets. They are experimental and must not replace primary subtitle files without review.
 - `Test/Gameplay-Audio-Transcription/`: current 3,591-row-per-locale analysis and the earlier 3,196-row snapshot. These are research catalogs, not runtime-ready subtitles.
@@ -22,7 +22,7 @@ Reusable subtitle and localization source data for **BLACK (2006)**. This reposi
 
 Primary cutscene subtitles have nine tracks per each of eight locales (72 SRTs total). English tracks are under `Subtitles/en/`. Per-locale READMEs document editorial work and remaining audio/native-speaker review; AI review is not human confirmation.
 
-Original game-menu catalogs are available in English, Portuguese, Spanish, French, German, Italian, and Indonesian. The XBERecomp Russian catalog includes records from `MainUK.bin` in the game’s byte-preserving glyph representation; the mapping is not yet decoded as Unicode prose. Its Russian fonts are included under `Localization/Fonts/`.
+Original game-menu catalogs are available in English, Portuguese, Spanish, French, German, Italian, and Indonesian. The XBERecomp Russian catalog includes records from `MainUK.bin` in the game’s byte-preserving glyph representation; the mapping is not yet decoded as Unicode prose. Its Russian fonts are included under `Localization/Fonts/`. PT-BR also has a dedicated `Big.bin` / `Small.bin` pair, listed as PT-BR package dependencies in `manifest.json`; these are separate from the German, Indonesian, and Russian banks.
 
 Gameplay voice catalogs remain experimental: six locales have 3,591 rows each in the detailed set, and human audio confirmation/native review remain pending per row. PT-BR gameplay is retained for research but intentionally omitted from the locale download entries in `manifest.json`.
 
