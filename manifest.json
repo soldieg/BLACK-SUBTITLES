@@ -160,8 +160,8 @@
           "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/pt-BR.jsonl",
           "destination_path": "Localization/Menu/recomp.jsonl",
           "format": "jsonl",
-          "size_bytes": 98104,
-          "sha256": "3926c974ec2866fc7713a7e7b3c1484e3afe0946bcc91ffe6d33050738998b5d"
+          "size_bytes": 98062,
+          "sha256": "52d9481a71d4aa6b100658555fabc7b09f1d1d2a8581a5c0c998fb3eefda46b2"
         },
         {
           "category": "subtitle",
@@ -2559,8 +2559,8 @@
                         "type": "file",
                         "status": "listed",
                         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/pt-BR.jsonl",
-                        "size_bytes": 98104,
-                        "sha256": "3926c974ec2866fc7713a7e7b3c1484e3afe0946bcc91ffe6d33050738998b5d",
+                        "size_bytes": 98062,
+                        "sha256": "52d9481a71d4aa6b100658555fabc7b09f1d1d2a8581a5c0c998fb3eefda46b2",
                         "locales": [
                           "pt-BR"
                         ],
