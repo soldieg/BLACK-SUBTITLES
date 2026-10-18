@@ -252,6 +252,24 @@
           "format": "jsonl",
           "size_bytes": 33148,
           "sha256": "0cd29922d00c655bd6a3c88534c1da2d807b71dbbf7c12e2490ce0be90c7b4ab"
+        },
+        {
+          "category": "localization",
+          "asset_type": "font_dependency",
+          "source_path": "Localization/Fonts/runtime/pt-BR/language/fonts/Big.bin",
+          "destination_path": "Localization/Fonts/pt-BR/Big.bin",
+          "format": "bin",
+          "size_bytes": 72832,
+          "sha256": "88d1e26c99b183422eff9e3a3a4e976b33a361aa066c16f6d21450bbae886d9c"
+        },
+        {
+          "category": "localization",
+          "asset_type": "font_dependency",
+          "source_path": "Localization/Fonts/runtime/pt-BR/language/fonts/Small.bin",
+          "destination_path": "Localization/Fonts/pt-BR/Small.bin",
+          "format": "bin",
+          "size_bytes": 40448,
+          "sha256": "92bd86bea2a55f7109b746b196229c257160d6ef59b65afe7231a4940d9697d0"
         }
       ]
     },
@@ -2890,6 +2908,65 @@
                                 ],
                                 "destination_paths": [
                                   "Localization/Fonts/id/Small.bin"
+                                ],
+                                "formats": [
+                                  "bin"
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "pt-BR": {
+                    "type": "directory",
+                    "children": {
+                      "language": {
+                        "type": "directory",
+                        "children": {
+                          "fonts": {
+                            "type": "directory",
+                            "children": {
+                              "Big.bin": {
+                                "type": "file",
+                                "status": "listed",
+                                "source_path": "Localization/Fonts/runtime/pt-BR/language/fonts/Big.bin",
+                                "size_bytes": 72832,
+                                "sha256": "88d1e26c99b183422eff9e3a3a4e976b33a361aa066c16f6d21450bbae886d9c",
+                                "locales": [
+                                  "pt-BR"
+                                ],
+                                "categories": [
+                                  "localization"
+                                ],
+                                "asset_types": [
+                                  "font_dependency"
+                                ],
+                                "destination_paths": [
+                                  "Localization/Fonts/pt-BR/Big.bin"
+                                ],
+                                "formats": [
+                                  "bin"
+                                ]
+                              },
+                              "Small.bin": {
+                                "type": "file",
+                                "status": "listed",
+                                "source_path": "Localization/Fonts/runtime/pt-BR/language/fonts/Small.bin",
+                                "size_bytes": 40448,
+                                "sha256": "92bd86bea2a55f7109b746b196229c257160d6ef59b65afe7231a4940d9697d0",
+                                "locales": [
+                                  "pt-BR"
+                                ],
+                                "categories": [
+                                  "localization"
+                                ],
+                                "asset_types": [
+                                  "font_dependency"
+                                ],
+                                "destination_paths": [
+                                  "Localization/Fonts/pt-BR/Small.bin"
                                 ],
                                 "formats": [
                                   "bin"
