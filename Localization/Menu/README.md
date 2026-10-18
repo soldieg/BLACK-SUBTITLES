@@ -4,4 +4,4 @@ The six ID-keyed JSONL catalogs (`en-US`, `pt-BR`, `es`, `fr`, `de`, `it`) conta
 
 `editorial-review-build-legendas/` preserves earlier AI/editorial menu catalogs for comparison; the Main-bank exports are the active keyed source. Menu wording follows the supplied original language banks. Editorial review notes are documented separately; a text-only row does not imply human/native review.
 
-Font binaries and their dependencies are organized separately in [`../Fonts/`](../Fonts/). Runtime paths there are packaging examples, not compiled game-ready language banks.
+Font binaries and their dependencies are organized separately in [`../Fonts/`](../Fonts/). PT-BR `Small.bin` and `Big.bin` are included because the language package needs those runtime files; their hashes match the standard game fonts. Runtime paths there are packaging examples, not compiled game-ready language banks.

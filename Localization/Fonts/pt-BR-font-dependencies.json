@@ -1,0 +1,22 @@
+{
+  "locale": "pt-BR",
+  "required_game_files": [
+    {
+      "path": "language/fonts/Small.bin",
+      "size_bytes": 40448,
+      "sha256": "F194F96F9389BA7F4CB126AC02E2F619F27DF0339AB97DF6FE7A740E5A1FCA35",
+      "included_in_repository": true,
+      "note": "Included at Localization/Fonts/runtime/pt-BR/language/fonts/; byte-identical to the standard game font and the German and Indonesian package files, verified by SHA-256."
+    },
+    {
+      "path": "language/fonts/Big.bin",
+      "size_bytes": 72832,
+      "sha256": "119EDE7EC211DDEBDE76B46E4DCBEA86E486F1B13549FC1FE58ECB5ED59611C5",
+      "included_in_repository": true,
+      "note": "Included at Localization/Fonts/runtime/pt-BR/language/fonts/; byte-identical to the standard game font and the German and Indonesian package files, verified by SHA-256."
+    }
+  ],
+  "source": "BLACK v 3/assets/language/fonts/",
+  "evidence": "SHA-256 comparison against the PT-BR game build and existing de/id runtime font packages.",
+  "output_relative_path": "Localization/Fonts/runtime/pt-BR/language/fonts"
+}

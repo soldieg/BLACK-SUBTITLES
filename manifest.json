@@ -252,6 +252,24 @@
           "format": "jsonl",
           "size_bytes": 33148,
           "sha256": "0cd29922d00c655bd6a3c88534c1da2d807b71dbbf7c12e2490ce0be90c7b4ab"
+        },
+        {
+          "category": "localization",
+          "asset_type": "font_dependency",
+          "source_path": "Localization/Fonts/runtime/pt-BR/language/fonts/Big.bin",
+          "destination_path": "Localization/Fonts/pt-BR/Big.bin",
+          "format": "bin",
+          "size_bytes": 72832,
+          "sha256": "119ede7ec211ddebde76b46e4dcbea86e486f1b13549fc1fe58ecb5ed59611c5"
+        },
+        {
+          "category": "localization",
+          "asset_type": "font_dependency",
+          "source_path": "Localization/Fonts/runtime/pt-BR/language/fonts/Small.bin",
+          "destination_path": "Localization/Fonts/pt-BR/Small.bin",
+          "format": "bin",
+          "size_bytes": 40448,
+          "sha256": "f194f96f9389ba7f4cb126ac02e2f619f27df0339ab97df6fe7a740e5a1fca35"
         }
       ]
     },
@@ -2280,8 +2298,8 @@
                         "type": "file",
                         "status": "not_in_locale_catalog",
                         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/README.md",
-                        "size_bytes": 2897,
-                        "sha256": "5991934d5370c52243b3ee761f1a775efa8c0062d0e1e80e291a618efb165f71"
+                        "size_bytes": 3011,
+                        "sha256": "f445b2dc0161b88bcf99f126dee43bf345a80eaf9ac7504d6d40f10a2e35e3e9"
                       },
                       "de.jsonl": {
                         "type": "file",
@@ -2780,6 +2798,13 @@
                 "size_bytes": 1036,
                 "sha256": "af4f166717d57a6147f533162d5c3f8fc0d5c2e3e7975bc0cbb26f675d987b71"
               },
+              "pt-BR-font-dependencies.json": {
+                "type": "file",
+                "status": "not_in_locale_catalog",
+                "source_path": "Localization/Fonts/pt-BR-font-dependencies.json",
+                "size_bytes": 1063,
+                "sha256": "04b76ac477f0f796bf2e80ef7bb7861ce135d942346a5c4451d6dd49e861ccb1"
+              },
               "runtime": {
                 "type": "directory",
                 "children": {
@@ -2901,6 +2926,65 @@
                       }
                     }
                   },
+                  "pt-BR": {
+                    "type": "directory",
+                    "children": {
+                      "language": {
+                        "type": "directory",
+                        "children": {
+                          "fonts": {
+                            "type": "directory",
+                            "children": {
+                              "Big.bin": {
+                                "type": "file",
+                                "status": "listed",
+                                "source_path": "Localization/Fonts/runtime/pt-BR/language/fonts/Big.bin",
+                                "size_bytes": 72832,
+                                "sha256": "119ede7ec211ddebde76b46e4dcbea86e486f1b13549fc1fe58ecb5ed59611c5",
+                                "locales": [
+                                  "pt-BR"
+                                ],
+                                "categories": [
+                                  "localization"
+                                ],
+                                "asset_types": [
+                                  "font_dependency"
+                                ],
+                                "destination_paths": [
+                                  "Localization/Fonts/pt-BR/Big.bin"
+                                ],
+                                "formats": [
+                                  "bin"
+                                ]
+                              },
+                              "Small.bin": {
+                                "type": "file",
+                                "status": "listed",
+                                "source_path": "Localization/Fonts/runtime/pt-BR/language/fonts/Small.bin",
+                                "size_bytes": 40448,
+                                "sha256": "f194f96f9389ba7f4cb126ac02e2f619f27df0339ab97df6fe7a740e5a1fca35",
+                                "locales": [
+                                  "pt-BR"
+                                ],
+                                "categories": [
+                                  "localization"
+                                ],
+                                "asset_types": [
+                                  "font_dependency"
+                                ],
+                                "destination_paths": [
+                                  "Localization/Fonts/pt-BR/Small.bin"
+                                ],
+                                "formats": [
+                                  "bin"
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
                   "ru": {
                     "type": "directory",
                     "children": {
@@ -2985,8 +3069,8 @@
                 "type": "file",
                 "status": "not_in_locale_catalog",
                 "source_path": "Localization/Menu/README.md",
-                "size_bytes": 1212,
-                "sha256": "d11d64585729bf19e160b269b60487fc8c5c860f8b680aace758e1c4d95c408d"
+                "size_bytes": 1357,
+                "sha256": "e82f38f46f0e4a322fe8e2951d6e1c4ddc58c71c19e566261c313d57bdbc654c"
               },
               "RUSSIAN.md": {
                 "type": "file",

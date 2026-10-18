@@ -9,7 +9,7 @@ Reusable subtitle and localization source data for **BLACK (2006)**. This reposi
 
 - `Subtitles/`: the 72 primary cutscene SRTs, grouped by locale (`en`, `pt-BR`, `es`, `fr`, `de`, `it`, `id`, `ru`). These are the primary caption tracks, not the experimental audio-sync outputs.
 - `Localization/Menu/`: original game menu catalogs and source notes. Translation rows keep only their identifier and text; Indonesian source records are retained without invented IDs.
-- `Localization/Fonts/`: runtime font dependencies and their locale-specific layout (`de`, `id`, `ru`).
+- `Localization/Fonts/`: runtime font dependencies and their locale-specific layout (`de`, `id`, `pt-BR`, `ru`). PT-BR `Small.bin` and `Big.bin` match the standard game fonts by SHA-256.
 - `Launcher/`: 292 keyed launcher strings per available locale.
 - `Test/Audio-Sync/`: separate ASR candidate and retimed candidate sets. They are experimental and must not replace primary subtitle files without review.
 - `Test/Gameplay-Audio-Transcription/`: current 3,591-row-per-locale analysis and the earlier 3,196-row snapshot. These are research catalogs, not runtime-ready subtitles.
