@@ -10,20 +10,20 @@
 {"key":"MONITOR","text":"MONITOR"}
 {"key":"DISPLAY MODE","text":"MODO DE EXIBIÇÄO"}
 {"key":"RESOLUTION","text":"RESOLUÇÄO"}
-{"key":"RENDER RESOLUTION","text":"RESOLUÇÄO DE RENDERIZAÇÄO"}
-{"key":"FIELD OF VIEW","text":"CAMPO DE VISÄO"}
+{"key":"RENDER RESOLUTION","text":"RENDERIZAÇÄO INTERNA"}
+{"key":"FIELD OF VIEW","text":"FOV"}
 {"key":"VIEWMODEL FIELD OF VIEW","text":"CAMPO DE VISÄO DA ARMA"}
 {"key":"VERTICAL SYNC","text":"SINCRONIZAÇÄO VERTICAL"}
 {"key":"FMV SCALE","text":"ESCALA DOS VÍDEOS"}
 {"key":"FILL","text":"PREENCHER"}
 {"key":"HDR OUTPUT","text":"SAÍDA HDR"}
-{"key":"MAX FRAME RATE","text":"TAXA MÁXIMA DE QUADROS"}
-{"key":"FPS COUNTER","text":"CONTADOR DE FPS"}
+{"key":"MAX FRAME RATE","text":"FPS"}
+{"key":"FPS COUNTER","text":"EXIBIR DE FPS"}
 {"key":"ANISOTROPIC FILTERING","text":"FILTRAGEM ANISOTRÓPICA"}
 {"key":"DRAW DISTANCE","text":"DISTÂNCIA DE VISÄO"}
 {"key":"AMBIENT OCCLUSION","text":"OCLUSÄO DE AMBIENTE"}
 {"key":"RELOAD BLUR","text":"DESFOQUE AO RECARREGAR"}
-{"key":"SKIP INTROS","text":"PULAR INTRODUÇÖES"}
+{"key":"SKIP INTROS","text":"PULAR INTRODUÇÄO"}
 {"key":"PAUSE ON FOCUS LOSS","text":"PAUSAR AO PERDER O FOCO"}
 {"key":"LANGUAGE","text":"IDIOMA"}
 {"key":"AUDIO OUTPUT","text":"SAÍDA DE ÁUDIO"}
