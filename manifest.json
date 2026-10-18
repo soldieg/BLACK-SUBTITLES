@@ -151,8 +151,8 @@
           "source_path": "Localization/Menu/pt-BR.jsonl",
           "destination_path": "Localization/Menu/pt-BR.jsonl",
           "format": "jsonl",
-          "size_bytes": 91147,
-          "sha256": "b0850945a81fcdae1fd538dd03d5dfabcdf713fe2c1baaee78b1ba9c73d052b8"
+          "size_bytes": 89976,
+          "sha256": "a91723cecdef1c85953327cc8073deb221692e63ec7e626c1ebc344af81f513c"
         },
         {
           "category": "localization",
@@ -160,8 +160,8 @@
           "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/pt-BR.jsonl",
           "destination_path": "Localization/Menu/recomp.jsonl",
           "format": "jsonl",
-          "size_bytes": 98062,
-          "sha256": "52d9481a71d4aa6b100658555fabc7b09f1d1d2a8581a5c0c998fb3eefda46b2"
+          "size_bytes": 96891,
+          "sha256": "ad9382f6453be8f93799c9ff3250917d434539be99bc476feb8a9f3c164712ce"
         },
         {
           "category": "subtitle",
@@ -2190,8 +2190,8 @@
         "asset_type": "black_xbe_recomp_original_menu_catalog_mirror",
         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/original-game-menu/pt-BR.jsonl",
         "canonical_source_path": "Localization/Menu/pt-BR.jsonl",
-        "size_bytes": 91147,
-        "sha256": "b0850945a81fcdae1fd538dd03d5dfabcdf713fe2c1baaee78b1ba9c73d052b8",
+        "size_bytes": 89976,
+        "sha256": "a91723cecdef1c85953327cc8073deb221692e63ec7e626c1ebc344af81f513c",
         "mirror_only": true
       }
     ],
@@ -2525,8 +2525,8 @@
                             "type": "file",
                             "status": "listed",
                             "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/original-game-menu/pt-BR.jsonl",
-                            "size_bytes": 91147,
-                            "sha256": "b0850945a81fcdae1fd538dd03d5dfabcdf713fe2c1baaee78b1ba9c73d052b8",
+                            "size_bytes": 89976,
+                            "sha256": "a91723cecdef1c85953327cc8073deb221692e63ec7e626c1ebc344af81f513c",
                             "locales": [
                               "pt-BR"
                             ],
@@ -2559,8 +2559,8 @@
                         "type": "file",
                         "status": "listed",
                         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/pt-BR.jsonl",
-                        "size_bytes": 98062,
-                        "sha256": "52d9481a71d4aa6b100658555fabc7b09f1d1d2a8581a5c0c998fb3eefda46b2",
+                        "size_bytes": 96891,
+                        "sha256": "ad9382f6453be8f93799c9ff3250917d434539be99bc476feb8a9f3c164712ce",
                         "locales": [
                           "pt-BR"
                         ],
@@ -2978,15 +2978,15 @@
                 "type": "file",
                 "status": "not_in_locale_catalog",
                 "source_path": "Localization/Menu/MAIN-BANK-SOURCES.md",
-                "size_bytes": 1175,
-                "sha256": "4417317565b9dfcf99f87ba8ccd1cb39464d49d295dfd10630f12818687ef507"
+                "size_bytes": 1262,
+                "sha256": "f9e80eb9e4761944f0f5a68dc703e3ac06ff61986f8bab84b884b0c6eaf837f9"
               },
               "README.md": {
                 "type": "file",
                 "status": "not_in_locale_catalog",
                 "source_path": "Localization/Menu/README.md",
-                "size_bytes": 962,
-                "sha256": "b4900b00a8036762a79e38539832e07ce4e6db3d2028541f3219423c6e8f7ef8"
+                "size_bytes": 1212,
+                "sha256": "d11d64585729bf19e160b269b60487fc8c5c860f8b680aace758e1c4d95c408d"
               },
               "RUSSIAN.md": {
                 "type": "file",
@@ -3178,8 +3178,8 @@
                 "type": "file",
                 "status": "listed",
                 "source_path": "Localization/Menu/pt-BR.jsonl",
-                "size_bytes": 91147,
-                "sha256": "b0850945a81fcdae1fd538dd03d5dfabcdf713fe2c1baaee78b1ba9c73d052b8",
+                "size_bytes": 89976,
+                "sha256": "a91723cecdef1c85953327cc8073deb221692e63ec7e626c1ebc344af81f513c",
                 "locales": [
                   "pt-BR"
                 ],
