@@ -137,6 +137,22 @@
 {"key":"Close","text":"Chiudi"}
 {"key":"All files listed in the manifest are present and match their SHA-256 checks.","text":"Tutti i file del manifest sono presenti e corrispondono ai controlli SHA-256."}
 {"key":"Nothing is submitted automatically; you can review the draft before submitting.","text":"Non viene inviato nulla automaticamente; controlla la bozza prima di inviarla."}
+{"key":"CONTROLLER","text":"Controller"}
+{"key":"MENU ANIMATIONS","text":"Animazioni dei menu"}
+{"key":"AIM ASSIST","text":"Mira assistita"}
+{"key":"SENSITIVITY","text":"Sensibilità"}
+{"key":"RUMBLE INTENSITY","text":"Intensità della vibrazione"}
+{"key":"GIVE A WEAPON","text":"Dai un'arma"}
+{"key":"AMMUNITION","text":"Munizioni"}
+{"key":"FILL AMMUNITION","text":"Rifornisci munizioni"}
+{"key":"Start or continue a level to choose its weapons.","text":"Avvia o continua un livello per scegliere le armi."}
+{"key":"Restart to apply language?","text":"Riavviare per applicare la lingua?"}
+{"key":"Restart the game now to apply this language?","text":"Riavviare il gioco ora per applicare questa lingua?"}
+{"key":"Restart now","text":"Riavvia ora"}
+{"key":"Language download failed. Check black.log.","text":"Download della lingua non riuscito. Controlla black.log."}
+{"key":"Downloading language package...","text":"Download del pacchetto lingua..."}
+{"key":"Retry download","text":"Riprova download"}
+{"key":"Later","text":"Più tardi"}
 {"id":"80238916","text":"Solo obiettivi primari. Molti kit medici. Nessuna ricompensa."}
 {"id":"8024F22A","text":"USA LE LAPIDI COME COPERTURA"}
 {"id":"8026E5C0","text":"Vuoto"}

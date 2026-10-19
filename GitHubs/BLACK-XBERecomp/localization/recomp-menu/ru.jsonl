@@ -137,6 +137,22 @@
 {"key":"Close","text":"ЗАКРЫТЬ"}
 {"key":"All files listed in the manifest are present and match their SHA-256 checks.","text":"Все файлы манифеста на месте и соответствуют проверке SHA-256."}
 {"key":"Nothing is submitted automatically; you can review the draft before submitting.","text":"Ничего не отправляется автоматически; проверьте черновик перед отправкой."}
+{"key":"CONTROLLER","text":"КОНТРОЛЛЕР"}
+{"key":"MENU ANIMATIONS","text":"АНИМАЦИЯ МЕНЮ"}
+{"key":"AIM ASSIST","text":"ПОМОЩЬ ПРИ ПРИЦЕЛИВАНИИ"}
+{"key":"SENSITIVITY","text":"ЧУВСТВИТЕЛЬНОСТЬ"}
+{"key":"RUMBLE INTENSITY","text":"ИНТЕНСИВНОСТЬ ВИБРАЦИИ"}
+{"key":"GIVE A WEAPON","text":"ВЫДАТЬ ОРУЖИЕ"}
+{"key":"AMMUNITION","text":"БОЕПРИПАСЫ"}
+{"key":"FILL AMMUNITION","text":"ПОПОЛНИТЬ БОЕПРИПАСЫ"}
+{"key":"Start or continue a level to choose its weapons.","text":"Начните или продолжите уровень, чтобы выбрать оружие."}
+{"key":"Restart to apply language?","text":"Перезапустить игру для смены языка?"}
+{"key":"Restart the game now to apply this language?","text":"Перезапустить игру сейчас, чтобы применить этот язык?"}
+{"key":"Restart now","text":"ПЕРЕЗАПУСТИТЬ СЕЙЧАС"}
+{"key":"Language download failed. Check black.log.","text":"Не удалось скачать языковой пакет. См. black.log."}
+{"key":"Downloading language package...","text":"Загрузка языкового пакета..."}
+{"key":"Retry download","text":"ПОВТОРИТЬ СКАЧИВАНИЕ"}
+{"key":"Later","text":"ПОЗЖЕ"}
 {"id":"80238916","text":"OCHOBHSE QELN. MHOFO AZTE4EK. HAFPAD HET."}
 {"id":"8024F22A","text":"NCZOLJ3YN HADFPO6NR DLR YKPSTNR"}
 {"id":"8026E5C0","text":"ZYCTO"}

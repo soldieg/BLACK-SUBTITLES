@@ -137,6 +137,22 @@
 {"key":"Close","text":"Fechar"}
 {"key":"All files listed in the manifest are present and match their SHA-256 checks.","text":"Todos os arquivos do manifesto estäo presentes e conferem com o SHA-256."}
 {"key":"Nothing is submitted automatically; you can review the draft before submitting.","text":"Nada é enviado automaticamente; revise o rascunho antes de enviar."}
+{"key":"CONTROLLER","text":"Controle"}
+{"key":"MENU ANIMATIONS","text":"Animações dos menus"}
+{"key":"AIM ASSIST","text":"Assistência de mira"}
+{"key":"SENSITIVITY","text":"Sensibilidade"}
+{"key":"RUMBLE INTENSITY","text":"Intensidade da vibração"}
+{"key":"GIVE A WEAPON","text":"Dar uma arma"}
+{"key":"AMMUNITION","text":"Munição"}
+{"key":"FILL AMMUNITION","text":"Repor munição"}
+{"key":"Start or continue a level to choose its weapons.","text":"Inicie ou continue uma fase para escolher suas armas."}
+{"key":"Restart to apply language?","text":"Reiniciar para aplicar o idioma?"}
+{"key":"Restart the game now to apply this language?","text":"Reiniciar o jogo agora para aplicar este idioma?"}
+{"key":"Restart now","text":"Reiniciar agora"}
+{"key":"Language download failed. Check black.log.","text":"Falha ao baixar o idioma. Consulte black.log."}
+{"key":"Downloading language package...","text":"Baixando pacote de idioma..."}
+{"key":"Retry download","text":"Tentar baixar novamente"}
+{"key":"Later","text":"Mais tarde"}
 {"id":"80238916","text":"Apenas objetivos primários. Muitos kits de primeiros socorros. Sem recompensas."}
 {"id":"8024F22A","text":"Use as lápides como cobertura."}
 {"id":"8026E5C0","text":"Vazio"}

@@ -137,6 +137,22 @@
 {"key":"Close","text":"Cerrar"}
 {"key":"All files listed in the manifest are present and match their SHA-256 checks.","text":"Todos los archivos del manifiesto están presentes y coinciden con SHA-256."}
 {"key":"Nothing is submitted automatically; you can review the draft before submitting.","text":"No se envía nada automáticamente; revisa el borrador antes de enviarlo."}
+{"key":"CONTROLLER","text":"Mando"}
+{"key":"MENU ANIMATIONS","text":"Animaciones de los menús"}
+{"key":"AIM ASSIST","text":"Asistencia de apuntado"}
+{"key":"SENSITIVITY","text":"Sensibilidad"}
+{"key":"RUMBLE INTENSITY","text":"Intensidad de la vibración"}
+{"key":"GIVE A WEAPON","text":"Dar un arma"}
+{"key":"AMMUNITION","text":"Munición"}
+{"key":"FILL AMMUNITION","text":"Rellenar munición"}
+{"key":"Start or continue a level to choose its weapons.","text":"Inicia o continúa un nivel para elegir tus armas."}
+{"key":"Restart to apply language?","text":"¿Reiniciar para aplicar el idioma?"}
+{"key":"Restart the game now to apply this language?","text":"¿Reiniciar el juego ahora para aplicar este idioma?"}
+{"key":"Restart now","text":"Reiniciar ahora"}
+{"key":"Language download failed. Check black.log.","text":"No se pudo descargar el idioma. Consulta black.log."}
+{"key":"Downloading language package...","text":"Descargando el paquete de idioma..."}
+{"key":"Retry download","text":"Reintentar descarga"}
+{"key":"Later","text":"Más tarde"}
 {"id":"80238916","text":"Solo los objetivos principales. Montones de botiquines. Sin recompensa."}
 {"id":"8024F22A","text":"PONTE A CUBIERTO TRAS LAS LÁPIDAS"}
 {"id":"8026E5C0","text":"Vacío"}
