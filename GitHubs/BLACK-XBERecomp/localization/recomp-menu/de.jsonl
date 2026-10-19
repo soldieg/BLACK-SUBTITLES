@@ -15,7 +15,7 @@
 {"key":"VIEWMODEL FIELD OF VIEW","text":"WAFFEN-SICHTFELD"}
 {"key":"VERTICAL SYNC","text":"V-SYNC"}
 {"key":"FMV SCALE","text":"VIDEOSKALIERUNG"}
-{"key":"FILL","text":"FÜLLEN"}
+{"key":"FILL","text":"Ausfüllen"}
 {"key":"HDR OUTPUT","text":"HDR-AUSGABE"}
 {"key":"MAX FRAME RATE","text":"MAX. BILDRATE"}
 {"key":"FPS COUNTER","text":"FPS-ANZEIGE"}
@@ -1889,3 +1889,9 @@
 {"key":"FILES UPDATED","text":"Dateien aktualisiert"}
 {"key":"READY - RESTART","text":"Bereit - neu starten"}
 {"key":"This language is downloading individually.","text":"Dieses Sprachpaket wird einzeln heruntergeladen."}
+{"key":"DLSS / DLAA","text":"DLSS / DLAA"}
+{"key":"DLSS QUALITY","text":"DLSS-Qualität"}
+{"key":"DLSS BALANCED","text":"DLSS Ausgewogen"}
+{"key":"DLSS PERFORMANCE","text":"DLSS-Leistung"}
+{"key":"DEFAULT","text":"Standard"}
+{"key":"RESTART","text":"Neustart"}

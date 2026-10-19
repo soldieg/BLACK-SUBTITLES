@@ -1889,3 +1889,9 @@
 {"key":"FILES UPDATED","text":"ФАЙЛЫ ОБНОВЛЕНЫ"}
 {"key":"READY - RESTART","text":"ГОТОВО - ПЕРЕЗАПУСК"}
 {"key":"This language is downloading individually.","text":"Этот язык загружается отдельно."}
+{"key":"DLSS / DLAA","text":"DLSS / DLAA"}
+{"key":"DLSS QUALITY","text":"КАЧЕСТВО DLSS"}
+{"key":"DLSS BALANCED","text":"СБАЛАНСИРОВАННЫЙ DLSS"}
+{"key":"DLSS PERFORMANCE","text":"ПРОИЗВОДИТЕЛЬНОСТЬ DLSS"}
+{"key":"DEFAULT","text":"ПО УМОЛЧАНИЮ"}
+{"key":"RESTART","text":"ПЕРЕЗАПУСК"}

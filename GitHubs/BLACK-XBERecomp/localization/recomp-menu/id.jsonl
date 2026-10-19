@@ -15,7 +15,7 @@
 {"key":"VIEWMODEL FIELD OF VIEW","text":"BIDANG PANDANG SENJATA"}
 {"key":"VERTICAL SYNC","text":"SINKRONISASI VERTIKAL"}
 {"key":"FMV SCALE","text":"SKALA VIDEO"}
-{"key":"FILL","text":"ISI"}
+{"key":"FILL","text":"Isi"}
 {"key":"HDR OUTPUT","text":"OUTPUT HDR"}
 {"key":"MAX FRAME RATE","text":"FRAME RATE MAKSIMUM"}
 {"key":"FPS COUNTER","text":"PENGHITUNG FPS"}
@@ -1889,3 +1889,9 @@
 {"key":"FILES UPDATED","text":"FILE DIPERBARUI"}
 {"key":"READY - RESTART","text":"SIAP - MULAI ULANG"}
 {"key":"This language is downloading individually.","text":"Bahasa ini diunduh secara terpisah."}
+{"key":"DLSS / DLAA","text":"DLSS / DLAA"}
+{"key":"DLSS QUALITY","text":"Kualitas DLSS"}
+{"key":"DLSS BALANCED","text":"DLSS seimbang"}
+{"key":"DLSS PERFORMANCE","text":"Performa DLSS"}
+{"key":"DEFAULT","text":"BAWAAN"}
+{"key":"RESTART","text":"MULAI ULANG"}

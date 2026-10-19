@@ -15,7 +15,7 @@
 {"key":"VIEWMODEL FIELD OF VIEW","text":"CAMPO VISIVO DELL'ARMA"}
 {"key":"VERTICAL SYNC","text":"SINCRONIA VERTICALE"}
 {"key":"FMV SCALE","text":"SCALA DEI FILMATI"}
-{"key":"FILL","text":"RIEMPI"}
+{"key":"FILL","text":"Riempi"}
 {"key":"HDR OUTPUT","text":"USCITA HDR"}
 {"key":"MAX FRAME RATE","text":"FRAME RATE MASSIMO"}
 {"key":"FPS COUNTER","text":"CONTATORE FPS"}
@@ -1889,3 +1889,9 @@
 {"key":"FILES UPDATED","text":"File aggiornati"}
 {"key":"READY - RESTART","text":"Pronto - riavvia"}
 {"key":"This language is downloading individually.","text":"Questa lingua viene scaricata singolarmente."}
+{"key":"DLSS / DLAA","text":"DLSS / DLAA"}
+{"key":"DLSS QUALITY","text":"Qualità DLSS"}
+{"key":"DLSS BALANCED","text":"DLSS bilanciato"}
+{"key":"DLSS PERFORMANCE","text":"Prestazioni DLSS"}
+{"key":"DEFAULT","text":"Predefinito"}
+{"key":"RESTART","text":"Riavvio"}
