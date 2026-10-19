@@ -137,6 +137,22 @@
 {"key":"Close","text":"Close"}
 {"key":"All files listed in the manifest are present and match their SHA-256 checks.","text":"All files listed in the manifest are present and match their SHA-256 checks."}
 {"key":"Nothing is submitted automatically; you can review the draft before submitting.","text":"Nothing is submitted automatically; you can review the draft before submitting."}
+{"key":"CONTROLLER","text":"CONTROLLER"}
+{"key":"MENU ANIMATIONS","text":"MENU ANIMATIONS"}
+{"key":"AIM ASSIST","text":"AIM ASSIST"}
+{"key":"SENSITIVITY","text":"SENSITIVITY"}
+{"key":"RUMBLE INTENSITY","text":"RUMBLE INTENSITY"}
+{"key":"GIVE A WEAPON","text":"GIVE A WEAPON"}
+{"key":"AMMUNITION","text":"AMMUNITION"}
+{"key":"FILL AMMUNITION","text":"FILL AMMUNITION"}
+{"key":"Start or continue a level to choose its weapons.","text":"Start or continue a level to choose its weapons."}
+{"key":"Restart to apply language?","text":"Restart to apply language?"}
+{"key":"Restart the game now to apply this language?","text":"Restart the game now to apply this language?"}
+{"key":"Restart now","text":"Restart now"}
+{"key":"Language download failed. Check black.log.","text":"Language download failed. Check black.log."}
+{"key":"Downloading language package...","text":"Downloading language package..."}
+{"key":"Retry download","text":"Retry download"}
+{"key":"Later","text":"Later"}
 {"id":"80238916","text":"Primary objectives only. Lots of Healthpacks. No rewards."}
 {"id":"8024F22A","text":"use gravestones for cover"}
 {"id":"8026E5C0","text":"Blank"}
@@ -1861,3 +1877,21 @@
 {"id":"7F5886E4","text":"press ² to start"}
 {"id":"7FDFB58E","text":"no"}
 {"id":"7FE9E547","text":"*"}
+{"key":"GYRO AIMING","text":"GYRO AIMING"}
+{"key":"GYRO SENSITIVITY","text":"GYRO SENSITIVITY"}
+{"key":"SCREEN SPACE REFLECTIONS","text":"SCREEN SPACE REFLECTIONS"}
+{"key":"LOW","text":"LOW"}
+{"key":"MEDIUM","text":"MEDIUM"}
+{"key":"HIGH","text":"HIGH"}
+{"key":"ULTRA","text":"ULTRA"}
+{"key":"Subtitle test","text":"Subtitle test"}
+{"key":"FILES READY","text":"FILES READY"}
+{"key":"FILES UPDATED","text":"FILES UPDATED"}
+{"key":"READY - RESTART","text":"READY - RESTART"}
+{"key":"This language is downloading individually.","text":"This language is downloading individually."}
+{"key":"DLSS / DLAA","text":"DLSS / DLAA"}
+{"key":"DLSS QUALITY","text":"DLSS QUALITY"}
+{"key":"DLSS BALANCED","text":"DLSS BALANCED"}
+{"key":"DLSS PERFORMANCE","text":"DLSS PERFORMANCE"}
+{"key":"DEFAULT","text":"DEFAULT"}
+{"key":"RESTART","text":"RESTART"}

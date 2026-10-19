@@ -15,7 +15,7 @@
 {"key":"VIEWMODEL FIELD OF VIEW","text":"CAMPO VISIVO DELL'ARMA"}
 {"key":"VERTICAL SYNC","text":"SINCRONIA VERTICALE"}
 {"key":"FMV SCALE","text":"SCALA DEI FILMATI"}
-{"key":"FILL","text":"RIEMPI"}
+{"key":"FILL","text":"Riempi"}
 {"key":"HDR OUTPUT","text":"USCITA HDR"}
 {"key":"MAX FRAME RATE","text":"FRAME RATE MASSIMO"}
 {"key":"FPS COUNTER","text":"CONTATORE FPS"}
@@ -137,6 +137,22 @@
 {"key":"Close","text":"Chiudi"}
 {"key":"All files listed in the manifest are present and match their SHA-256 checks.","text":"Tutti i file del manifest sono presenti e corrispondono ai controlli SHA-256."}
 {"key":"Nothing is submitted automatically; you can review the draft before submitting.","text":"Non viene inviato nulla automaticamente; controlla la bozza prima di inviarla."}
+{"key":"CONTROLLER","text":"Controller"}
+{"key":"MENU ANIMATIONS","text":"Animazioni dei menu"}
+{"key":"AIM ASSIST","text":"Mira assistita"}
+{"key":"SENSITIVITY","text":"Sensibilità"}
+{"key":"RUMBLE INTENSITY","text":"Intensità della vibrazione"}
+{"key":"GIVE A WEAPON","text":"Dai un'arma"}
+{"key":"AMMUNITION","text":"Munizioni"}
+{"key":"FILL AMMUNITION","text":"Rifornisci munizioni"}
+{"key":"Start or continue a level to choose its weapons.","text":"Avvia o continua un livello per scegliere le armi."}
+{"key":"Restart to apply language?","text":"Riavviare per applicare la lingua?"}
+{"key":"Restart the game now to apply this language?","text":"Riavviare il gioco ora per applicare questa lingua?"}
+{"key":"Restart now","text":"Riavvia ora"}
+{"key":"Language download failed. Check black.log.","text":"Download della lingua non riuscito. Controlla black.log."}
+{"key":"Downloading language package...","text":"Download del pacchetto lingua..."}
+{"key":"Retry download","text":"Riprova download"}
+{"key":"Later","text":"Più tardi"}
 {"id":"80238916","text":"Solo obiettivi primari. Molti kit medici. Nessuna ricompensa."}
 {"id":"8024F22A","text":"USA LE LAPIDI COME COPERTURA"}
 {"id":"8026E5C0","text":"Vuoto"}
@@ -1861,3 +1877,21 @@
 {"id":"7F5886E4","text":"Premi ² per iniziare"}
 {"id":"7FDFB58E","text":"No"}
 {"id":"7FE9E547","text":"*"}
+{"key":"GYRO AIMING","text":"Mira giroscopica"}
+{"key":"GYRO SENSITIVITY","text":"Sensibilità giroscopio"}
+{"key":"SCREEN SPACE REFLECTIONS","text":"Riflessi schermo"}
+{"key":"LOW","text":"Basso"}
+{"key":"MEDIUM","text":"Medio"}
+{"key":"HIGH","text":"Alto"}
+{"key":"ULTRA","text":"Ultra"}
+{"key":"Subtitle test","text":"Prova sottotitoli"}
+{"key":"FILES READY","text":"File pronti"}
+{"key":"FILES UPDATED","text":"File aggiornati"}
+{"key":"READY - RESTART","text":"Pronto - riavvia"}
+{"key":"This language is downloading individually.","text":"Questa lingua viene scaricata singolarmente."}
+{"key":"DLSS / DLAA","text":"DLSS / DLAA"}
+{"key":"DLSS QUALITY","text":"Qualità DLSS"}
+{"key":"DLSS BALANCED","text":"DLSS bilanciato"}
+{"key":"DLSS PERFORMANCE","text":"Prestazioni DLSS"}
+{"key":"DEFAULT","text":"Predefinito"}
+{"key":"RESTART","text":"Riavvio"}

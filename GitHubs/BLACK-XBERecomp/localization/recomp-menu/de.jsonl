@@ -15,7 +15,7 @@
 {"key":"VIEWMODEL FIELD OF VIEW","text":"WAFFEN-SICHTFELD"}
 {"key":"VERTICAL SYNC","text":"V-SYNC"}
 {"key":"FMV SCALE","text":"VIDEOSKALIERUNG"}
-{"key":"FILL","text":"FÜLLEN"}
+{"key":"FILL","text":"Ausfüllen"}
 {"key":"HDR OUTPUT","text":"HDR-AUSGABE"}
 {"key":"MAX FRAME RATE","text":"MAX. BILDRATE"}
 {"key":"FPS COUNTER","text":"FPS-ANZEIGE"}
@@ -137,6 +137,22 @@
 {"key":"Close","text":"Schließen"}
 {"key":"All files listed in the manifest are present and match their SHA-256 checks.","text":"Alle Manifestdateien sind vorhanden und stimmen mit den SHA-256-Prüfungen überein."}
 {"key":"Nothing is submitted automatically; you can review the draft before submitting.","text":"Es wird nichts automatisch gesendet; prüfe den Entwurf vor dem Absenden."}
+{"key":"CONTROLLER","text":"Controller"}
+{"key":"MENU ANIMATIONS","text":"Menüanimationen"}
+{"key":"AIM ASSIST","text":"Zielhilfe"}
+{"key":"SENSITIVITY","text":"Empfindlichkeit"}
+{"key":"RUMBLE INTENSITY","text":"Vibrationsstärke"}
+{"key":"GIVE A WEAPON","text":"Waffe geben"}
+{"key":"AMMUNITION","text":"Munition"}
+{"key":"FILL AMMUNITION","text":"Munition auffüllen"}
+{"key":"Start or continue a level to choose its weapons.","text":"Starte ein Level oder setze es fort, um deine Waffen auszuwählen."}
+{"key":"Restart to apply language?","text":"Sprache jetzt anwenden und neu starten?"}
+{"key":"Restart the game now to apply this language?","text":"Das Spiel jetzt neu starten, um diese Sprache anzuwenden?"}
+{"key":"Restart now","text":"Jetzt neu starten"}
+{"key":"Language download failed. Check black.log.","text":"Sprachpaket konnte nicht heruntergeladen werden. Siehe black.log."}
+{"key":"Downloading language package...","text":"Sprachpaket wird heruntergeladen..."}
+{"key":"Retry download","text":"Erneut herunterladen"}
+{"key":"Later","text":"Später"}
 {"id":"80238916","text":"nur primärziele. zahlreiche medikits. keine belohnungen."}
 {"id":"8024F22A","text":"geh hinter grabsteinen in deckung"}
 {"id":"8026E5C0","text":"Leer"}
@@ -1861,3 +1877,21 @@
 {"id":"7F5886E4","text":"spiel starten mit ²"}
 {"id":"7FDFB58E","text":"nein"}
 {"id":"7FE9E547","text":"*"}
+{"key":"GYRO AIMING","text":"Gyro-Zielen"}
+{"key":"GYRO SENSITIVITY","text":"Gyro-Empfindlichkeit"}
+{"key":"SCREEN SPACE REFLECTIONS","text":"Bildschirmreflexionen"}
+{"key":"LOW","text":"Niedrig"}
+{"key":"MEDIUM","text":"Mittel"}
+{"key":"HIGH","text":"Hoch"}
+{"key":"ULTRA","text":"Ultra"}
+{"key":"Subtitle test","text":"Untertiteltest"}
+{"key":"FILES READY","text":"Dateien bereit"}
+{"key":"FILES UPDATED","text":"Dateien aktualisiert"}
+{"key":"READY - RESTART","text":"Bereit - neu starten"}
+{"key":"This language is downloading individually.","text":"Dieses Sprachpaket wird einzeln heruntergeladen."}
+{"key":"DLSS / DLAA","text":"DLSS / DLAA"}
+{"key":"DLSS QUALITY","text":"DLSS-Qualität"}
+{"key":"DLSS BALANCED","text":"DLSS Ausgewogen"}
+{"key":"DLSS PERFORMANCE","text":"DLSS-Leistung"}
+{"key":"DEFAULT","text":"Standard"}
+{"key":"RESTART","text":"Neustart"}

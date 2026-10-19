@@ -15,7 +15,7 @@
 {"key":"VIEWMODEL FIELD OF VIEW","text":"CAMPO DE VISÄO DA ARMA"}
 {"key":"VERTICAL SYNC","text":"SINCRONIZAÇÄO VERTICAL"}
 {"key":"FMV SCALE","text":"ESCALA DOS VÍDEOS"}
-{"key":"FILL","text":"PREENCHER"}
+{"key":"FILL","text":"Preencher"}
 {"key":"HDR OUTPUT","text":"SAÍDA HDR"}
 {"key":"MAX FRAME RATE","text":"FPS"}
 {"key":"FPS COUNTER","text":"EXIBIR DE FPS"}
@@ -137,6 +137,22 @@
 {"key":"Close","text":"Fechar"}
 {"key":"All files listed in the manifest are present and match their SHA-256 checks.","text":"Todos os arquivos do manifesto estäo presentes e conferem com o SHA-256."}
 {"key":"Nothing is submitted automatically; you can review the draft before submitting.","text":"Nada é enviado automaticamente; revise o rascunho antes de enviar."}
+{"key":"CONTROLLER","text":"Controle"}
+{"key":"MENU ANIMATIONS","text":"Animações dos menus"}
+{"key":"AIM ASSIST","text":"Assistência de mira"}
+{"key":"SENSITIVITY","text":"Sensibilidade"}
+{"key":"RUMBLE INTENSITY","text":"Intensidade da vibração"}
+{"key":"GIVE A WEAPON","text":"Dar uma arma"}
+{"key":"AMMUNITION","text":"Munição"}
+{"key":"FILL AMMUNITION","text":"Repor munição"}
+{"key":"Start or continue a level to choose its weapons.","text":"Inicie ou continue uma fase para escolher suas armas."}
+{"key":"Restart to apply language?","text":"Reiniciar para aplicar o idioma?"}
+{"key":"Restart the game now to apply this language?","text":"Reiniciar o jogo agora para aplicar este idioma?"}
+{"key":"Restart now","text":"Reiniciar agora"}
+{"key":"Language download failed. Check black.log.","text":"Falha ao baixar o idioma. Consulte black.log."}
+{"key":"Downloading language package...","text":"Baixando pacote de idioma..."}
+{"key":"Retry download","text":"Tentar baixar novamente"}
+{"key":"Later","text":"Mais tarde"}
 {"id":"80238916","text":"Apenas objetivos primários. Muitos kits de primeiros socorros. Sem recompensas."}
 {"id":"8024F22A","text":"Use as lápides como cobertura."}
 {"id":"8026E5C0","text":"Vazio"}
@@ -1861,3 +1877,21 @@
 {"id":"7F5886E4","text":"Pressione ² para começar"}
 {"id":"7FDFB58E","text":"Näo"}
 {"id":"7FE9E547","text":"*"}
+{"key":"GYRO AIMING","text":"Mira por giroscópio"}
+{"key":"GYRO SENSITIVITY","text":"Sensibilidade do giroscópio"}
+{"key":"SCREEN SPACE REFLECTIONS","text":"Reflexos na tela"}
+{"key":"LOW","text":"Baixo"}
+{"key":"MEDIUM","text":"Médio"}
+{"key":"HIGH","text":"Alto"}
+{"key":"ULTRA","text":"Ultra"}
+{"key":"Subtitle test","text":"Teste de legenda"}
+{"key":"FILES READY","text":"Arquivos prontos"}
+{"key":"FILES UPDATED","text":"Arquivos atualizados"}
+{"key":"READY - RESTART","text":"Pronto - reiniciar"}
+{"key":"This language is downloading individually.","text":"Este idioma está sendo baixado individualmente."}
+{"key":"DLSS / DLAA","text":"DLSS / DLAA"}
+{"key":"DLSS QUALITY","text":"Qualidade DLSS"}
+{"key":"DLSS BALANCED","text":"DLSS equilibrado"}
+{"key":"DLSS PERFORMANCE","text":"Desempenho DLSS"}
+{"key":"DEFAULT","text":"Padrão"}
+{"key":"RESTART","text":"Reiniciar"}

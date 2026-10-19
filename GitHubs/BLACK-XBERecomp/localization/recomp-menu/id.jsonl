@@ -15,7 +15,7 @@
 {"key":"VIEWMODEL FIELD OF VIEW","text":"BIDANG PANDANG SENJATA"}
 {"key":"VERTICAL SYNC","text":"SINKRONISASI VERTIKAL"}
 {"key":"FMV SCALE","text":"SKALA VIDEO"}
-{"key":"FILL","text":"ISI"}
+{"key":"FILL","text":"Isi"}
 {"key":"HDR OUTPUT","text":"OUTPUT HDR"}
 {"key":"MAX FRAME RATE","text":"FRAME RATE MAKSIMUM"}
 {"key":"FPS COUNTER","text":"PENGHITUNG FPS"}
@@ -137,6 +137,22 @@
 {"key":"Close","text":"TUTUP"}
 {"key":"All files listed in the manifest are present and match their SHA-256 checks.","text":"Semua file dalam manifest tersedia dan cocok dengan SHA-256."}
 {"key":"Nothing is submitted automatically; you can review the draft before submitting.","text":"Tidak ada yang dikirim otomatis; tinjau draf sebelum mengirim."}
+{"key":"CONTROLLER","text":"Kontroler"}
+{"key":"MENU ANIMATIONS","text":"ANIMASI MENU"}
+{"key":"AIM ASSIST","text":"BANTUAN BIDIK"}
+{"key":"SENSITIVITY","text":"SENSITIVITAS"}
+{"key":"RUMBLE INTENSITY","text":"INTENSITAS GETARAN"}
+{"key":"GIVE A WEAPON","text":"Berikan senjata"}
+{"key":"AMMUNITION","text":"AMUNISI"}
+{"key":"FILL AMMUNITION","text":"Isi amunisi"}
+{"key":"Start or continue a level to choose its weapons.","text":"Mulai atau lanjutkan level untuk memilih senjata."}
+{"key":"Restart to apply language?","text":"Mulai ulang untuk menerapkan bahasa?"}
+{"key":"Restart the game now to apply this language?","text":"Mulai ulang game sekarang untuk menerapkan bahasa ini?"}
+{"key":"Restart now","text":"Mulai ulang sekarang"}
+{"key":"Language download failed. Check black.log.","text":"Pengunduhan bahasa gagal. Periksa black.log."}
+{"key":"Downloading language package...","text":"Mengunduh paket bahasa..."}
+{"key":"Retry download","text":"Coba unduh lagi"}
+{"key":"Later","text":"Nanti"}
 {"id":"80238916","text":"Target utama aja. Health pack melimpah. Tanpa hadiah."}
 {"id":"8024F22A","text":"pakai batu nisan buat berlindung"}
 {"id":"8026E5C0","text":"Kosong"}
@@ -1861,3 +1877,21 @@
 {"id":"7F5886E4","text":"tekan ² buat mulai"}
 {"id":"7FDFB58E","text":"tidak"}
 {"id":"7FE9E547","text":"*"}
+{"key":"GYRO AIMING","text":"BIDIKAN GIRO"}
+{"key":"GYRO SENSITIVITY","text":"SENSITIVITAS GIRO"}
+{"key":"SCREEN SPACE REFLECTIONS","text":"REFLEKSI LAYAR"}
+{"key":"LOW","text":"RENDAH"}
+{"key":"MEDIUM","text":"SEDANG"}
+{"key":"HIGH","text":"TINGGI"}
+{"key":"ULTRA","text":"ULTRA"}
+{"key":"Subtitle test","text":"Tes subtitle"}
+{"key":"FILES READY","text":"FILE SIAP"}
+{"key":"FILES UPDATED","text":"FILE DIPERBARUI"}
+{"key":"READY - RESTART","text":"SIAP - MULAI ULANG"}
+{"key":"This language is downloading individually.","text":"Bahasa ini diunduh secara terpisah."}
+{"key":"DLSS / DLAA","text":"DLSS / DLAA"}
+{"key":"DLSS QUALITY","text":"Kualitas DLSS"}
+{"key":"DLSS BALANCED","text":"DLSS seimbang"}
+{"key":"DLSS PERFORMANCE","text":"Performa DLSS"}
+{"key":"DEFAULT","text":"BAWAAN"}
+{"key":"RESTART","text":"MULAI ULANG"}

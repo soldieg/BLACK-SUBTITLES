@@ -15,7 +15,7 @@
 {"key":"VIEWMODEL FIELD OF VIEW","text":"CHAMP DE VISION DE L'ARME"}
 {"key":"VERTICAL SYNC","text":"SYNCHRO VERTICALE"}
 {"key":"FMV SCALE","text":"ÉCHELLE DES CINÉMATIQUES"}
-{"key":"FILL","text":"REMPLIR"}
+{"key":"FILL","text":"Remplir"}
 {"key":"HDR OUTPUT","text":"SORTIE HDR"}
 {"key":"MAX FRAME RATE","text":"IMAGES PAR SECONDE MAX."}
 {"key":"FPS COUNTER","text":"COMPTEUR D'IMAGES PAR SECONDE"}
@@ -137,6 +137,22 @@
 {"key":"Close","text":"Fermer"}
 {"key":"All files listed in the manifest are present and match their SHA-256 checks.","text":"Tous les fichiers du manifeste sont présents et conformes aux contrôles SHA-256."}
 {"key":"Nothing is submitted automatically; you can review the draft before submitting.","text":"Rien n'est envoyé automatiquement ; vérifiez le brouillon avant l'envoi."}
+{"key":"CONTROLLER","text":"Manette"}
+{"key":"MENU ANIMATIONS","text":"Animations des menus"}
+{"key":"AIM ASSIST","text":"Aide à la visée"}
+{"key":"SENSITIVITY","text":"Sensibilité"}
+{"key":"RUMBLE INTENSITY","text":"Intensité des vibrations"}
+{"key":"GIVE A WEAPON","text":"Donner une arme"}
+{"key":"AMMUNITION","text":"Munitions"}
+{"key":"FILL AMMUNITION","text":"Réapprovisionner les munitions"}
+{"key":"Start or continue a level to choose its weapons.","text":"Commencez ou reprenez un niveau pour choisir vos armes."}
+{"key":"Restart to apply language?","text":"Redémarrer pour appliquer la langue ?"}
+{"key":"Restart the game now to apply this language?","text":"Redémarrer le jeu maintenant pour appliquer cette langue ?"}
+{"key":"Restart now","text":"Redémarrer"}
+{"key":"Language download failed. Check black.log.","text":"Échec du téléchargement de la langue. Consultez black.log."}
+{"key":"Downloading language package...","text":"Téléchargement du paquet linguistique..."}
+{"key":"Retry download","text":"Réessayer le téléchargement"}
+{"key":"Later","text":"Plus tard"}
 {"id":"80238916","text":"Objectifs primaires seulement. Nombre élevé de médikits. Pas de récompenses."}
 {"id":"8024F22A","text":"UTILISEZ LES TOMBES POUR RESTER A COUVERT"}
 {"id":"8026E5C0","text":"Vide"}
@@ -1861,3 +1877,21 @@
 {"id":"7F5886E4","text":"Appuyer sur ² pour commencer"}
 {"id":"7FDFB58E","text":"Non"}
 {"id":"7FE9E547","text":"*"}
+{"key":"GYRO AIMING","text":"Visée gyroscopique"}
+{"key":"GYRO SENSITIVITY","text":"Sensibilité du gyroscope"}
+{"key":"SCREEN SPACE REFLECTIONS","text":"Reflets écran"}
+{"key":"LOW","text":"Faible"}
+{"key":"MEDIUM","text":"Moyen"}
+{"key":"HIGH","text":"Élevé"}
+{"key":"ULTRA","text":"Ultra"}
+{"key":"Subtitle test","text":"Test de sous-titres"}
+{"key":"FILES READY","text":"Fichiers prêts"}
+{"key":"FILES UPDATED","text":"Fichiers mis à jour"}
+{"key":"READY - RESTART","text":"Prêt - redémarrer"}
+{"key":"This language is downloading individually.","text":"Cette langue est téléchargée séparément."}
+{"key":"DLSS / DLAA","text":"DLSS / DLAA"}
+{"key":"DLSS QUALITY","text":"Qualité DLSS"}
+{"key":"DLSS BALANCED","text":"DLSS équilibré"}
+{"key":"DLSS PERFORMANCE","text":"Performances DLSS"}
+{"key":"DEFAULT","text":"Par défaut"}
+{"key":"RESTART","text":"Redémarrage"}
