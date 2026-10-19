@@ -2,7 +2,7 @@
 
 This folder collects the menu text relevant to the `TGP482/BLACK-XBERecomp` fork in two separate groups:
 
-- Each of the eight locale catalogs (`en-US`, `pt-BR`, `es`, `fr`, `de`, `it`, `id`, and `ru`) contains the full 155-string Recomp UI catalog plus 1,724 original game-menu records. Recomp UI rows use `key` and `text`; original menu rows use `id` and `text`. Editorial/source metadata is kept out of these translation rows.
+- Each of the eight locale catalogs (`en-US`, `pt-BR`, `es`, `fr`, `de`, `it`, `id`, and `ru`) contains the full 167-string Recomp UI catalog plus 1,724 original game-menu records. Recomp UI rows use `key` and `text`; original menu rows use `id` and `text`. Editorial/source metadata is kept out of these translation rows.
 - `original-game-menu/` mirrors the available original game-menu catalogs (`en-US`, `pt-BR`, `es`, `fr`, `de`, `it`, and `id`) from the repository's canonical [`Localization/Menu/`](../../../../Localization/Menu/) data. These mirror the broader original game menu catalogs from the canonical menu data; rows contain only `id` and `text`.
 
 Russian menu records from `MainUK.bin` are included in `ru.jsonl` using the byte-preserving game-glyph representation; they are not yet decoded as Unicode Russian prose. Russian runtime fonts are cataloged separately. The current Recomp runtime reads downloaded Recomp UI overlays for `pt-BR`, `id`, and `ru`; `en-US`, `es`, `fr`, `de`, and `it` use the built-in UI translation table. Original-game menu catalogs and SRTs remain data assets whose in-game use depends on their corresponding runtime readers. Review and source notes remain in the repository documentation.

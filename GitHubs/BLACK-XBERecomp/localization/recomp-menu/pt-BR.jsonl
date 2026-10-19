@@ -1877,3 +1877,15 @@
 {"id":"7F5886E4","text":"Pressione ² para começar"}
 {"id":"7FDFB58E","text":"Näo"}
 {"id":"7FE9E547","text":"*"}
+{"key":"GYRO AIMING","text":"Mira por giroscópio"}
+{"key":"GYRO SENSITIVITY","text":"Sensibilidade do giroscópio"}
+{"key":"SCREEN SPACE REFLECTIONS","text":"Reflexos na tela"}
+{"key":"LOW","text":"Baixo"}
+{"key":"MEDIUM","text":"Médio"}
+{"key":"HIGH","text":"Alto"}
+{"key":"ULTRA","text":"Ultra"}
+{"key":"Subtitle test","text":"Teste de legenda"}
+{"key":"FILES READY","text":"Arquivos prontos"}
+{"key":"FILES UPDATED","text":"Arquivos atualizados"}
+{"key":"READY - RESTART","text":"Pronto - reiniciar"}
+{"key":"This language is downloading individually.","text":"Este idioma está sendo baixado individualmente."}

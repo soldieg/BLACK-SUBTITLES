@@ -1877,3 +1877,15 @@
 {"id":"7F5886E4","text":"press ² to start"}
 {"id":"7FDFB58E","text":"no"}
 {"id":"7FE9E547","text":"*"}
+{"key":"GYRO AIMING","text":"GYRO AIMING"}
+{"key":"GYRO SENSITIVITY","text":"GYRO SENSITIVITY"}
+{"key":"SCREEN SPACE REFLECTIONS","text":"SCREEN SPACE REFLECTIONS"}
+{"key":"LOW","text":"LOW"}
+{"key":"MEDIUM","text":"MEDIUM"}
+{"key":"HIGH","text":"HIGH"}
+{"key":"ULTRA","text":"ULTRA"}
+{"key":"Subtitle test","text":"Subtitle test"}
+{"key":"FILES READY","text":"FILES READY"}
+{"key":"FILES UPDATED","text":"FILES UPDATED"}
+{"key":"READY - RESTART","text":"READY - RESTART"}
+{"key":"This language is downloading individually.","text":"This language is downloading individually."}

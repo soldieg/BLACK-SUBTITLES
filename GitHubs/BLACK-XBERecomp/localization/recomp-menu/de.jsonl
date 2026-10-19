@@ -1877,3 +1877,15 @@
 {"id":"7F5886E4","text":"spiel starten mit ²"}
 {"id":"7FDFB58E","text":"nein"}
 {"id":"7FE9E547","text":"*"}
+{"key":"GYRO AIMING","text":"Gyro-Zielen"}
+{"key":"GYRO SENSITIVITY","text":"Gyro-Empfindlichkeit"}
+{"key":"SCREEN SPACE REFLECTIONS","text":"Bildschirmreflexionen"}
+{"key":"LOW","text":"Niedrig"}
+{"key":"MEDIUM","text":"Mittel"}
+{"key":"HIGH","text":"Hoch"}
+{"key":"ULTRA","text":"Ultra"}
+{"key":"Subtitle test","text":"Untertiteltest"}
+{"key":"FILES READY","text":"Dateien bereit"}
+{"key":"FILES UPDATED","text":"Dateien aktualisiert"}
+{"key":"READY - RESTART","text":"Bereit - neu starten"}
+{"key":"This language is downloading individually.","text":"Dieses Sprachpaket wird einzeln heruntergeladen."}

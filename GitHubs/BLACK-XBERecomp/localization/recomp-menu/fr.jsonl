@@ -1877,3 +1877,15 @@
 {"id":"7F5886E4","text":"Appuyer sur ² pour commencer"}
 {"id":"7FDFB58E","text":"Non"}
 {"id":"7FE9E547","text":"*"}
+{"key":"GYRO AIMING","text":"Visée gyroscopique"}
+{"key":"GYRO SENSITIVITY","text":"Sensibilité du gyroscope"}
+{"key":"SCREEN SPACE REFLECTIONS","text":"Reflets écran"}
+{"key":"LOW","text":"Faible"}
+{"key":"MEDIUM","text":"Moyen"}
+{"key":"HIGH","text":"Élevé"}
+{"key":"ULTRA","text":"Ultra"}
+{"key":"Subtitle test","text":"Test de sous-titres"}
+{"key":"FILES READY","text":"Fichiers prêts"}
+{"key":"FILES UPDATED","text":"Fichiers mis à jour"}
+{"key":"READY - RESTART","text":"Prêt - redémarrer"}
+{"key":"This language is downloading individually.","text":"Cette langue est téléchargée séparément."}
