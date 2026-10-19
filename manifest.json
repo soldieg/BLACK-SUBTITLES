@@ -2299,7 +2299,7 @@
                         "status": "not_in_locale_catalog",
                         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/README.md",
                         "size_bytes": 2897,
-                        "sha256": "5991934d5370c52243b3ee761f1a775efa8c0062d0e1e80e291a618efb165f71"
+                        "sha256": "57b227f529bff6a2034bb06c98e8b165243b427d407a056ce7fd55bf20e45979"
                       },
                       "de.jsonl": {
                         "type": "file",
