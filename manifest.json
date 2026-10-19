@@ -47,8 +47,8 @@
           "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/en-US.jsonl",
           "destination_path": "Localization/Menu/recomp.jsonl",
           "format": "jsonl",
-          "size_bytes": 90910,
-          "sha256": "19206a021f4b98b3fc24e3670f75069a9cd60adcb88f966bd87711cc7ade4201"
+          "size_bytes": 91168,
+          "sha256": "5016ff6ccab6b5c94aa84d55a56ecaf065280fb6808b3ba1d81d39c35c6c6559"
         },
         {
           "category": "subtitle",
@@ -160,8 +160,8 @@
           "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/pt-BR.jsonl",
           "destination_path": "Localization/Menu/recomp.jsonl",
           "format": "jsonl",
-          "size_bytes": 98542,
-          "sha256": "2c00fb8a4b7beec335e3fced3c738b070abdf0331e3862235671061ccdc361df"
+          "size_bytes": 98806,
+          "sha256": "e3dcb35b1d97a2701df1c1c886d0e4b23e083a14e53af01f2597dd58d7baa123"
         },
         {
           "category": "subtitle",
@@ -291,8 +291,8 @@
           "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/es.jsonl",
           "destination_path": "Localization/Menu/recomp.jsonl",
           "format": "jsonl",
-          "size_bytes": 99273,
-          "sha256": "10a1eff101ca5ffc0276e607a4e9f64ae0a1e5a04ba81d4aafb29ee6111ef79e"
+          "size_bytes": 99543,
+          "sha256": "074df1aea20035738460b7c8e6fda3922e1feb3779fec143023fa487cffdeea7"
         },
         {
           "category": "subtitle",
@@ -404,8 +404,8 @@
           "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/fr.jsonl",
           "destination_path": "Localization/Menu/recomp.jsonl",
           "format": "jsonl",
-          "size_bytes": 101270,
-          "sha256": "7cddfbed7f2253d92e4f65afcaa4d91615c44de4050b118ea0f0e12a7883665f"
+          "size_bytes": 101542,
+          "sha256": "00ed2834e4f2ccd7846cf5a9b0c962167743b4e8c8fc0036df685b99a778165a"
         },
         {
           "category": "subtitle",
@@ -517,8 +517,8 @@
           "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/de.jsonl",
           "destination_path": "Localization/Menu/recomp.jsonl",
           "format": "jsonl",
-          "size_bytes": 95936,
-          "sha256": "321dd37f47d130f0ed01fcd3f9230b41f84f20979a0c2c0c41d78ec5ea010530"
+          "size_bytes": 96200,
+          "sha256": "adf4c7e4b948e4a111977ee5741eac8a8bc24d2184d9d6d7f92939088d4527e5"
         },
         {
           "category": "subtitle",
@@ -648,8 +648,8 @@
           "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/it.jsonl",
           "destination_path": "Localization/Menu/recomp.jsonl",
           "format": "jsonl",
-          "size_bytes": 96767,
-          "sha256": "1845e1d1c939e72b19641463d6fcc31702e213a03e778248f39697f1410a8d80"
+          "size_bytes": 97032,
+          "sha256": "c88770644a0236f7300b65a66fde7e521e350a1b9a2972a4dc0f84df64092b88"
         },
         {
           "category": "subtitle",
@@ -761,8 +761,8 @@
           "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/id.jsonl",
           "destination_path": "Localization/Menu/recomp.jsonl",
           "format": "jsonl",
-          "size_bytes": 91029,
-          "sha256": "3983e2356c4aaab37a06c32abba7c8b845bc35e2139c63c7c8daa03682d5382a"
+          "size_bytes": 91288,
+          "sha256": "9c5004386c1fc8a47df5826ddc992cf5aece4173981d5450b09619967590b143"
         },
         {
           "category": "subtitle",
@@ -883,8 +883,8 @@
           "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/ru.jsonl",
           "destination_path": "Localization/Menu/recomp.jsonl",
           "format": "jsonl",
-          "size_bytes": 94010,
-          "sha256": "73609fffbd19793940582c2c217c85d8fcbab9eed923408317f4545135f8ab53"
+          "size_bytes": 94355,
+          "sha256": "967e8242f611e9bd7a3d05bdab7c1ca34bb8d3b3c634f8585027fd852e879745"
         },
         {
           "category": "subtitle",
@@ -2299,14 +2299,14 @@
                         "status": "not_in_locale_catalog",
                         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/README.md",
                         "size_bytes": 2897,
-                        "sha256": "907bc5c52c7eaf9afaefb1bc44f371a587fe63d0802fd8e78b1097f44b1851bd"
+                        "sha256": "99b81e00b3f1f6d5407385a5b72cec9970dd2146b60216306f2270fc101ea7a1"
                       },
                       "de.jsonl": {
                         "type": "file",
                         "status": "listed",
                         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/de.jsonl",
-                        "size_bytes": 95936,
-                        "sha256": "321dd37f47d130f0ed01fcd3f9230b41f84f20979a0c2c0c41d78ec5ea010530",
+                        "size_bytes": 96200,
+                        "sha256": "adf4c7e4b948e4a111977ee5741eac8a8bc24d2184d9d6d7f92939088d4527e5",
                         "locales": [
                           "de"
                         ],
@@ -2327,8 +2327,8 @@
                         "type": "file",
                         "status": "listed",
                         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/en-US.jsonl",
-                        "size_bytes": 90910,
-                        "sha256": "19206a021f4b98b3fc24e3670f75069a9cd60adcb88f966bd87711cc7ade4201",
+                        "size_bytes": 91168,
+                        "sha256": "5016ff6ccab6b5c94aa84d55a56ecaf065280fb6808b3ba1d81d39c35c6c6559",
                         "locales": [
                           "en-US"
                         ],
@@ -2349,8 +2349,8 @@
                         "type": "file",
                         "status": "listed",
                         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/es.jsonl",
-                        "size_bytes": 99273,
-                        "sha256": "10a1eff101ca5ffc0276e607a4e9f64ae0a1e5a04ba81d4aafb29ee6111ef79e",
+                        "size_bytes": 99543,
+                        "sha256": "074df1aea20035738460b7c8e6fda3922e1feb3779fec143023fa487cffdeea7",
                         "locales": [
                           "es"
                         ],
@@ -2371,8 +2371,8 @@
                         "type": "file",
                         "status": "listed",
                         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/fr.jsonl",
-                        "size_bytes": 101270,
-                        "sha256": "7cddfbed7f2253d92e4f65afcaa4d91615c44de4050b118ea0f0e12a7883665f",
+                        "size_bytes": 101542,
+                        "sha256": "00ed2834e4f2ccd7846cf5a9b0c962167743b4e8c8fc0036df685b99a778165a",
                         "locales": [
                           "fr"
                         ],
@@ -2393,8 +2393,8 @@
                         "type": "file",
                         "status": "listed",
                         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/id.jsonl",
-                        "size_bytes": 91029,
-                        "sha256": "3983e2356c4aaab37a06c32abba7c8b845bc35e2139c63c7c8daa03682d5382a",
+                        "size_bytes": 91288,
+                        "sha256": "9c5004386c1fc8a47df5826ddc992cf5aece4173981d5450b09619967590b143",
                         "locales": [
                           "id"
                         ],
@@ -2415,8 +2415,8 @@
                         "type": "file",
                         "status": "listed",
                         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/it.jsonl",
-                        "size_bytes": 96767,
-                        "sha256": "1845e1d1c939e72b19641463d6fcc31702e213a03e778248f39697f1410a8d80",
+                        "size_bytes": 97032,
+                        "sha256": "c88770644a0236f7300b65a66fde7e521e350a1b9a2972a4dc0f84df64092b88",
                         "locales": [
                           "it"
                         ],
@@ -2577,8 +2577,8 @@
                         "type": "file",
                         "status": "listed",
                         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/pt-BR.jsonl",
-                        "size_bytes": 98542,
-                        "sha256": "2c00fb8a4b7beec335e3fced3c738b070abdf0331e3862235671061ccdc361df",
+                        "size_bytes": 98806,
+                        "sha256": "e3dcb35b1d97a2701df1c1c886d0e4b23e083a14e53af01f2597dd58d7baa123",
                         "locales": [
                           "pt-BR"
                         ],
@@ -2599,8 +2599,8 @@
                         "type": "file",
                         "status": "listed",
                         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/ru.jsonl",
-                        "size_bytes": 94010,
-                        "sha256": "73609fffbd19793940582c2c217c85d8fcbab9eed923408317f4545135f8ab53",
+                        "size_bytes": 94355,
+                        "sha256": "967e8242f611e9bd7a3d05bdab7c1ca34bb8d3b3c634f8585027fd852e879745",
                         "locales": [
                           "ru"
                         ],
