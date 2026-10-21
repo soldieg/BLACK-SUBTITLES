@@ -151,8 +151,8 @@
           "source_path": "Localization/Menu/pt-BR.jsonl",
           "destination_path": "Localization/Menu/pt-BR.jsonl",
           "format": "jsonl",
-          "size_bytes": 89976,
-          "sha256": "a91723cecdef1c85953327cc8073deb221692e63ec7e626c1ebc344af81f513c"
+          "size_bytes": 89980,
+          "sha256": "fa9b1c4423a7aad869be516f5d5cf5a06f15dee99a467b91b92410522e2ec7f8"
         },
         {
           "category": "localization",
@@ -5938,8 +5938,8 @@
                 "type": "file",
                 "status": "listed",
                 "source_path": "Localization/Menu/pt-BR.jsonl",
-                "size_bytes": 89976,
-                "sha256": "a91723cecdef1c85953327cc8073deb221692e63ec7e626c1ebc344af81f513c",
+                "size_bytes": 89980,
+                "sha256": "fa9b1c4423a7aad869be516f5d5cf5a06f15dee99a467b91b92410522e2ec7f8",
                 "locales": [
                   "pt-BR"
                 ],
