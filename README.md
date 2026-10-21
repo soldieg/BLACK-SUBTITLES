@@ -1,47 +1,49 @@
-# BLACK subtitles and localization data
+# BLACK subtitles and localization hub
 
-> [!IMPORTANT]
-> **Found an error in any translation?** [Open an Issue](https://github.com/soldieg/BLACK-SUBTITLES/issues/new) so it can be reviewed and corrected.
+**BLACK-SUBTITLES is a community hub for subtitle and localization files for BLACK (2006).** English is the reference language where an English source exists. The repository keeps each asset separate so players, modders, and other projects can use only what they need.
 
-Reusable subtitle and localization source data for **BLACK (2006)**. This repository is not affiliated with Electronic Arts.
+This is an unofficial community project. It does not include the game, executable files, videos, or extracted audio, and is not affiliated with or endorsed by Electronic Arts.
 
-## Repository layout
+## Languages and available material
 
-- `Subtitles/`: the 72 primary cutscene SRTs, grouped by locale (`en`, `pt-BR`, `es`, `fr`, `de`, `it`, `id`, `ru`). These are the primary caption tracks, not the experimental audio-sync outputs.
-- `Localization/Menu/`: original game menu catalogs and source notes. Translation rows keep only their identifier and text; Indonesian source records are retained without invented IDs.
-- `Localization/Fonts/`: runtime font dependencies and their locale-specific layout (`de`, `id`, `pt-BR`, `ru`).
-- `Launcher/`: 292 keyed launcher strings per available locale.
-- `Test/Audio-Sync/`: separate ASR candidate and retimed candidate sets. They are experimental and must not replace primary subtitle files without review.
-- `Test/Gameplay-Audio-Transcription/`: current 3,591-row-per-locale analysis and the earlier 3,196-row snapshot. These are research catalogs, not runtime-ready subtitles.
-- `GitHubs/BLACK-XBERecomp/`: translations specific to the Recomp menu plus mirrors of the available original game-menu catalogs for that fork.
-- `Tools/`: helper scripts.
-- `manifest.json`: locale-indexed inventory with file paths, sizes, SHA-256 hashes, and explicit test-only assets.
-- `SOURCE-SHA256SUMS.txt`: checksums for source text and subtitle files.
+| Language | Code | Included material |
+| --- | --- | --- |
+| English | `en-US` | Reference menu and launcher text; cutscene subtitles; gameplay transcription candidates |
+| Portuguese (Brazil) | `pt-BR` | Menu and launcher text; nine cutscene subtitle tracks; font files listed in the manifest |
+| Spanish | `es` | Menu and launcher text; nine cutscene subtitle tracks; gameplay transcription candidates |
+| French | `fr` | Menu and launcher text; nine cutscene subtitle tracks; gameplay transcription candidates |
+| German | `de` | Menu and launcher text; nine cutscene subtitle tracks; gameplay transcription candidates |
+| Italian | `it` | Menu and launcher text; nine cutscene subtitle tracks; gameplay transcription candidates |
+| Indonesian | `id` | Menu and launcher text; nine cutscene subtitle tracks; required font files listed in the manifest |
+| Russian | `ru` | Russian runtime menu bank and fonts; draft cutscene subtitle tracks |
 
-## Language coverage and review state
+Included files have different review states. Indonesian and Russian drafts, and gameplay transcription candidates, should be treated as work in progress. Gameplay candidates are not timed to in-game events and are not integrated into the game runtime.
 
-Primary cutscene subtitles have nine tracks per each of eight locales (72 SRTs total). English tracks are under `Subtitles/en/`. Per-locale READMEs document editorial work and remaining audio/native-speaker review; AI review is not human confirmation.
+## Find and use files
 
-Original game-menu catalogs are available in English, Portuguese, Spanish, French, German, Italian, and Indonesian. The XBERecomp Russian catalog includes records from `MainUK.bin` in the game’s byte-preserving glyph representation; the mapping is not yet decoded as Unicode prose. Its Russian fonts are included under `Localization/Fonts/`. PT-BR also has a dedicated `Big.bin` / `Small.bin` pair, listed as PT-BR package dependencies in `manifest.json`; these are separate from the German, Indonesian, and Russian banks.
+- `Subtitles/` contains editable `.srt` cutscene tracks, grouped by language when applicable.
+- `Localization/Menu/` contains original-game menu catalogs. `GitHubs/` contains menu catalogs specific to supported forks and projects.
+- `Launcher/` contains launcher interface text.
+- `Localization/Fonts/` contains language font dependencies where needed.
+- `Test/Gameplay-Audio-Transcription/` contains candidate voice transcripts and translations; these are reference material, not synchronized gameplay subtitles.
+- `Test/` contains experimental subtitle and audio-sync material. Treat it as testing data, not as the approved subtitle set.
+- `Tools/` contains repository utilities.
+- [`manifest.json`](manifest.json) is the file index. It groups available downloads by language and lists each file's category, repository path, destination path, format, size, and SHA-256. Use it to select the assets you need and verify downloaded files. The manifest describes available files; it does not itself add runtime support to a game or launcher.
 
-Gameplay voice catalogs remain experimental: six locales have 3,591 rows each in the detailed set, and human audio confirmation/native review remain pending per row. PT-BR gameplay is retained for research but intentionally omitted from the locale download entries in `manifest.json`.
+The nine cutscene tracks are `03_N`, `05_N`, `07_N`, `09_N`, `11_N`, `13_N`, `15_N`, `17_N`, and `18_N`. Some videos have no dialogue and therefore have no subtitle track.
 
-## Audio-sync experiments and provenance
+## Contribute or report an issue
 
-`Test/Audio-Sync/asr-candidates-20261011/` contains 44 SRT candidates, generated from language-specific speech-stream WAVs. `Test/Audio-Sync/retimed-candidates-20261011/` contains 54 experimental files. The 44 tracks present in both sets differ in both text and timing; the retimed set also has ten additional files. Neither set is a verified replacement for `Subtitles/`.
+Found a mistranslation, typo, missing line, or timing problem? [Open an Issue](https://github.com/soldieg/BLACK-SUBTITLES/issues/new). Include the language, file, line or cue number, current text, suggested correction, and context or evidence when available.
 
-The extracted WAVs used for analysis are local work products and are not included here. The experiment READMEs and index CSVs preserve the available stream mapping and processing provenance.
+To contribute files or corrections, open a Pull Request. Keep unrelated languages and assets separate, preserve IDs and subtitle timing unless the change specifically corrects them, and describe the source or reasoning for the change. Community review helps improve the hub; inclusion does not mean a translation has received human or native-speaker approval.
 
-## Manifest behavior
+## Português (Brasil)
 
-`manifest.json` is an inventory of actual repository assets. Locale `files` list supplemental localization materials; research data is marked `test_only` and remains separate from runtime-ready content. Its presence does not imply that a game or launcher runtime already loads that asset type. The generated `directory_tree` mirrors the repository's nested asset folders and shows each file's SHA-256, size, locale, and catalog status. Files not yet assigned to a locale list appear as `not_in_locale_catalog`; they are indexed for review but are not made downloadable by that status alone.
+**O BLACK-SUBTITLES é um hub comunitário de legendas e arquivos de localização para BLACK (2006).** O inglês é o idioma de referência quando existe uma fonte em inglês. Os arquivos ficam separados para que cada pessoa, mod ou projeto possa escolher somente o material de que precisa.
 
-The GitHub Action **Refresh localization manifest** regenerates the folder tree, asset hashes, sizes, and `SOURCE-SHA256SUMS.txt` after pushes that touch localization data. Pull requests run the same generator in check-only mode and fail if the generated metadata is stale. To update it locally, run `python Tools/update_manifest.py`; use `python Tools/update_manifest.py --check` to verify without writing files. New files are detected and shown in the generated tree, but still need an explicit locale/category entry before they become part of a downloadable locale package.
+O repositório reúne legendas de cutscenes, textos de menu e launcher, fontes necessárias para alguns idiomas e transcrições candidatas de falas de gameplay. Nem todo conteúdo foi revisado por uma pessoa nativa. As transcrições de gameplay ainda não estão sincronizadas com os eventos do jogo nem integradas ao runtime.
 
-## Formats
+O [`manifest.json`](manifest.json) organiza os arquivos disponíveis por idioma e informa categoria, caminho, destino, formato, tamanho e SHA-256. Ele ajuda a localizar e conferir os arquivos; não implementa, por si só, o suporte a um idioma dentro do jogo.
 
-- Cutscene captions: SubRip (`.srt`).
-- Menus, launcher, and gameplay catalogs: UTF-8 JSON Lines (`.jsonl`) with identifiers and text. The bilingual launcher source also retains its Portuguese text column.
-- Alignment and review data: CSV/JSON.
-
-The repository contains localization text and metadata plus documented font dependencies. It does not contain the game, executable, cutscene videos, or extracted audio.
+Encontrou erro, texto estranho, fala ausente ou problema de timing? [Abra uma Issue](https://github.com/soldieg/BLACK-SUBTITLES/issues/new) com idioma, arquivo, linha ou cue, texto atual, sugestão e contexto. Para enviar traduções ou correções, abra uma Pull Request e explique a origem ou o motivo da alteração. A comunidade pode revisar e melhorar o material; estar no repositório não significa que o conteúdo já foi aprovado por uma pessoa ou por um falante nativo.
