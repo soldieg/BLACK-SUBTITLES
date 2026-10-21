@@ -160,8 +160,8 @@
           "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/pt-BR.jsonl",
           "destination_path": "Localization/Menu/recomp.jsonl",
           "format": "jsonl",
-          "size_bytes": 98806,
-          "sha256": "e3dcb35b1d97a2701df1c1c886d0e4b23e083a14e53af01f2597dd58d7baa123"
+          "size_bytes": 98810,
+          "sha256": "2c80b60f87bb4a8c8ab203f33e084ec6c2dda507e478089c8aebc233a4a0b5a1"
         },
         {
           "category": "subtitle",
@@ -2328,8 +2328,8 @@
         "asset_type": "black_xbe_recomp_original_menu_catalog_mirror",
         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/original-game-menu/pt-BR.jsonl",
         "canonical_source_path": "Localization/Menu/pt-BR.jsonl",
-        "size_bytes": 89976,
-        "sha256": "a91723cecdef1c85953327cc8073deb221692e63ec7e626c1ebc344af81f513c",
+        "size_bytes": 89980,
+        "sha256": "fa9b1c4423a7aad869be516f5d5cf5a06f15dee99a467b91b92410522e2ec7f8",
         "mirror_only": true
       },
       {
@@ -2339,8 +2339,8 @@
         "destination_path": "GitHubs/BlackDefinitiveHDPC/localization/menu/pt-BR.jsonl",
         "format": "jsonl",
         "mirror_only": true,
-        "size_bytes": 94102,
-        "sha256": "f6f3f4361c42ca9a43f4c1ceb5655a0e3c29a807aeb5af5af5a06c787e967b26"
+        "size_bytes": 94106,
+        "sha256": "fe34c86627bf760c808da6881f83cec6247d76613679df916a1a987367e7f7a2"
       },
       {
         "category": "repository_reference",
@@ -3369,8 +3369,8 @@
                             "type": "file",
                             "status": "listed",
                             "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/original-game-menu/pt-BR.jsonl",
-                            "size_bytes": 89976,
-                            "sha256": "a91723cecdef1c85953327cc8073deb221692e63ec7e626c1ebc344af81f513c",
+                            "size_bytes": 89980,
+                            "sha256": "fa9b1c4423a7aad869be516f5d5cf5a06f15dee99a467b91b92410522e2ec7f8",
                             "locales": [
                               "pt-BR"
                             ],
@@ -3403,8 +3403,8 @@
                         "type": "file",
                         "status": "listed",
                         "source_path": "GitHubs/BLACK-XBERecomp/localization/recomp-menu/pt-BR.jsonl",
-                        "size_bytes": 98806,
-                        "sha256": "e3dcb35b1d97a2701df1c1c886d0e4b23e083a14e53af01f2597dd58d7baa123",
+                        "size_bytes": 98810,
+                        "sha256": "2c80b60f87bb4a8c8ab203f33e084ec6c2dda507e478089c8aebc233a4a0b5a1",
                         "locales": [
                           "pt-BR"
                         ],
@@ -5245,8 +5245,8 @@
                         "type": "file",
                         "status": "listed",
                         "source_path": "GitHubs/BlackDefinitiveHDPC/localization/menu/pt-BR.jsonl",
-                        "size_bytes": 94102,
-                        "sha256": "f6f3f4361c42ca9a43f4c1ceb5655a0e3c29a807aeb5af5af5a06c787e967b26",
+                        "size_bytes": 94106,
+                        "sha256": "fe34c86627bf760c808da6881f83cec6247d76613679df916a1a987367e7f7a2",
                         "locales": [
                           "pt-BR"
                         ],
