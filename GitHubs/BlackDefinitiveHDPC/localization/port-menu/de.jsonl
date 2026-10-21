@@ -1,0 +1,85 @@
+{"key":"PC SETTINGS","text":"PC-EINSTELLUNGEN"}
+{"key":"VIDEO","text":"VIDEO"}
+{"key":"DISPLAY","text":"ANZEIGE"}
+{"key":"AUDIO AND GAME","text":"AUDIO UND SPIEL"}
+{"key":"CONTROLS","text":"STEUERUNG"}
+{"key":"MODS","text":"MODS"}
+{"key":"KEY BINDINGS","text":"TASTENBELEGUNG"}
+{"key":"QUIT","text":"BEENDEN"}
+{"key":"RESOLUTION","text":"AUFLÖSUNG"}
+{"key":"ANTI-ALIASING","text":"ANTIALIASING"}
+{"key":"FIELD OF VIEW","text":"SICHTFELD"}
+{"key":"BRIGHTNESS","text":"HELLIGKEIT"}
+{"key":"GAMMA","text":"GAMMA"}
+{"key":"FULLSCREEN","text":"VOLLBILD"}
+{"key":"ASPECT RATIO","text":"SEITENVERHÄLTNIS"}
+{"key":"FRAME RATE","text":"BILDRATE"}
+{"key":"FILL GEOMETRY SEAMS","text":"GEOMETRIEKANTEN FÜLLEN"}
+{"key":"EFFECTS AT XBOX SIZE","text":"EFFEKTE IN XBOX-GRÖSSE"}
+{"key":"ROOM REVERB","text":"RAUMHALL"}
+{"key":"AUTO-AIM","text":"AUTOMATISCHES ZIELEN"}
+{"key":"SKIP ANY MOVIE","text":"BELIEBIGEN FILM ÜBERSPRINGEN"}
+{"key":"MOUSE SENSITIVITY","text":"MAUSEMPFINDLICHKEIT"}
+{"key":"INVERT MOUSE","text":"MAUS UMKEHREN"}
+{"key":"AIM","text":"ZIELEN"}
+{"key":"CROUCH","text":"DUCKEN"}
+{"key":"WEAPON FOV","text":"WAFFEN-FOV"}
+{"key":"FPS COUNTER","text":"FPS-ANZEIGE"}
+{"key":"MOVIE SUBTITLES","text":"FILMUNTERTITEL"}
+{"key":"RESOLUTION SCALE","text":"AUFLÖSUNGSSKALIERUNG"}
+{"key":"ANISOTROPIC FILTERING","text":"ANISOTROPE FILTERUNG"}
+{"key":"WINDOW SIZE","text":"FENSTERGRÖSSE"}
+{"key":"CAMERA SHAKE","text":"KAMERAWACKELN"}
+{"key":"RELOAD BLUR","text":"NACHLADE-UNSCHÄRFE"}
+{"key":"TEXTURES","text":"TEXTUREN"}
+{"key":"LANGUAGE","text":"SPRACHE"}
+{"key":"DRAW DISTANCE","text":"SICHTWEITE"}
+{"key":"INPUT","text":"EINGABE"}
+{"key":"INPUT DEVICE","text":"EINGABEGERÄT"}
+{"key":"MOUSE/KEYBOARD","text":"MAUS/TASTATUR"}
+{"key":"CONTROLLER","text":"CONTROLLER"}
+{"key":"CHEATS","text":"CHEATS"}
+{"key":"UNLOCK ALL","text":"ALLES FREISCHALTEN"}
+{"key":"GOD MODE","text":"GOTT-MODUS"}
+{"key":"INFINITE HEALTH PACKS","text":"UNENDLICHE MEDIKITS"}
+{"key":"ON","text":"AN"}
+{"key":"OFF","text":"AUS"}
+{"key":"CUSTOM","text":"BENUTZERDEFINIERT"}
+{"key":"1.5 X WINDOW","text":"1,5-FACHES FENSTER"}
+{"key":"2 X WINDOW","text":"2-FACHES FENSTER"}
+{"key":"CONTROLLER ONLY","text":"NUR CONTROLLER"}
+{"key":"HOLD","text":"HALTEN"}
+{"key":"TOGGLE","text":"UMSCHALTEN"}
+{"key":"PROFILE OPTION","text":"PROFILOPTION"}
+{"key":"RESET TO DEFAULTS","text":"STANDARDEINSTELLUNGEN WIEDERHERSTELLEN"}
+{"key":"PRESS A KEY","text":"TASTE DRÜCKEN"}
+{"key":"WHEEL UP","text":"MAUSRAD HOCH"}
+{"key":"WHEEL DOWN","text":"MAUSRAD RUNTER"}
+{"key":"RUN FORWARD","text":"VORWÄRTS LAUFEN"}
+{"key":"RUN BACK","text":"RÜCKWÄRTS LAUFEN"}
+{"key":"SIDESTEP LEFT","text":"SEITWÄRTSSCHRITT LINKS"}
+{"key":"SIDESTEP RIGHT","text":"SEITWÄRTSSCHRITT RECHTS"}
+{"key":"FIRE","text":"FEUERN"}
+{"key":"RELOAD","text":"NACHLADEN"}
+{"key":"USE, PICK UP","text":"BENUTZEN, AUFHEBEN"}
+{"key":"GRENADE","text":"GRANATE"}
+{"key":"MELEE","text":"NAHKAMPF"}
+{"key":"NEXT WEAPON","text":"NÄCHSTE WAFFE"}
+{"key":"PREVIOUS WEAPON","text":"VORHERIGE WAFFE"}
+{"key":"CHANGE FIRING MODE","text":"FEUERMODUS WECHSELN"}
+{"key":"TOGGLE SUPPRESSOR","text":"SCHALLDÄMPFER UMSCHALTEN"}
+{"key":"HEALTH PACK","text":"MEDIKIT"}
+{"key":"NEXT MUSIC TRACK","text":"NÄCHSTER MUSIKTITEL"}
+{"key":"TURN LEFT","text":"NACH LINKS DREHEN"}
+{"key":"TURN RIGHT","text":"NACH RECHTS DREHEN"}
+{"key":"LOOK UP","text":"NACH OBEN SCHAUEN"}
+{"key":"LOOK DOWN","text":"NACH UNTEN SCHAUEN"}
+{"key":"PAUSE","text":"PAUSE"}
+{"key":"SHOW OBJECTIVES","text":"ZIELE ANZEIGEN"}
+{"key":"WEAPON 1","text":"WAFFE 1"}
+{"key":"WEAPON 2","text":"WAFFE 2"}
+{"key":"[ARROWS]","text":"[PFEILTASTEN]"}
+{"key":" (NEXT START)","text":" (BEIM NÄCHSTEN START)"}
+{"key":" (RESTART)","text":" (NEUSTART)"}
+{"key":" (LANGUAGE)","text":" (SPRACHE)"}
+{"key":" (ORIGINAL)","text":" (ORIGINAL)"}

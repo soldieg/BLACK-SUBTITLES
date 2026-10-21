@@ -1,0 +1,85 @@
+{"key":"PC SETTINGS","text":"PENGATURAN PC"}
+{"key":"VIDEO","text":"VIDEO"}
+{"key":"DISPLAY","text":"TAMPILAN"}
+{"key":"AUDIO AND GAME","text":"AUDIO DAN PERMAINAN"}
+{"key":"CONTROLS","text":"KONTROL"}
+{"key":"MODS","text":"MOD"}
+{"key":"KEY BINDINGS","text":"PENGATURAN TOMBOL"}
+{"key":"QUIT","text":"KELUAR"}
+{"key":"RESOLUTION","text":"RESOLUSI"}
+{"key":"ANTI-ALIASING","text":"ANTIALIASING"}
+{"key":"FIELD OF VIEW","text":"BIDANG PANDANG"}
+{"key":"BRIGHTNESS","text":"Kecerahan"}
+{"key":"GAMMA","text":"GAMMA"}
+{"key":"FULLSCREEN","text":"LAYAR PENUH"}
+{"key":"ASPECT RATIO","text":"RASIO ASPEK"}
+{"key":"FRAME RATE","text":"LAJU FRAME"}
+{"key":"FILL GEOMETRY SEAMS","text":"ISI CELAH GEOMETRI"}
+{"key":"EFFECTS AT XBOX SIZE","text":"EFEK UKURAN XBOX"}
+{"key":"ROOM REVERB","text":"GAUNG RUANGAN"}
+{"key":"AUTO-AIM","text":"BIDIK OTOMATIS"}
+{"key":"SKIP ANY MOVIE","text":"LEWATI FILM APA PUN"}
+{"key":"MOUSE SENSITIVITY","text":"SENSITIVITAS MOUSE"}
+{"key":"INVERT MOUSE","text":"BALIK ARAH MOUSE"}
+{"key":"AIM","text":"BIDIK"}
+{"key":"CROUCH","text":"MERUNDUK"}
+{"key":"WEAPON FOV","text":"FOV SENJATA"}
+{"key":"FPS COUNTER","text":"PENGHITUNG FPS"}
+{"key":"MOVIE SUBTITLES","text":"SUBTITLE FILM"}
+{"key":"RESOLUTION SCALE","text":"SKALA RESOLUSI"}
+{"key":"ANISOTROPIC FILTERING","text":"FILTER ANISOTROPIK"}
+{"key":"WINDOW SIZE","text":"UKURAN JENDELA"}
+{"key":"CAMERA SHAKE","text":"GOYANGAN KAMERA"}
+{"key":"RELOAD BLUR","text":"BURAM SAAT MENGISI ULANG"}
+{"key":"TEXTURES","text":"TEKSTUR"}
+{"key":"LANGUAGE","text":"BAHASA"}
+{"key":"DRAW DISTANCE","text":"JARAK GAMBAR"}
+{"key":"INPUT","text":"INPUT"}
+{"key":"INPUT DEVICE","text":"PERANGKAT INPUT"}
+{"key":"MOUSE/KEYBOARD","text":"MOUSE/KEYBOARD"}
+{"key":"CONTROLLER","text":"KONTROLER"}
+{"key":"CHEATS","text":"CHEAT"}
+{"key":"UNLOCK ALL","text":"BUKA SEMUA"}
+{"key":"GOD MODE","text":"MODE DEWA"}
+{"key":"INFINITE HEALTH PACKS","text":"PAKET KESEHATAN TAK TERBATAS"}
+{"key":"ON","text":"NYALA"}
+{"key":"OFF","text":"MATI"}
+{"key":"CUSTOM","text":"KUSTOM"}
+{"key":"1.5 X WINDOW","text":"JENDELA 1,5 X"}
+{"key":"2 X WINDOW","text":"JENDELA 2 X"}
+{"key":"CONTROLLER ONLY","text":"KONTROLER SAJA"}
+{"key":"HOLD","text":"TAHAN"}
+{"key":"TOGGLE","text":"GANTI MODE"}
+{"key":"PROFILE OPTION","text":"OPSI PROFIL"}
+{"key":"RESET TO DEFAULTS","text":"KEMBALI KE PENGATURAN AWAL"}
+{"key":"PRESS A KEY","text":"TEKAN TOMBOL"}
+{"key":"WHEEL UP","text":"RODA ATAS"}
+{"key":"WHEEL DOWN","text":"RODA BAWAH"}
+{"key":"RUN FORWARD","text":"LARI MAJU"}
+{"key":"RUN BACK","text":"LARI MUNDUR"}
+{"key":"SIDESTEP LEFT","text":"LANGKAH SAMPING KIRI"}
+{"key":"SIDESTEP RIGHT","text":"LANGKAH SAMPING KANAN"}
+{"key":"FIRE","text":"TEMBAK"}
+{"key":"RELOAD","text":"ISI ULANG"}
+{"key":"USE, PICK UP","text":"GUNAKAN, AMBIL"}
+{"key":"GRENADE","text":"GRANAT"}
+{"key":"MELEE","text":"SERANG JARAK DEKAT"}
+{"key":"NEXT WEAPON","text":"SENJATA BERIKUTNYA"}
+{"key":"PREVIOUS WEAPON","text":"SENJATA SEBELUMNYA"}
+{"key":"CHANGE FIRING MODE","text":"GANTI MODE TEMBAK"}
+{"key":"TOGGLE SUPPRESSOR","text":"GANTI PEREDAM"}
+{"key":"HEALTH PACK","text":"PAKET KESEHATAN"}
+{"key":"NEXT MUSIC TRACK","text":"LAGU BERIKUTNYA"}
+{"key":"TURN LEFT","text":"PUTAR KE KIRI"}
+{"key":"TURN RIGHT","text":"PUTAR KE KANAN"}
+{"key":"LOOK UP","text":"LIHAT KE ATAS"}
+{"key":"LOOK DOWN","text":"LIHAT KE BAWAH"}
+{"key":"PAUSE","text":"JEDA"}
+{"key":"SHOW OBJECTIVES","text":"TAMPILKAN TUJUAN"}
+{"key":"WEAPON 1","text":"SENJATA 1"}
+{"key":"WEAPON 2","text":"SENJATA 2"}
+{"key":"[ARROWS]","text":"[TOMBOL PANAH]"}
+{"key":" (NEXT START)","text":" (SAAT MULAI BERIKUTNYA)"}
+{"key":" (RESTART)","text":" (MULAI ULANG)"}
+{"key":" (LANGUAGE)","text":" (BAHASA)"}
+{"key":" (ORIGINAL)","text":" (ASLI)"}

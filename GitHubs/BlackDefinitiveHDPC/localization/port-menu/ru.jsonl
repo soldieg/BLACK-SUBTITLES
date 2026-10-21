@@ -1,0 +1,85 @@
+{"key":"PC SETTINGS","text":"НАСТРОЙКИ ПК"}
+{"key":"VIDEO","text":"ВИДЕО"}
+{"key":"DISPLAY","text":"ЭКРАН"}
+{"key":"AUDIO AND GAME","text":"ЗВУК И ИГРА"}
+{"key":"CONTROLS","text":"УПРАВЛЕНИЕ"}
+{"key":"MODS","text":"МОДЫ"}
+{"key":"KEY BINDINGS","text":"НАЗНАЧЕНИЕ КЛАВИШ"}
+{"key":"QUIT","text":"ВЫХОД"}
+{"key":"RESOLUTION","text":"РАЗРЕШЕНИЕ"}
+{"key":"ANTI-ALIASING","text":"СГЛАЖИВАНИЕ"}
+{"key":"FIELD OF VIEW","text":"УГОЛ ОБЗОРА"}
+{"key":"BRIGHTNESS","text":"ЯРКОСТЬ"}
+{"key":"GAMMA","text":"ГАММА"}
+{"key":"FULLSCREEN","text":"ПОЛНЫЙ ЭКРАН"}
+{"key":"ASPECT RATIO","text":"СООТНОШЕНИЕ СТОРОН"}
+{"key":"FRAME RATE","text":"ЧАСТОТА КАДРОВ"}
+{"key":"FILL GEOMETRY SEAMS","text":"ЗАПОЛНЯТЬ ШВЫ ГЕОМЕТРИИ"}
+{"key":"EFFECTS AT XBOX SIZE","text":"ЭФФЕКТЫ В РАЗМЕРЕ XBOX"}
+{"key":"ROOM REVERB","text":"РЕВЕРБЕРАЦИЯ ПОМЕЩЕНИЯ"}
+{"key":"AUTO-AIM","text":"АВТОПРИЦЕЛИВАНИЕ"}
+{"key":"SKIP ANY MOVIE","text":"ПРОПУСКАТЬ ЛЮБОЕ ВИДЕО"}
+{"key":"MOUSE SENSITIVITY","text":"ЧУВСТВИТЕЛЬНОСТЬ МЫШИ"}
+{"key":"INVERT MOUSE","text":"ИНВЕРТИРОВАТЬ МЫШЬ"}
+{"key":"AIM","text":"ПРИЦЕЛИТЬСЯ"}
+{"key":"CROUCH","text":"ПРИСЕСТЬ"}
+{"key":"WEAPON FOV","text":"FOV ОРУЖИЯ"}
+{"key":"FPS COUNTER","text":"СЧЁТЧИК FPS"}
+{"key":"MOVIE SUBTITLES","text":"СУБТИТРЫ ВИДЕО"}
+{"key":"RESOLUTION SCALE","text":"МАСШТАБ РАЗРЕШЕНИЯ"}
+{"key":"ANISOTROPIC FILTERING","text":"АНИЗОТРОПНАЯ ФИЛЬТРАЦИЯ"}
+{"key":"WINDOW SIZE","text":"РАЗМЕР ОКНА"}
+{"key":"CAMERA SHAKE","text":"ТРЯСКА КАМЕРЫ"}
+{"key":"RELOAD BLUR","text":"РАЗМЫТИЕ ПРИ ПЕРЕЗАРЯДКЕ"}
+{"key":"TEXTURES","text":"ТЕКСТУРЫ"}
+{"key":"LANGUAGE","text":"ЯЗЫК"}
+{"key":"DRAW DISTANCE","text":"ДАЛЬНОСТЬ ПРОРИСОВКИ"}
+{"key":"INPUT","text":"ВВОД"}
+{"key":"INPUT DEVICE","text":"УСТРОЙСТВО ВВОДА"}
+{"key":"MOUSE/KEYBOARD","text":"МЫШЬ/КЛАВИАТУРА"}
+{"key":"CONTROLLER","text":"КОНТРОЛЛЕР"}
+{"key":"CHEATS","text":"ЧИТЫ"}
+{"key":"UNLOCK ALL","text":"ОТКРЫТЬ ВСЁ"}
+{"key":"GOD MODE","text":"РЕЖИМ БОГА"}
+{"key":"INFINITE HEALTH PACKS","text":"БЕСКОНЕЧНЫЕ АПТЕЧКИ"}
+{"key":"ON","text":"ВКЛ."}
+{"key":"OFF","text":"ВЫКЛ."}
+{"key":"CUSTOM","text":"ПОЛЬЗОВАТЕЛЬСКИЙ"}
+{"key":"1.5 X WINDOW","text":"ОКНО 1,5X"}
+{"key":"2 X WINDOW","text":"ОКНО 2X"}
+{"key":"CONTROLLER ONLY","text":"ТОЛЬКО КОНТРОЛЛЕР"}
+{"key":"HOLD","text":"УДЕРЖИВАТЬ"}
+{"key":"TOGGLE","text":"ПЕРЕКЛЮЧАТЬ"}
+{"key":"PROFILE OPTION","text":"НАСТРОЙКА ПРОФИЛЯ"}
+{"key":"RESET TO DEFAULTS","text":"СБРОСИТЬ НАСТРОЙКИ"}
+{"key":"PRESS A KEY","text":"НАЖМИТЕ КЛАВИШУ"}
+{"key":"WHEEL UP","text":"КОЛЁСИКО ВВЕРХ"}
+{"key":"WHEEL DOWN","text":"КОЛЁСИКО ВНИЗ"}
+{"key":"RUN FORWARD","text":"БЕЖАТЬ ВПЕРЁД"}
+{"key":"RUN BACK","text":"БЕЖАТЬ НАЗАД"}
+{"key":"SIDESTEP LEFT","text":"ШАГ ВЛЕВО"}
+{"key":"SIDESTEP RIGHT","text":"ШАГ ВПРАВО"}
+{"key":"FIRE","text":"СТРЕЛЬБА"}
+{"key":"RELOAD","text":"ПЕРЕЗАРЯДКА"}
+{"key":"USE, PICK UP","text":"ИСПОЛЬЗОВАТЬ, ПОДОБРАТЬ"}
+{"key":"GRENADE","text":"ГРАНАТА"}
+{"key":"MELEE","text":"БЛИЖНИЙ БОЙ"}
+{"key":"NEXT WEAPON","text":"СЛЕДУЮЩЕЕ ОРУЖИЕ"}
+{"key":"PREVIOUS WEAPON","text":"ПРЕДЫДУЩЕЕ ОРУЖИЕ"}
+{"key":"CHANGE FIRING MODE","text":"СМЕНИТЬ РЕЖИМ ОГНЯ"}
+{"key":"TOGGLE SUPPRESSOR","text":"ВКЛ./ВЫКЛ. ГЛУШИТЕЛЬ"}
+{"key":"HEALTH PACK","text":"АПТЕЧКА"}
+{"key":"NEXT MUSIC TRACK","text":"СЛЕДУЮЩИЙ ТРЕК"}
+{"key":"TURN LEFT","text":"ПОВЕРНУТЬ ВЛЕВО"}
+{"key":"TURN RIGHT","text":"ПОВЕРНУТЬ ВПРАВО"}
+{"key":"LOOK UP","text":"СМОТРЕТЬ ВВЕРХ"}
+{"key":"LOOK DOWN","text":"СМОТРЕТЬ ВНИЗ"}
+{"key":"PAUSE","text":"ПАУЗА"}
+{"key":"SHOW OBJECTIVES","text":"ПОКАЗАТЬ ЦЕЛИ"}
+{"key":"WEAPON 1","text":"ОРУЖИЕ 1"}
+{"key":"WEAPON 2","text":"ОРУЖИЕ 2"}
+{"key":"[ARROWS]","text":"[СТРЕЛКИ]"}
+{"key":" (NEXT START)","text":" (ПРИ СЛЕДУЮЩЕМ ЗАПУСКЕ)"}
+{"key":" (RESTART)","text":" (ПЕРЕЗАПУСК)"}
+{"key":" (LANGUAGE)","text":" (ЯЗЫК)"}
+{"key":" (ORIGINAL)","text":" (ОРИГИНАЛ)"}

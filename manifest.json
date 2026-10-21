@@ -2200,6 +2200,136 @@
         "size_bytes": 82841,
         "sha256": "62c305a6cc82c55a0ce35eaef1417fb730b397b9cea9d502aef8eae180b4e3b6",
         "mirror_only": true
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "port_menu_catalog",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/en-US.jsonl",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/en-US.jsonl",
+        "format": "jsonl",
+        "mirror_only": true,
+        "size_bytes": 3565,
+        "sha256": "2a57b39430046cfb50950132d1051c361003022926d839bbb166760f72e9d804"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "original_game_menu_catalog",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/en-US.jsonl",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/en-US.jsonl",
+        "format": "jsonl",
+        "mirror_only": true,
+        "size_bytes": 82841,
+        "sha256": "62c305a6cc82c55a0ce35eaef1417fb730b397b9cea9d502aef8eae180b4e3b6"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/03_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/03_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2934,
+        "sha256": "7c152e81225af23bc2b05f967eabe1f7a3bde2f2d2b44203797be71c7219bb62"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/05_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/05_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 1730,
+        "sha256": "2a84d36045f40667c2d7ff4e617c974a11d8a31a53e945fbdb2b2054a4a33967"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/07_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/07_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2695,
+        "sha256": "cfe66c88ba4096a6478437c8fa2c79027e8156dc110342e8a2337c21c6d3b18b"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/09_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/09_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2327,
+        "sha256": "7902aabc04f9147a0d685a73b28b5f05fff327e062e3cf7c6b52ef396e95b42c"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/11_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/11_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2258,
+        "sha256": "36a3e0dc5bc7e19f81bd9be86a25f5666c42fb69f4d44218d6fc315c5c5ef38a"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/13_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/13_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 1626,
+        "sha256": "82adc2b079d45e32afc5b2d21b3c259e22b46de0428856df54439b0f79c6c52f"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/15_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/15_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 1019,
+        "sha256": "7599bb96ed55b8e808acee48e940dfc6f4aaf018c16c272193ac555950d89858"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/17_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/17_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 362,
+        "sha256": "ec8aba059a6925b11da383cfa6f78a292336c8e3e1735dbee9c1f21a8a07e63b"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/18_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/18_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2071,
+        "sha256": "8312008da4640746e399c93f0c993bfb7f283ad8ba5ac5179a73b5615623e8a4"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "project_integration_guide",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/README.md",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/README.md",
+        "format": "md",
+        "mirror_only": true,
+        "size_bytes": 2492,
+        "sha256": "a4eeed94d9fc9292e801d0d97332cbf23a0224b7886a394e764b2b210800cf4a"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "project_index",
+        "source_path": "GitHubs/README.md",
+        "destination_path": "GitHubs/README.md",
+        "format": "md",
+        "mirror_only": true,
+        "size_bytes": 526,
+        "sha256": "f95e10a02d71ea826a1d6f94b7dc5484935e46dac7387744645acdfcd1c498ea"
       }
     ],
     "pt-BR": [
@@ -2211,6 +2341,116 @@
         "size_bytes": 89976,
         "sha256": "a91723cecdef1c85953327cc8073deb221692e63ec7e626c1ebc344af81f513c",
         "mirror_only": true
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "port_menu_catalog",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/pt-BR.jsonl",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/pt-BR.jsonl",
+        "format": "jsonl",
+        "mirror_only": true,
+        "size_bytes": 3739,
+        "sha256": "e3270e5a15fd2e00111521fab1c50617704736a66b4e26b64fbadc14a34262d5"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "original_game_menu_catalog",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/pt-BR.jsonl",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/pt-BR.jsonl",
+        "format": "jsonl",
+        "mirror_only": true,
+        "size_bytes": 89976,
+        "sha256": "a91723cecdef1c85953327cc8073deb221692e63ec7e626c1ebc344af81f513c"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/03_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/03_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 3159,
+        "sha256": "e156e6e607a38a71cf10e7a0c3bb3dede222b2218cfc81a8563573706c40a4bd"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/05_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/05_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 1938,
+        "sha256": "dc88dcb01f531504ba4b3ee9635c3230b0875dcfe53fe24f632c816be183c752"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/07_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/07_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2939,
+        "sha256": "6433917ea1aa90bb3dba83b9af75f68924e27ca33c26abea37d4e5310d237524"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/09_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/09_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2611,
+        "sha256": "fc139670621c0ec9609d666b61a7463693ec434f44e99514e09ca26099bfdf9e"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/11_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/11_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2401,
+        "sha256": "bba18d287c39fe5a330fabff4356a4223071af3cf20242826789948a7787d6bc"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/13_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/13_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 1735,
+        "sha256": "b923ec92f1cccc5c7e5c555ae09ee7324102c2f7d2cecba068ffee0e8605728e"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/15_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/15_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 1117,
+        "sha256": "deabf59b2daf7d099a9451e054478cfb37edd6c88c96eba973bfdb8485e5d9db"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/17_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/17_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 397,
+        "sha256": "2392c4ec1da0fddc1f1fd6c14f21bb33c0d85df190e6a1533b34625467d514f1"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/18_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/18_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2276,
+        "sha256": "2a66d1e0d7d23feb3fb11721485883e1a6930aeb5f632d714af84f75f9545de7"
       }
     ],
     "es": [
@@ -2222,6 +2462,117 @@
         "size_bytes": 90645,
         "sha256": "742566e423ae13bd7ca2c3aea41ee431edfde0c82aa69cf2195bf6c88ceeb600",
         "mirror_only": true
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "port_menu_catalog",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/es.jsonl",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/es.jsonl",
+        "format": "jsonl",
+        "mirror_only": true,
+        "review_status": "ai_draft_pending_native_review",
+        "size_bytes": 3889,
+        "sha256": "a923804025315cfa768bdc5e39be7b91cd39c7e8591e80ce1c799b58330bda80"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "original_game_menu_catalog",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/es.jsonl",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/es.jsonl",
+        "format": "jsonl",
+        "mirror_only": true,
+        "size_bytes": 90645,
+        "sha256": "742566e423ae13bd7ca2c3aea41ee431edfde0c82aa69cf2195bf6c88ceeb600"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/03_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/03_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 3315,
+        "sha256": "804f0d2593fd3c9d03e526d61db97294673dcfa35b2040b653b9adbe2f9826ef"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/05_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/05_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 1887,
+        "sha256": "5470f63d10aa82f511220099e6e3de0ba5dbd135f8979417bbf94f99f18c955c"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/07_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/07_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 3020,
+        "sha256": "888001acf028708eb7352b3a855ea329c7dbbc3c061c9ebf0aab808153d37da4"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/09_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/09_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2705,
+        "sha256": "8c874652a6b06faee829e370a6b40ef1967c56d9c37c7752a64b56e1cbe93334"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/11_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/11_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2576,
+        "sha256": "a0ed956411f281dfdfafb53495d785e92fa172e5328f017427834d907e25f46b"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/13_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/13_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 1786,
+        "sha256": "098e3e4cc0c01fc05ff253a76eac802d158bb18d8c05d8a1fc6f04c13066c0d6"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/15_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/15_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 1183,
+        "sha256": "c8e5bce5615e6f9686617ed3aa5af8ecd6b52b702f9971c278bba95bf12780bf"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/17_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/17_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 410,
+        "sha256": "085c7dac4806bba759675e51e3037bc283d66e3d791d609bb4c7a3091e73cc15"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/18_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/18_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2238,
+        "sha256": "95f7cd3a7e4c0a72dd50f4e43a86fe8303cee3e360e8846246be16cd7c4e9d0d"
       }
     ],
     "fr": [
@@ -2233,6 +2584,117 @@
         "size_bytes": 92507,
         "sha256": "943b77ddfecbcde59b03961b25e0c952ec6a3cbacdcbd7fe426643eeb963340f",
         "mirror_only": true
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "port_menu_catalog",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/fr.jsonl",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/fr.jsonl",
+        "format": "jsonl",
+        "mirror_only": true,
+        "review_status": "ai_draft_pending_native_review",
+        "size_bytes": 3973,
+        "sha256": "ca9307549329922df647239aefeba38306e496240e780ec4afd4a477138e462a"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "original_game_menu_catalog",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/fr.jsonl",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/fr.jsonl",
+        "format": "jsonl",
+        "mirror_only": true,
+        "size_bytes": 92507,
+        "sha256": "943b77ddfecbcde59b03961b25e0c952ec6a3cbacdcbd7fe426643eeb963340f"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/03_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/03_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 3491,
+        "sha256": "13ac1bd79631f18f791748b66d429e2f5de896134070534b62d8a99d8f93d47e"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/05_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/05_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2058,
+        "sha256": "0b28197e793a5697e3724936f965f3e3d874bdd2a686f7e49d4766b96a8bcfea"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/07_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/07_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 3059,
+        "sha256": "9c33a73701d7624a2d6d2399e88e22d069991a4f6dcf64d2f48fb93659b08174"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/09_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/09_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2725,
+        "sha256": "5b1a0768ac2c3f80d3624d924ee77be50a2ea0eb6fed47323547c9e3f1ae28da"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/11_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/11_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2719,
+        "sha256": "6f0f813ca839869081e9439942379321fb8c0562d9bc913d67375d64538f2c94"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/13_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/13_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 1853,
+        "sha256": "de77fd3096035b1b77d52bf3d2863c1dab40e9598921ff1044fea135a05c7ecd"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/15_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/15_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 1168,
+        "sha256": "16aed9cf96b49dfbe747d4ce12d48411dbb4e0e3d9eeb3004255bd5e3b81ece9"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/17_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/17_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 422,
+        "sha256": "9155ecefde95421d927858b3ee5815e0a89b91040d6c0766e269c58b8d3ff27f"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/18_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/18_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2275,
+        "sha256": "f8f8f4402a4410a0e06dd6e540448405e822e85e034541cf2f36d60146d3c279"
       }
     ],
     "de": [
@@ -2244,6 +2706,117 @@
         "size_bytes": 87448,
         "sha256": "e4a56fecce85c2ff2f5d3783cfb464e759c53a3c81469919fb49110c93f60f5d",
         "mirror_only": true
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "port_menu_catalog",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/de.jsonl",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/de.jsonl",
+        "format": "jsonl",
+        "mirror_only": true,
+        "review_status": "ai_draft_pending_native_review",
+        "size_bytes": 3797,
+        "sha256": "800aff6fbf449ab915e4512bed9bc3c1b1a5e986bd5576a8ef7aac733ea188b0"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "original_game_menu_catalog",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/de.jsonl",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/de.jsonl",
+        "format": "jsonl",
+        "mirror_only": true,
+        "size_bytes": 87448,
+        "sha256": "e4a56fecce85c2ff2f5d3783cfb464e759c53a3c81469919fb49110c93f60f5d"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/03_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/03_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 3313,
+        "sha256": "e229161c024186454829846657b1a3b8658d03fe4cdefdfc49583cb835c43963"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/05_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/05_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 1904,
+        "sha256": "4ac4ad2c9652091af6d11dc3a8bd858c41f4e267ec1531481427d5c78d4288e5"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/07_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/07_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2933,
+        "sha256": "093180a236967f53dd0b5de6aad54043627d96372e24d582ad56001e6654d712"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/09_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/09_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2642,
+        "sha256": "c8c557497f1468de2301cffe8f8a2ad16fbb016dad3a9cd5467df288cbe59e86"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/11_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/11_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2629,
+        "sha256": "fd6f871b03455cbdec19dce340ace3269720a5a188ccb9a44621a26e3084a215"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/13_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/13_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 1755,
+        "sha256": "f840c54dc61ad045ed4e7cc8bd5b1e16e9649e319609a7b16e3846c5631e2c00"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/15_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/15_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 1114,
+        "sha256": "66e0857e542f4cf21981f9189176c0b823101dae79708404d8ed1c87299068bd"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/17_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/17_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 395,
+        "sha256": "c060e42fa67f9dc015ab647188edbd0ca29d900cf44c3b2e9b60e8690b427205"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/18_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/18_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2274,
+        "sha256": "44b3f132527062a2ac8fbdca041a046e3a466dce48460d5d5f9fd3d14772d71c"
       }
     ],
     "it": [
@@ -2255,6 +2828,117 @@
         "size_bytes": 88244,
         "sha256": "7572b57ccab29457f4c36089916cb8a4997de4c500786bde74573e143e68a601",
         "mirror_only": true
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "port_menu_catalog",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/it.jsonl",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/it.jsonl",
+        "format": "jsonl",
+        "mirror_only": true,
+        "review_status": "ai_draft_pending_native_review",
+        "size_bytes": 3945,
+        "sha256": "00d7a91443738738a36b237c5f2147958f81e9681373c5444772eb737c721bb9"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "original_game_menu_catalog",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/it.jsonl",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/it.jsonl",
+        "format": "jsonl",
+        "mirror_only": true,
+        "size_bytes": 88244,
+        "sha256": "7572b57ccab29457f4c36089916cb8a4997de4c500786bde74573e143e68a601"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/03_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/03_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 3327,
+        "sha256": "d77eb9c0b3959db5b98d54df7118be37eeb0d9e40aaf6e0e49bcfdbd988bf38a"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/05_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/05_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2027,
+        "sha256": "3c84cf6dd658b935a1e92d89457f3d46ae56ea19896ecbd713959b38509c4ace"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/07_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/07_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2981,
+        "sha256": "4a1a2fed54c05a17b1150668c56864b74c4f0b698294bca1988c67e1d814e0cd"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/09_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/09_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2660,
+        "sha256": "af3ad6ebcd55a655051c1dd169822123ecbd93cd1c5683692cef8ecc8a855229"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/11_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/11_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2574,
+        "sha256": "af88953680c8b3b0f0a027c28651b627c2ef3ac0c59dc16255c03d9c066d9f4e"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/13_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/13_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 1796,
+        "sha256": "f7d0c826b7b76f16463aecc16db4ba056c2484b869eec9f94d759162579b86c4"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/15_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/15_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 1204,
+        "sha256": "9cc0e4881685e26a995d9b9f62e268566637024fa87a4e61b3d40e3bfb48ecc1"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/17_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/17_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 387,
+        "sha256": "b4fdea7de82f711ba8d5d1efeec06846aec98f55b3d6301ff9d7ed54306f627d"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/18_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/18_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2257,
+        "sha256": "67b4c8e937a81781b8f7cdf93e85015ac040a5a1db729be10441305723a360da"
       }
     ],
     "id": [
@@ -2266,6 +2950,117 @@
         "size_bytes": 82670,
         "sha256": "f6b36134ab1541596a0d7a252a0420a0cc914634a6bf9e61c9edff4dab808a1d",
         "mirror_only": true
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "port_menu_catalog",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/id.jsonl",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/id.jsonl",
+        "format": "jsonl",
+        "mirror_only": true,
+        "review_status": "ai_draft_pending_native_review",
+        "size_bytes": 3709,
+        "sha256": "8cefaa7eaf92ba4a6ff46ce94e6f24cb614bc67361005d88308e38254bac234c"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "original_game_menu_catalog",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/id.jsonl",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/id.jsonl",
+        "format": "jsonl",
+        "mirror_only": true,
+        "size_bytes": 82670,
+        "sha256": "f6b36134ab1541596a0d7a252a0420a0cc914634a6bf9e61c9edff4dab808a1d"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/03_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/03_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 3110,
+        "sha256": "15a29995461966380e7cb9356069539762ba618ce02daeeaf807d685e31fb1bf"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/05_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/05_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 1879,
+        "sha256": "fbd333031ecbcec922a46451b2171b6e72bb58bf86fd840e64597bd39a11d2d6"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/07_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/07_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2821,
+        "sha256": "88fb89d359cbe1ee221bea48de1642e610c61b05b9d611cc3af54f1fd7e4811c"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/09_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/09_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2459,
+        "sha256": "46873c16f9a2e3cfc26f406740d322250d36ef83f2994b20f498cce995dd9029"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/11_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/11_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2417,
+        "sha256": "1343d0f628f1cee4c9b10007eb22029ace782c04851cca60f3cd3c6529954f1f"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/13_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/13_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 1725,
+        "sha256": "f0a8771b6193926126ddef4f4b177c15a53e3b5e176fb96b1a8ef86d91fe106d"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/15_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/15_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 1053,
+        "sha256": "0e23cf7e1a5a1c20bb23a35a14ffa647f8e2224d32dba01a3c756ec2ee677182"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/17_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/17_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 370,
+        "sha256": "68a10b930428f04000058d9f0f50bbab37244d6bbd97304434279d6d9182ca05"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/18_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/18_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2106,
+        "sha256": "36e1b4cda9a2bf28cfba9f0d5b45a4fdd9da5229d4d9a9867f8212c16d644d03"
       }
     ],
     "ru": [
@@ -2276,6 +3071,117 @@
         "size_bytes": 622,
         "sha256": "559ac5ed216ace0b8f3dbda7de7c9999749be84bd13271a66f7277ecc348cddd",
         "review_only": true
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "port_menu_catalog",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/ru.jsonl",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/ru.jsonl",
+        "format": "jsonl",
+        "mirror_only": true,
+        "size_bytes": 4721,
+        "sha256": "80fce40e1dc3d83460688d102901cd70a7d3a4ae0df57d6ca04a8fae39cc6c34"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "original_game_menu_catalog",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/ru.jsonl",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/ru.jsonl",
+        "format": "jsonl",
+        "mirror_only": true,
+        "review_status": "partial_catalog_pending_review",
+        "size_bytes": 83056,
+        "sha256": "3c982ecdbf5e57a7ee6587c6d1510e9e26202b96a7dc61b9bc05e38226eef471"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/03_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/03_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 4469,
+        "sha256": "c63df6907ff71518ff4701e7bf66523a71e870960f90eb4d7222ec7ebe58bf00"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/05_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/05_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2509,
+        "sha256": "077d123b1e5377430e84f4467ebf34b3d04d8f65515953d67a21ecaaac028fcd"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/07_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/07_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 4281,
+        "sha256": "7dec4076bfccfd3a42ed90524f753dbf3b8217a56d27b32cb548086f5bc1fdc9"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/09_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/09_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 3829,
+        "sha256": "8c0fa15bb77bb43681beabd9be6b182a071821cf4c2a07793e850a5098f0b1c4"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/11_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/11_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 3484,
+        "sha256": "6a6d17282cbae30dab75bf3cb36614e718711712ef07f111d6be88a5f9d692dc"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/13_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/13_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2417,
+        "sha256": "9e7416d7dadc05a0c79e1db5532656c7c4c16be65afb08f76cb2daecf400826d"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/15_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/15_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 1528,
+        "sha256": "1fd68cd609b2691f85e26d550c88c47e48bbbc17ab3836e14466c219db5dcd7d"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/17_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/17_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 529,
+        "sha256": "cb9a4bfb639f2879d0209bda648e19111bf323b53f848a99ea4c84b923b32694"
+      },
+      {
+        "category": "repository_reference",
+        "asset_type": "cutscene_subtitle_mirror",
+        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/18_N.srt",
+        "destination_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/18_N.srt",
+        "format": "srt",
+        "mirror_only": true,
+        "size_bytes": 2907,
+        "sha256": "239e31416ca447229910a96d019fd9408294c202e3d3059a53c42dc410fa7022"
       }
     ]
   },
@@ -2623,12 +3529,2050 @@
               }
             }
           },
+          "BlackDefinitiveHDPC": {
+            "type": "directory",
+            "children": {
+              "README.md": {
+                "type": "file",
+                "status": "listed",
+                "source_path": "GitHubs/BlackDefinitiveHDPC/README.md",
+                "size_bytes": 2492,
+                "sha256": "a4eeed94d9fc9292e801d0d97332cbf23a0224b7886a394e764b2b210800cf4a",
+                "locales": [
+                  "en-US"
+                ],
+                "categories": [
+                  "repository_reference"
+                ],
+                "asset_types": [
+                  "project_integration_guide"
+                ],
+                "destination_paths": [
+                  "GitHubs/BlackDefinitiveHDPC/README.md"
+                ],
+                "formats": [
+                  "md"
+                ]
+              },
+              "Subtitles": {
+                "type": "directory",
+                "children": {
+                  "de": {
+                    "type": "directory",
+                    "children": {
+                      "03_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/03_N.srt",
+                        "size_bytes": 3313,
+                        "sha256": "e229161c024186454829846657b1a3b8658d03fe4cdefdfc49583cb835c43963",
+                        "locales": [
+                          "de"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/de/03_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "05_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/05_N.srt",
+                        "size_bytes": 1904,
+                        "sha256": "4ac4ad2c9652091af6d11dc3a8bd858c41f4e267ec1531481427d5c78d4288e5",
+                        "locales": [
+                          "de"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/de/05_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "07_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/07_N.srt",
+                        "size_bytes": 2933,
+                        "sha256": "093180a236967f53dd0b5de6aad54043627d96372e24d582ad56001e6654d712",
+                        "locales": [
+                          "de"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/de/07_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "09_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/09_N.srt",
+                        "size_bytes": 2642,
+                        "sha256": "c8c557497f1468de2301cffe8f8a2ad16fbb016dad3a9cd5467df288cbe59e86",
+                        "locales": [
+                          "de"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/de/09_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "11_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/11_N.srt",
+                        "size_bytes": 2629,
+                        "sha256": "fd6f871b03455cbdec19dce340ace3269720a5a188ccb9a44621a26e3084a215",
+                        "locales": [
+                          "de"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/de/11_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "13_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/13_N.srt",
+                        "size_bytes": 1755,
+                        "sha256": "f840c54dc61ad045ed4e7cc8bd5b1e16e9649e319609a7b16e3846c5631e2c00",
+                        "locales": [
+                          "de"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/de/13_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "15_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/15_N.srt",
+                        "size_bytes": 1114,
+                        "sha256": "66e0857e542f4cf21981f9189176c0b823101dae79708404d8ed1c87299068bd",
+                        "locales": [
+                          "de"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/de/15_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "17_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/17_N.srt",
+                        "size_bytes": 395,
+                        "sha256": "c060e42fa67f9dc015ab647188edbd0ca29d900cf44c3b2e9b60e8690b427205",
+                        "locales": [
+                          "de"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/de/17_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "18_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/de/18_N.srt",
+                        "size_bytes": 2274,
+                        "sha256": "44b3f132527062a2ac8fbdca041a046e3a466dce48460d5d5f9fd3d14772d71c",
+                        "locales": [
+                          "de"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/de/18_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      }
+                    }
+                  },
+                  "en": {
+                    "type": "directory",
+                    "children": {
+                      "03_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/03_N.srt",
+                        "size_bytes": 2934,
+                        "sha256": "7c152e81225af23bc2b05f967eabe1f7a3bde2f2d2b44203797be71c7219bb62",
+                        "locales": [
+                          "en-US"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/en/03_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "05_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/05_N.srt",
+                        "size_bytes": 1730,
+                        "sha256": "2a84d36045f40667c2d7ff4e617c974a11d8a31a53e945fbdb2b2054a4a33967",
+                        "locales": [
+                          "en-US"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/en/05_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "07_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/07_N.srt",
+                        "size_bytes": 2695,
+                        "sha256": "cfe66c88ba4096a6478437c8fa2c79027e8156dc110342e8a2337c21c6d3b18b",
+                        "locales": [
+                          "en-US"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/en/07_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "09_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/09_N.srt",
+                        "size_bytes": 2327,
+                        "sha256": "7902aabc04f9147a0d685a73b28b5f05fff327e062e3cf7c6b52ef396e95b42c",
+                        "locales": [
+                          "en-US"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/en/09_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "11_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/11_N.srt",
+                        "size_bytes": 2258,
+                        "sha256": "36a3e0dc5bc7e19f81bd9be86a25f5666c42fb69f4d44218d6fc315c5c5ef38a",
+                        "locales": [
+                          "en-US"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/en/11_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "13_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/13_N.srt",
+                        "size_bytes": 1626,
+                        "sha256": "82adc2b079d45e32afc5b2d21b3c259e22b46de0428856df54439b0f79c6c52f",
+                        "locales": [
+                          "en-US"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/en/13_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "15_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/15_N.srt",
+                        "size_bytes": 1019,
+                        "sha256": "7599bb96ed55b8e808acee48e940dfc6f4aaf018c16c272193ac555950d89858",
+                        "locales": [
+                          "en-US"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/en/15_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "17_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/17_N.srt",
+                        "size_bytes": 362,
+                        "sha256": "ec8aba059a6925b11da383cfa6f78a292336c8e3e1735dbee9c1f21a8a07e63b",
+                        "locales": [
+                          "en-US"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/en/17_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "18_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/en/18_N.srt",
+                        "size_bytes": 2071,
+                        "sha256": "8312008da4640746e399c93f0c993bfb7f283ad8ba5ac5179a73b5615623e8a4",
+                        "locales": [
+                          "en-US"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/en/18_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      }
+                    }
+                  },
+                  "es": {
+                    "type": "directory",
+                    "children": {
+                      "03_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/03_N.srt",
+                        "size_bytes": 3315,
+                        "sha256": "804f0d2593fd3c9d03e526d61db97294673dcfa35b2040b653b9adbe2f9826ef",
+                        "locales": [
+                          "es"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/es/03_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "05_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/05_N.srt",
+                        "size_bytes": 1887,
+                        "sha256": "5470f63d10aa82f511220099e6e3de0ba5dbd135f8979417bbf94f99f18c955c",
+                        "locales": [
+                          "es"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/es/05_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "07_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/07_N.srt",
+                        "size_bytes": 3020,
+                        "sha256": "888001acf028708eb7352b3a855ea329c7dbbc3c061c9ebf0aab808153d37da4",
+                        "locales": [
+                          "es"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/es/07_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "09_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/09_N.srt",
+                        "size_bytes": 2705,
+                        "sha256": "8c874652a6b06faee829e370a6b40ef1967c56d9c37c7752a64b56e1cbe93334",
+                        "locales": [
+                          "es"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/es/09_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "11_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/11_N.srt",
+                        "size_bytes": 2576,
+                        "sha256": "a0ed956411f281dfdfafb53495d785e92fa172e5328f017427834d907e25f46b",
+                        "locales": [
+                          "es"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/es/11_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "13_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/13_N.srt",
+                        "size_bytes": 1786,
+                        "sha256": "098e3e4cc0c01fc05ff253a76eac802d158bb18d8c05d8a1fc6f04c13066c0d6",
+                        "locales": [
+                          "es"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/es/13_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "15_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/15_N.srt",
+                        "size_bytes": 1183,
+                        "sha256": "c8e5bce5615e6f9686617ed3aa5af8ecd6b52b702f9971c278bba95bf12780bf",
+                        "locales": [
+                          "es"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/es/15_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "17_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/17_N.srt",
+                        "size_bytes": 410,
+                        "sha256": "085c7dac4806bba759675e51e3037bc283d66e3d791d609bb4c7a3091e73cc15",
+                        "locales": [
+                          "es"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/es/17_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "18_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/es/18_N.srt",
+                        "size_bytes": 2238,
+                        "sha256": "95f7cd3a7e4c0a72dd50f4e43a86fe8303cee3e360e8846246be16cd7c4e9d0d",
+                        "locales": [
+                          "es"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/es/18_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      }
+                    }
+                  },
+                  "fr": {
+                    "type": "directory",
+                    "children": {
+                      "03_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/03_N.srt",
+                        "size_bytes": 3491,
+                        "sha256": "13ac1bd79631f18f791748b66d429e2f5de896134070534b62d8a99d8f93d47e",
+                        "locales": [
+                          "fr"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/03_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "05_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/05_N.srt",
+                        "size_bytes": 2058,
+                        "sha256": "0b28197e793a5697e3724936f965f3e3d874bdd2a686f7e49d4766b96a8bcfea",
+                        "locales": [
+                          "fr"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/05_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "07_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/07_N.srt",
+                        "size_bytes": 3059,
+                        "sha256": "9c33a73701d7624a2d6d2399e88e22d069991a4f6dcf64d2f48fb93659b08174",
+                        "locales": [
+                          "fr"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/07_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "09_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/09_N.srt",
+                        "size_bytes": 2725,
+                        "sha256": "5b1a0768ac2c3f80d3624d924ee77be50a2ea0eb6fed47323547c9e3f1ae28da",
+                        "locales": [
+                          "fr"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/09_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "11_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/11_N.srt",
+                        "size_bytes": 2719,
+                        "sha256": "6f0f813ca839869081e9439942379321fb8c0562d9bc913d67375d64538f2c94",
+                        "locales": [
+                          "fr"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/11_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "13_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/13_N.srt",
+                        "size_bytes": 1853,
+                        "sha256": "de77fd3096035b1b77d52bf3d2863c1dab40e9598921ff1044fea135a05c7ecd",
+                        "locales": [
+                          "fr"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/13_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "15_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/15_N.srt",
+                        "size_bytes": 1168,
+                        "sha256": "16aed9cf96b49dfbe747d4ce12d48411dbb4e0e3d9eeb3004255bd5e3b81ece9",
+                        "locales": [
+                          "fr"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/15_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "17_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/17_N.srt",
+                        "size_bytes": 422,
+                        "sha256": "9155ecefde95421d927858b3ee5815e0a89b91040d6c0766e269c58b8d3ff27f",
+                        "locales": [
+                          "fr"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/17_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "18_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/18_N.srt",
+                        "size_bytes": 2275,
+                        "sha256": "f8f8f4402a4410a0e06dd6e540448405e822e85e034541cf2f36d60146d3c279",
+                        "locales": [
+                          "fr"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/fr/18_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      }
+                    }
+                  },
+                  "id": {
+                    "type": "directory",
+                    "children": {
+                      "03_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/03_N.srt",
+                        "size_bytes": 3110,
+                        "sha256": "15a29995461966380e7cb9356069539762ba618ce02daeeaf807d685e31fb1bf",
+                        "locales": [
+                          "id"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/id/03_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "05_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/05_N.srt",
+                        "size_bytes": 1879,
+                        "sha256": "fbd333031ecbcec922a46451b2171b6e72bb58bf86fd840e64597bd39a11d2d6",
+                        "locales": [
+                          "id"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/id/05_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "07_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/07_N.srt",
+                        "size_bytes": 2821,
+                        "sha256": "88fb89d359cbe1ee221bea48de1642e610c61b05b9d611cc3af54f1fd7e4811c",
+                        "locales": [
+                          "id"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/id/07_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "09_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/09_N.srt",
+                        "size_bytes": 2459,
+                        "sha256": "46873c16f9a2e3cfc26f406740d322250d36ef83f2994b20f498cce995dd9029",
+                        "locales": [
+                          "id"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/id/09_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "11_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/11_N.srt",
+                        "size_bytes": 2417,
+                        "sha256": "1343d0f628f1cee4c9b10007eb22029ace782c04851cca60f3cd3c6529954f1f",
+                        "locales": [
+                          "id"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/id/11_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "13_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/13_N.srt",
+                        "size_bytes": 1725,
+                        "sha256": "f0a8771b6193926126ddef4f4b177c15a53e3b5e176fb96b1a8ef86d91fe106d",
+                        "locales": [
+                          "id"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/id/13_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "15_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/15_N.srt",
+                        "size_bytes": 1053,
+                        "sha256": "0e23cf7e1a5a1c20bb23a35a14ffa647f8e2224d32dba01a3c756ec2ee677182",
+                        "locales": [
+                          "id"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/id/15_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "17_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/17_N.srt",
+                        "size_bytes": 370,
+                        "sha256": "68a10b930428f04000058d9f0f50bbab37244d6bbd97304434279d6d9182ca05",
+                        "locales": [
+                          "id"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/id/17_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "18_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/id/18_N.srt",
+                        "size_bytes": 2106,
+                        "sha256": "36e1b4cda9a2bf28cfba9f0d5b45a4fdd9da5229d4d9a9867f8212c16d644d03",
+                        "locales": [
+                          "id"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/id/18_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      }
+                    }
+                  },
+                  "it": {
+                    "type": "directory",
+                    "children": {
+                      "03_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/03_N.srt",
+                        "size_bytes": 3327,
+                        "sha256": "d77eb9c0b3959db5b98d54df7118be37eeb0d9e40aaf6e0e49bcfdbd988bf38a",
+                        "locales": [
+                          "it"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/it/03_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "05_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/05_N.srt",
+                        "size_bytes": 2027,
+                        "sha256": "3c84cf6dd658b935a1e92d89457f3d46ae56ea19896ecbd713959b38509c4ace",
+                        "locales": [
+                          "it"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/it/05_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "07_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/07_N.srt",
+                        "size_bytes": 2981,
+                        "sha256": "4a1a2fed54c05a17b1150668c56864b74c4f0b698294bca1988c67e1d814e0cd",
+                        "locales": [
+                          "it"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/it/07_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "09_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/09_N.srt",
+                        "size_bytes": 2660,
+                        "sha256": "af3ad6ebcd55a655051c1dd169822123ecbd93cd1c5683692cef8ecc8a855229",
+                        "locales": [
+                          "it"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/it/09_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "11_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/11_N.srt",
+                        "size_bytes": 2574,
+                        "sha256": "af88953680c8b3b0f0a027c28651b627c2ef3ac0c59dc16255c03d9c066d9f4e",
+                        "locales": [
+                          "it"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/it/11_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "13_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/13_N.srt",
+                        "size_bytes": 1796,
+                        "sha256": "f7d0c826b7b76f16463aecc16db4ba056c2484b869eec9f94d759162579b86c4",
+                        "locales": [
+                          "it"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/it/13_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "15_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/15_N.srt",
+                        "size_bytes": 1204,
+                        "sha256": "9cc0e4881685e26a995d9b9f62e268566637024fa87a4e61b3d40e3bfb48ecc1",
+                        "locales": [
+                          "it"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/it/15_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "17_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/17_N.srt",
+                        "size_bytes": 387,
+                        "sha256": "b4fdea7de82f711ba8d5d1efeec06846aec98f55b3d6301ff9d7ed54306f627d",
+                        "locales": [
+                          "it"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/it/17_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "18_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/it/18_N.srt",
+                        "size_bytes": 2257,
+                        "sha256": "67b4c8e937a81781b8f7cdf93e85015ac040a5a1db729be10441305723a360da",
+                        "locales": [
+                          "it"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/it/18_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      }
+                    }
+                  },
+                  "pt-BR": {
+                    "type": "directory",
+                    "children": {
+                      "03_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/03_N.srt",
+                        "size_bytes": 3159,
+                        "sha256": "e156e6e607a38a71cf10e7a0c3bb3dede222b2218cfc81a8563573706c40a4bd",
+                        "locales": [
+                          "pt-BR"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/03_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "05_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/05_N.srt",
+                        "size_bytes": 1938,
+                        "sha256": "dc88dcb01f531504ba4b3ee9635c3230b0875dcfe53fe24f632c816be183c752",
+                        "locales": [
+                          "pt-BR"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/05_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "07_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/07_N.srt",
+                        "size_bytes": 2939,
+                        "sha256": "6433917ea1aa90bb3dba83b9af75f68924e27ca33c26abea37d4e5310d237524",
+                        "locales": [
+                          "pt-BR"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/07_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "09_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/09_N.srt",
+                        "size_bytes": 2611,
+                        "sha256": "fc139670621c0ec9609d666b61a7463693ec434f44e99514e09ca26099bfdf9e",
+                        "locales": [
+                          "pt-BR"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/09_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "11_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/11_N.srt",
+                        "size_bytes": 2401,
+                        "sha256": "bba18d287c39fe5a330fabff4356a4223071af3cf20242826789948a7787d6bc",
+                        "locales": [
+                          "pt-BR"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/11_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "13_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/13_N.srt",
+                        "size_bytes": 1735,
+                        "sha256": "b923ec92f1cccc5c7e5c555ae09ee7324102c2f7d2cecba068ffee0e8605728e",
+                        "locales": [
+                          "pt-BR"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/13_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "15_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/15_N.srt",
+                        "size_bytes": 1117,
+                        "sha256": "deabf59b2daf7d099a9451e054478cfb37edd6c88c96eba973bfdb8485e5d9db",
+                        "locales": [
+                          "pt-BR"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/15_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "17_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/17_N.srt",
+                        "size_bytes": 397,
+                        "sha256": "2392c4ec1da0fddc1f1fd6c14f21bb33c0d85df190e6a1533b34625467d514f1",
+                        "locales": [
+                          "pt-BR"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/17_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "18_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/18_N.srt",
+                        "size_bytes": 2276,
+                        "sha256": "2a66d1e0d7d23feb3fb11721485883e1a6930aeb5f632d714af84f75f9545de7",
+                        "locales": [
+                          "pt-BR"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/pt-BR/18_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      }
+                    }
+                  },
+                  "ru": {
+                    "type": "directory",
+                    "children": {
+                      "03_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/03_N.srt",
+                        "size_bytes": 4469,
+                        "sha256": "c63df6907ff71518ff4701e7bf66523a71e870960f90eb4d7222ec7ebe58bf00",
+                        "locales": [
+                          "ru"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/03_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "05_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/05_N.srt",
+                        "size_bytes": 2509,
+                        "sha256": "077d123b1e5377430e84f4467ebf34b3d04d8f65515953d67a21ecaaac028fcd",
+                        "locales": [
+                          "ru"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/05_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "07_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/07_N.srt",
+                        "size_bytes": 4281,
+                        "sha256": "7dec4076bfccfd3a42ed90524f753dbf3b8217a56d27b32cb548086f5bc1fdc9",
+                        "locales": [
+                          "ru"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/07_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "09_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/09_N.srt",
+                        "size_bytes": 3829,
+                        "sha256": "8c0fa15bb77bb43681beabd9be6b182a071821cf4c2a07793e850a5098f0b1c4",
+                        "locales": [
+                          "ru"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/09_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "11_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/11_N.srt",
+                        "size_bytes": 3484,
+                        "sha256": "6a6d17282cbae30dab75bf3cb36614e718711712ef07f111d6be88a5f9d692dc",
+                        "locales": [
+                          "ru"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/11_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "13_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/13_N.srt",
+                        "size_bytes": 2417,
+                        "sha256": "9e7416d7dadc05a0c79e1db5532656c7c4c16be65afb08f76cb2daecf400826d",
+                        "locales": [
+                          "ru"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/13_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "15_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/15_N.srt",
+                        "size_bytes": 1528,
+                        "sha256": "1fd68cd609b2691f85e26d550c88c47e48bbbc17ab3836e14466c219db5dcd7d",
+                        "locales": [
+                          "ru"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/15_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "17_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/17_N.srt",
+                        "size_bytes": 529,
+                        "sha256": "cb9a4bfb639f2879d0209bda648e19111bf323b53f848a99ea4c84b923b32694",
+                        "locales": [
+                          "ru"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/17_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      },
+                      "18_N.srt": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/18_N.srt",
+                        "size_bytes": 2907,
+                        "sha256": "239e31416ca447229910a96d019fd9408294c202e3d3059a53c42dc410fa7022",
+                        "locales": [
+                          "ru"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "cutscene_subtitle_mirror"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/Subtitles/ru/18_N.srt"
+                        ],
+                        "formats": [
+                          "srt"
+                        ]
+                      }
+                    }
+                  }
+                }
+              },
+              "localization": {
+                "type": "directory",
+                "children": {
+                  "original-game-menu": {
+                    "type": "directory",
+                    "children": {
+                      "de.jsonl": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/de.jsonl",
+                        "size_bytes": 87448,
+                        "sha256": "e4a56fecce85c2ff2f5d3783cfb464e759c53a3c81469919fb49110c93f60f5d",
+                        "locales": [
+                          "de"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "original_game_menu_catalog"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/de.jsonl"
+                        ],
+                        "formats": [
+                          "jsonl"
+                        ]
+                      },
+                      "en-US.jsonl": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/en-US.jsonl",
+                        "size_bytes": 82841,
+                        "sha256": "62c305a6cc82c55a0ce35eaef1417fb730b397b9cea9d502aef8eae180b4e3b6",
+                        "locales": [
+                          "en-US"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "original_game_menu_catalog"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/en-US.jsonl"
+                        ],
+                        "formats": [
+                          "jsonl"
+                        ]
+                      },
+                      "es.jsonl": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/es.jsonl",
+                        "size_bytes": 90645,
+                        "sha256": "742566e423ae13bd7ca2c3aea41ee431edfde0c82aa69cf2195bf6c88ceeb600",
+                        "locales": [
+                          "es"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "original_game_menu_catalog"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/es.jsonl"
+                        ],
+                        "formats": [
+                          "jsonl"
+                        ]
+                      },
+                      "fr.jsonl": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/fr.jsonl",
+                        "size_bytes": 92507,
+                        "sha256": "943b77ddfecbcde59b03961b25e0c952ec6a3cbacdcbd7fe426643eeb963340f",
+                        "locales": [
+                          "fr"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "original_game_menu_catalog"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/fr.jsonl"
+                        ],
+                        "formats": [
+                          "jsonl"
+                        ]
+                      },
+                      "id.jsonl": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/id.jsonl",
+                        "size_bytes": 82670,
+                        "sha256": "f6b36134ab1541596a0d7a252a0420a0cc914634a6bf9e61c9edff4dab808a1d",
+                        "locales": [
+                          "id"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "original_game_menu_catalog"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/id.jsonl"
+                        ],
+                        "formats": [
+                          "jsonl"
+                        ]
+                      },
+                      "it.jsonl": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/it.jsonl",
+                        "size_bytes": 88244,
+                        "sha256": "7572b57ccab29457f4c36089916cb8a4997de4c500786bde74573e143e68a601",
+                        "locales": [
+                          "it"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "original_game_menu_catalog"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/it.jsonl"
+                        ],
+                        "formats": [
+                          "jsonl"
+                        ]
+                      },
+                      "pt-BR.jsonl": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/pt-BR.jsonl",
+                        "size_bytes": 89976,
+                        "sha256": "a91723cecdef1c85953327cc8073deb221692e63ec7e626c1ebc344af81f513c",
+                        "locales": [
+                          "pt-BR"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "original_game_menu_catalog"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/pt-BR.jsonl"
+                        ],
+                        "formats": [
+                          "jsonl"
+                        ]
+                      },
+                      "ru.jsonl": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/ru.jsonl",
+                        "size_bytes": 83056,
+                        "sha256": "3c982ecdbf5e57a7ee6587c6d1510e9e26202b96a7dc61b9bc05e38226eef471",
+                        "locales": [
+                          "ru"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "original_game_menu_catalog"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/localization/original-game-menu/ru.jsonl"
+                        ],
+                        "formats": [
+                          "jsonl"
+                        ]
+                      }
+                    }
+                  },
+                  "port-menu": {
+                    "type": "directory",
+                    "children": {
+                      "de.jsonl": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/de.jsonl",
+                        "size_bytes": 3797,
+                        "sha256": "800aff6fbf449ab915e4512bed9bc3c1b1a5e986bd5576a8ef7aac733ea188b0",
+                        "locales": [
+                          "de"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "port_menu_catalog"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/localization/port-menu/de.jsonl"
+                        ],
+                        "formats": [
+                          "jsonl"
+                        ]
+                      },
+                      "en-US.jsonl": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/en-US.jsonl",
+                        "size_bytes": 3565,
+                        "sha256": "2a57b39430046cfb50950132d1051c361003022926d839bbb166760f72e9d804",
+                        "locales": [
+                          "en-US"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "port_menu_catalog"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/localization/port-menu/en-US.jsonl"
+                        ],
+                        "formats": [
+                          "jsonl"
+                        ]
+                      },
+                      "es.jsonl": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/es.jsonl",
+                        "size_bytes": 3889,
+                        "sha256": "a923804025315cfa768bdc5e39be7b91cd39c7e8591e80ce1c799b58330bda80",
+                        "locales": [
+                          "es"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "port_menu_catalog"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/localization/port-menu/es.jsonl"
+                        ],
+                        "formats": [
+                          "jsonl"
+                        ]
+                      },
+                      "fr.jsonl": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/fr.jsonl",
+                        "size_bytes": 3973,
+                        "sha256": "ca9307549329922df647239aefeba38306e496240e780ec4afd4a477138e462a",
+                        "locales": [
+                          "fr"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "port_menu_catalog"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/localization/port-menu/fr.jsonl"
+                        ],
+                        "formats": [
+                          "jsonl"
+                        ]
+                      },
+                      "id.jsonl": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/id.jsonl",
+                        "size_bytes": 3709,
+                        "sha256": "8cefaa7eaf92ba4a6ff46ce94e6f24cb614bc67361005d88308e38254bac234c",
+                        "locales": [
+                          "id"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "port_menu_catalog"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/localization/port-menu/id.jsonl"
+                        ],
+                        "formats": [
+                          "jsonl"
+                        ]
+                      },
+                      "it.jsonl": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/it.jsonl",
+                        "size_bytes": 3945,
+                        "sha256": "00d7a91443738738a36b237c5f2147958f81e9681373c5444772eb737c721bb9",
+                        "locales": [
+                          "it"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "port_menu_catalog"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/localization/port-menu/it.jsonl"
+                        ],
+                        "formats": [
+                          "jsonl"
+                        ]
+                      },
+                      "pt-BR.jsonl": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/pt-BR.jsonl",
+                        "size_bytes": 3739,
+                        "sha256": "e3270e5a15fd2e00111521fab1c50617704736a66b4e26b64fbadc14a34262d5",
+                        "locales": [
+                          "pt-BR"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "port_menu_catalog"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/localization/port-menu/pt-BR.jsonl"
+                        ],
+                        "formats": [
+                          "jsonl"
+                        ]
+                      },
+                      "ru.jsonl": {
+                        "type": "file",
+                        "status": "listed",
+                        "source_path": "GitHubs/BlackDefinitiveHDPC/localization/port-menu/ru.jsonl",
+                        "size_bytes": 4721,
+                        "sha256": "80fce40e1dc3d83460688d102901cd70a7d3a4ae0df57d6ca04a8fae39cc6c34",
+                        "locales": [
+                          "ru"
+                        ],
+                        "categories": [
+                          "repository_reference"
+                        ],
+                        "asset_types": [
+                          "port_menu_catalog"
+                        ],
+                        "destination_paths": [
+                          "GitHubs/BlackDefinitiveHDPC/localization/port-menu/ru.jsonl"
+                        ],
+                        "formats": [
+                          "jsonl"
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
           "README.md": {
             "type": "file",
-            "status": "not_in_locale_catalog",
+            "status": "listed",
             "source_path": "GitHubs/README.md",
-            "size_bytes": 328,
-            "sha256": "3e0a70c8c2507315bfb3808c9c6f4d05b0727207e3a79c087e494781351c350d"
+            "size_bytes": 526,
+            "sha256": "f95e10a02d71ea826a1d6f94b7dc5484935e46dac7387744645acdfcd1c498ea",
+            "locales": [
+              "en-US"
+            ],
+            "categories": [
+              "repository_reference"
+            ],
+            "asset_types": [
+              "project_index"
+            ],
+            "destination_paths": [
+              "GitHubs/README.md"
+            ],
+            "formats": [
+              "md"
+            ]
           }
         }
       },
@@ -3284,8 +6228,8 @@
             "type": "file",
             "status": "not_in_locale_catalog",
             "source_path": "Subtitles/README.md",
-            "size_bytes": 1614,
-            "sha256": "3ce9763756dd220c174021e8cd25a65d6ced344d462201a50258e0970a44136b"
+            "size_bytes": 17799,
+            "sha256": "8766cb53df87a26456fbabb6b0f13ddbb26f9fa63d9b53c238af77a895255a6c"
           },
           "SPEAKER_ATTRIBUTION_REVIEW.csv": {
             "type": "file",

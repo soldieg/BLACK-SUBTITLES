@@ -1,0 +1,85 @@
+{"key":"PC SETTINGS","text":"AJUSTES DE PC"}
+{"key":"VIDEO","text":"VÍDEO"}
+{"key":"DISPLAY","text":"PANTALLA"}
+{"key":"AUDIO AND GAME","text":"AUDIO Y JUEGO"}
+{"key":"CONTROLS","text":"CONTROLES"}
+{"key":"MODS","text":"MODS"}
+{"key":"KEY BINDINGS","text":"ASIGNACIÓN DE TECLAS"}
+{"key":"QUIT","text":"SALIR"}
+{"key":"RESOLUTION","text":"RESOLUCIÓN"}
+{"key":"ANTI-ALIASING","text":"ANTIALIASING"}
+{"key":"FIELD OF VIEW","text":"CAMPO DE VISIÓN"}
+{"key":"BRIGHTNESS","text":"BRILLO"}
+{"key":"GAMMA","text":"GAMMA"}
+{"key":"FULLSCREEN","text":"PANTALLA COMPLETA"}
+{"key":"ASPECT RATIO","text":"RELACIÓN DE ASPECTO"}
+{"key":"FRAME RATE","text":"FRECUENCIA DE IMÁGENES"}
+{"key":"FILL GEOMETRY SEAMS","text":"RELLENAR JUNTAS DE GEOMETRÍA"}
+{"key":"EFFECTS AT XBOX SIZE","text":"EFECTOS AL TAMAÑO DE XBOX"}
+{"key":"ROOM REVERB","text":"REVERBERACIÓN DE SALA"}
+{"key":"AUTO-AIM","text":"APUNTADO AUTOMÁTICO"}
+{"key":"SKIP ANY MOVIE","text":"SALTAR CUALQUIER VÍDEO"}
+{"key":"MOUSE SENSITIVITY","text":"SENSIBILIDAD DEL RATÓN"}
+{"key":"INVERT MOUSE","text":"INVERTIR RATÓN"}
+{"key":"AIM","text":"APUNTAR"}
+{"key":"CROUCH","text":"AGACHARSE"}
+{"key":"WEAPON FOV","text":"FOV DEL ARMA"}
+{"key":"FPS COUNTER","text":"CONTADOR DE FPS"}
+{"key":"MOVIE SUBTITLES","text":"SUBTÍTULOS DE VÍDEO"}
+{"key":"RESOLUTION SCALE","text":"ESCALA DE RESOLUCIÓN"}
+{"key":"ANISOTROPIC FILTERING","text":"FILTRADO ANISOTRÓPICO"}
+{"key":"WINDOW SIZE","text":"TAMAÑO DE VENTANA"}
+{"key":"CAMERA SHAKE","text":"TEMBLOR DE CÁMARA"}
+{"key":"RELOAD BLUR","text":"DESENFOQUE AL RECARGAR"}
+{"key":"TEXTURES","text":"TEXTURAS"}
+{"key":"LANGUAGE","text":"IDIOMA"}
+{"key":"DRAW DISTANCE","text":"DISTANCIA DE DIBUJO"}
+{"key":"INPUT","text":"ENTRADA"}
+{"key":"INPUT DEVICE","text":"DISPOSITIVO DE ENTRADA"}
+{"key":"MOUSE/KEYBOARD","text":"RATÓN/TECLADO"}
+{"key":"CONTROLLER","text":"MANDO"}
+{"key":"CHEATS","text":"TRUCOS"}
+{"key":"UNLOCK ALL","text":"DESBLOQUEAR TODO"}
+{"key":"GOD MODE","text":"MODO DIOS"}
+{"key":"INFINITE HEALTH PACKS","text":"BOTIQUINES INFINITOS"}
+{"key":"ON","text":"ACTIVADO"}
+{"key":"OFF","text":"DESACTIVADO"}
+{"key":"CUSTOM","text":"PERSONALIZADO"}
+{"key":"1.5 X WINDOW","text":"VENTANA 1,5 X"}
+{"key":"2 X WINDOW","text":"VENTANA 2 X"}
+{"key":"CONTROLLER ONLY","text":"SOLO MANDO"}
+{"key":"HOLD","text":"MANTENER"}
+{"key":"TOGGLE","text":"ALTERNAR"}
+{"key":"PROFILE OPTION","text":"OPCIÓN DE PERFIL"}
+{"key":"RESET TO DEFAULTS","text":"RESTABLECER VALORES PREDETERMINADOS"}
+{"key":"PRESS A KEY","text":"PULSA UNA TECLA"}
+{"key":"WHEEL UP","text":"RUEDA ARRIBA"}
+{"key":"WHEEL DOWN","text":"RUEDA ABAJO"}
+{"key":"RUN FORWARD","text":"CORRER HACIA DELANTE"}
+{"key":"RUN BACK","text":"CORRER HACIA ATRÁS"}
+{"key":"SIDESTEP LEFT","text":"PASO LATERAL IZQUIERDO"}
+{"key":"SIDESTEP RIGHT","text":"PASO LATERAL DERECHO"}
+{"key":"FIRE","text":"DISPARAR"}
+{"key":"RELOAD","text":"RECARGAR"}
+{"key":"USE, PICK UP","text":"USAR, RECOGER"}
+{"key":"GRENADE","text":"GRANADA"}
+{"key":"MELEE","text":"CUERPO A CUERPO"}
+{"key":"NEXT WEAPON","text":"SIGUIENTE ARMA"}
+{"key":"PREVIOUS WEAPON","text":"ARMA ANTERIOR"}
+{"key":"CHANGE FIRING MODE","text":"CAMBIAR MODO DE DISPARO"}
+{"key":"TOGGLE SUPPRESSOR","text":"ACTIVAR/DESACTIVAR SILENCIADOR"}
+{"key":"HEALTH PACK","text":"BOTIQUÍN"}
+{"key":"NEXT MUSIC TRACK","text":"SIGUIENTE PISTA MUSICAL"}
+{"key":"TURN LEFT","text":"GIRAR A LA IZQUIERDA"}
+{"key":"TURN RIGHT","text":"GIRAR A LA DERECHA"}
+{"key":"LOOK UP","text":"MIRAR ARRIBA"}
+{"key":"LOOK DOWN","text":"MIRAR ABAJO"}
+{"key":"PAUSE","text":"PAUSA"}
+{"key":"SHOW OBJECTIVES","text":"VER OBJETIVOS"}
+{"key":"WEAPON 1","text":"ARMA 1"}
+{"key":"WEAPON 2","text":"ARMA 2"}
+{"key":"[ARROWS]","text":"[FLECHAS]"}
+{"key":" (NEXT START)","text":" (AL INICIAR DE NUEVO)"}
+{"key":" (RESTART)","text":" (REINICIAR)"}
+{"key":" (LANGUAGE)","text":" (IDIOMA)"}
+{"key":" (ORIGINAL)","text":" (ORIGINAL)"}

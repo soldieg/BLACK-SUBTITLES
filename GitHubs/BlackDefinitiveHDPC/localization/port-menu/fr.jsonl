@@ -1,0 +1,85 @@
+{"key":"PC SETTINGS","text":"PARAMÈTRES PC"}
+{"key":"VIDEO","text":"VIDÉO"}
+{"key":"DISPLAY","text":"AFFICHAGE"}
+{"key":"AUDIO AND GAME","text":"AUDIO ET JEU"}
+{"key":"CONTROLS","text":"COMMANDES"}
+{"key":"MODS","text":"MODS"}
+{"key":"KEY BINDINGS","text":"AFFECTATION DES TOUCHES"}
+{"key":"QUIT","text":"QUITTER"}
+{"key":"RESOLUTION","text":"RÉSOLUTION"}
+{"key":"ANTI-ALIASING","text":"ANTICRÉNELAGE"}
+{"key":"FIELD OF VIEW","text":"CHAMP DE VISION"}
+{"key":"BRIGHTNESS","text":"LUMINOSITÉ"}
+{"key":"GAMMA","text":"GAMMA"}
+{"key":"FULLSCREEN","text":"PLEIN ÉCRAN"}
+{"key":"ASPECT RATIO","text":"FORMAT D’IMAGE"}
+{"key":"FRAME RATE","text":"FRÉQUENCE D’IMAGES"}
+{"key":"FILL GEOMETRY SEAMS","text":"COMBLER LES FISSURES GÉOMÉTRIQUES"}
+{"key":"EFFECTS AT XBOX SIZE","text":"EFFETS À LA TAILLE XBOX"}
+{"key":"ROOM REVERB","text":"RÉVERBÉRATION DE LA PIÈCE"}
+{"key":"AUTO-AIM","text":"VISÉE AUTOMATIQUE"}
+{"key":"SKIP ANY MOVIE","text":"PASSER TOUT FILM"}
+{"key":"MOUSE SENSITIVITY","text":"SENSIBILITÉ DE LA SOURIS"}
+{"key":"INVERT MOUSE","text":"INVERSER LA SOURIS"}
+{"key":"AIM","text":"VISER"}
+{"key":"CROUCH","text":"S’ACCROUPIR"}
+{"key":"WEAPON FOV","text":"FOV DE L’ARME"}
+{"key":"FPS COUNTER","text":"COMPTEUR FPS"}
+{"key":"MOVIE SUBTITLES","text":"SOUS-TITRES DES FILMS"}
+{"key":"RESOLUTION SCALE","text":"ÉCHELLE DE RÉSOLUTION"}
+{"key":"ANISOTROPIC FILTERING","text":"FILTRAGE ANISOTROPE"}
+{"key":"WINDOW SIZE","text":"TAILLE DE LA FENÊTRE"}
+{"key":"CAMERA SHAKE","text":"SECOUSSE DE CAMÉRA"}
+{"key":"RELOAD BLUR","text":"FLOU AU RECHARGEMENT"}
+{"key":"TEXTURES","text":"TEXTURES"}
+{"key":"LANGUAGE","text":"LANGUE"}
+{"key":"DRAW DISTANCE","text":"DISTANCE D’AFFICHAGE"}
+{"key":"INPUT","text":"ENTRÉE"}
+{"key":"INPUT DEVICE","text":"PÉRIPHÉRIQUE D’ENTRÉE"}
+{"key":"MOUSE/KEYBOARD","text":"SOURIS/CLAVIER"}
+{"key":"CONTROLLER","text":"MANETTE"}
+{"key":"CHEATS","text":"TRICHES"}
+{"key":"UNLOCK ALL","text":"TOUT DÉBLOQUER"}
+{"key":"GOD MODE","text":"MODE DIEU"}
+{"key":"INFINITE HEALTH PACKS","text":"KITS DE SOINS INFINIS"}
+{"key":"ON","text":"ACTIVÉ"}
+{"key":"OFF","text":"DÉSACTIVÉ"}
+{"key":"CUSTOM","text":"PERSONNALISÉ"}
+{"key":"1.5 X WINDOW","text":"FENÊTRE 1,5 X"}
+{"key":"2 X WINDOW","text":"FENÊTRE 2 X"}
+{"key":"CONTROLLER ONLY","text":"MANETTE UNIQUEMENT"}
+{"key":"HOLD","text":"MAINTENIR"}
+{"key":"TOGGLE","text":"BASCULER"}
+{"key":"PROFILE OPTION","text":"OPTION DE PROFIL"}
+{"key":"RESET TO DEFAULTS","text":"RÉTABLIR LES PARAMÈTRES PAR DÉFAUT"}
+{"key":"PRESS A KEY","text":"APPUYEZ SUR UNE TOUCHE"}
+{"key":"WHEEL UP","text":"MOLETTE VERS LE HAUT"}
+{"key":"WHEEL DOWN","text":"MOLETTE VERS LE BAS"}
+{"key":"RUN FORWARD","text":"COURIR EN AVANT"}
+{"key":"RUN BACK","text":"COURIR EN ARRIÈRE"}
+{"key":"SIDESTEP LEFT","text":"PAS DE CÔTÉ À GAUCHE"}
+{"key":"SIDESTEP RIGHT","text":"PAS DE CÔTÉ À DROITE"}
+{"key":"FIRE","text":"TIRER"}
+{"key":"RELOAD","text":"RECHARGER"}
+{"key":"USE, PICK UP","text":"UTILISER, RAMASSER"}
+{"key":"GRENADE","text":"GRENADE"}
+{"key":"MELEE","text":"CORPS À CORPS"}
+{"key":"NEXT WEAPON","text":"ARME SUIVANTE"}
+{"key":"PREVIOUS WEAPON","text":"ARME PRÉCÉDENTE"}
+{"key":"CHANGE FIRING MODE","text":"CHANGER LE MODE DE TIR"}
+{"key":"TOGGLE SUPPRESSOR","text":"ACTIVER/DÉSACTIVER LE SILENCIEUX"}
+{"key":"HEALTH PACK","text":"TROUSSE DE SOINS"}
+{"key":"NEXT MUSIC TRACK","text":"PISTE MUSICALE SUIVANTE"}
+{"key":"TURN LEFT","text":"TOURNER À GAUCHE"}
+{"key":"TURN RIGHT","text":"TOURNER À DROITE"}
+{"key":"LOOK UP","text":"REGARDER EN HAUT"}
+{"key":"LOOK DOWN","text":"REGARDER EN BAS"}
+{"key":"PAUSE","text":"PAUSE"}
+{"key":"SHOW OBJECTIVES","text":"AFFICHER LES OBJECTIFS"}
+{"key":"WEAPON 1","text":"ARME 1"}
+{"key":"WEAPON 2","text":"ARME 2"}
+{"key":"[ARROWS]","text":"[FLÈCHES]"}
+{"key":" (NEXT START)","text":" (AU PROCHAIN DÉMARRAGE)"}
+{"key":" (RESTART)","text":" (REDÉMARRER)"}
+{"key":" (LANGUAGE)","text":" (LANGUE)"}
+{"key":" (ORIGINAL)","text":" (ORIGINAL)"}

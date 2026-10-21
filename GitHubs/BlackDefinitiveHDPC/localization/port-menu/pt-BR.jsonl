@@ -1,0 +1,85 @@
+{"key":"PC SETTINGS","text":"CONFIGURAÇÕES DO PC"}
+{"key":"VIDEO","text":"VÍDEO"}
+{"key":"DISPLAY","text":"TELA"}
+{"key":"AUDIO AND GAME","text":"ÁUDIO E JOGO"}
+{"key":"CONTROLS","text":"CONTROLES"}
+{"key":"MODS","text":"MODS"}
+{"key":"KEY BINDINGS","text":"TECLAS"}
+{"key":"QUIT","text":"SAIR"}
+{"key":"RESOLUTION","text":"RESOLUÇÃO"}
+{"key":"ANTI-ALIASING","text":"ANTISSERRILHADO"}
+{"key":"FIELD OF VIEW","text":"CAMPO DE VISÃO"}
+{"key":"BRIGHTNESS","text":"BRILHO"}
+{"key":"GAMMA","text":"GAMA"}
+{"key":"FULLSCREEN","text":"TELA CHEIA"}
+{"key":"ASPECT RATIO","text":"PROPORÇÃO DA TELA"}
+{"key":"FRAME RATE","text":"TAXA DE QUADROS"}
+{"key":"FILL GEOMETRY SEAMS","text":"PREENCHER FRESTAS"}
+{"key":"EFFECTS AT XBOX SIZE","text":"EFEITOS NO TAMANHO DO XBOX"}
+{"key":"ROOM REVERB","text":"REVERBERAÇÃO"}
+{"key":"AUTO-AIM","text":"MIRA AUTOMÁTICA"}
+{"key":"SKIP ANY MOVIE","text":"PULAR QUALQUER VÍDEO"}
+{"key":"MOUSE SENSITIVITY","text":"SENSIBILIDADE DO MOUSE"}
+{"key":"INVERT MOUSE","text":"INVERTER MOUSE"}
+{"key":"AIM","text":"MIRAR"}
+{"key":"CROUCH","text":"AGACHAR"}
+{"key":"WEAPON FOV","text":"FOV DA ARMA"}
+{"key":"FPS COUNTER","text":"CONTADOR DE FPS"}
+{"key":"MOVIE SUBTITLES","text":"LEGENDAS DOS VÍDEOS"}
+{"key":"RESOLUTION SCALE","text":"ESCALA DE RESOLUÇÃO"}
+{"key":"ANISOTROPIC FILTERING","text":"FILTRO ANISOTRÓPICO"}
+{"key":"WINDOW SIZE","text":"TAMANHO DA JANELA"}
+{"key":"CAMERA SHAKE","text":"TREMOR DA CÂMERA"}
+{"key":"RELOAD BLUR","text":"DESFOQUE NA RECARGA"}
+{"key":"TEXTURES","text":"TEXTURAS"}
+{"key":"LANGUAGE","text":"IDIOMA"}
+{"key":"DRAW DISTANCE","text":"DISTÂNCIA DE VISÃO"}
+{"key":"INPUT","text":"ENTRADA"}
+{"key":"INPUT DEVICE","text":"DISPOSITIVO"}
+{"key":"MOUSE/KEYBOARD","text":"MOUSE/TECLADO"}
+{"key":"CONTROLLER","text":"CONTROLE"}
+{"key":"CHEATS","text":"TRAPAÇAS"}
+{"key":"UNLOCK ALL","text":"DESTRAVAR TUDO"}
+{"key":"GOD MODE","text":"INVENCÍVEL"}
+{"key":"INFINITE HEALTH PACKS","text":"KITS MÉDICOS INFINITOS"}
+{"key":"ON","text":"LIGADO"}
+{"key":"OFF","text":"DESLIGADO"}
+{"key":"CUSTOM","text":"PERSONALIZADO"}
+{"key":"1.5 X WINDOW","text":"1.5 X JANELA"}
+{"key":"2 X WINDOW","text":"2 X JANELA"}
+{"key":"CONTROLLER ONLY","text":"SÓ NO CONTROLE"}
+{"key":"HOLD","text":"SEGURAR"}
+{"key":"TOGGLE","text":"ALTERNAR"}
+{"key":"PROFILE OPTION","text":"OPÇÃO DO PERFIL"}
+{"key":"RESET TO DEFAULTS","text":"RESTAURAR PADRÕES"}
+{"key":"PRESS A KEY","text":"APERTE UMA TECLA"}
+{"key":"WHEEL UP","text":"RODA P/ CIMA"}
+{"key":"WHEEL DOWN","text":"RODA P/ BAIXO"}
+{"key":"RUN FORWARD","text":"CORRER P/ FRENTE"}
+{"key":"RUN BACK","text":"CORRER P/ TRÁS"}
+{"key":"SIDESTEP LEFT","text":"PASSO P/ ESQUERDA"}
+{"key":"SIDESTEP RIGHT","text":"PASSO P/ DIREITA"}
+{"key":"FIRE","text":"ATIRAR"}
+{"key":"RELOAD","text":"RECARREGAR"}
+{"key":"USE, PICK UP","text":"USAR, PEGAR"}
+{"key":"GRENADE","text":"GRANADA"}
+{"key":"MELEE","text":"CORPO A CORPO"}
+{"key":"NEXT WEAPON","text":"PRÓXIMA ARMA"}
+{"key":"PREVIOUS WEAPON","text":"ARMA ANTERIOR"}
+{"key":"CHANGE FIRING MODE","text":"MODO DE DISPARO"}
+{"key":"TOGGLE SUPPRESSOR","text":"SILENCIADOR"}
+{"key":"HEALTH PACK","text":"KIT MÉDICO"}
+{"key":"NEXT MUSIC TRACK","text":"PRÓXIMA MÚSICA"}
+{"key":"TURN LEFT","text":"VIRAR P/ ESQUERDA"}
+{"key":"TURN RIGHT","text":"VIRAR P/ DIREITA"}
+{"key":"LOOK UP","text":"OLHAR P/ CIMA"}
+{"key":"LOOK DOWN","text":"OLHAR P/ BAIXO"}
+{"key":"PAUSE","text":"PAUSAR"}
+{"key":"SHOW OBJECTIVES","text":"VER OBJETIVOS"}
+{"key":"WEAPON 1","text":"ARMA 1"}
+{"key":"WEAPON 2","text":"ARMA 2"}
+{"key":"[ARROWS]","text":"[SETAS]"}
+{"key":" (NEXT START)","text":" (AO REINICIAR)"}
+{"key":" (RESTART)","text":" (REINICIA)"}
+{"key":" (LANGUAGE)","text":" (IDIOMA)"}
+{"key":" (ORIGINAL)","text":" (ORIGINAL)"}

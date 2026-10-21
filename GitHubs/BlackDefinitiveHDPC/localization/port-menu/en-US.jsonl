@@ -1,0 +1,85 @@
+{"key":"PC SETTINGS","text":"PC SETTINGS"}
+{"key":"VIDEO","text":"VIDEO"}
+{"key":"DISPLAY","text":"DISPLAY"}
+{"key":"AUDIO AND GAME","text":"AUDIO AND GAME"}
+{"key":"CONTROLS","text":"CONTROLS"}
+{"key":"MODS","text":"MODS"}
+{"key":"KEY BINDINGS","text":"KEY BINDINGS"}
+{"key":"QUIT","text":"QUIT"}
+{"key":"RESOLUTION","text":"RESOLUTION"}
+{"key":"ANTI-ALIASING","text":"ANTI-ALIASING"}
+{"key":"FIELD OF VIEW","text":"FIELD OF VIEW"}
+{"key":"BRIGHTNESS","text":"BRIGHTNESS"}
+{"key":"GAMMA","text":"GAMMA"}
+{"key":"FULLSCREEN","text":"FULLSCREEN"}
+{"key":"ASPECT RATIO","text":"ASPECT RATIO"}
+{"key":"FRAME RATE","text":"FRAME RATE"}
+{"key":"FILL GEOMETRY SEAMS","text":"FILL GEOMETRY SEAMS"}
+{"key":"EFFECTS AT XBOX SIZE","text":"EFFECTS AT XBOX SIZE"}
+{"key":"ROOM REVERB","text":"ROOM REVERB"}
+{"key":"AUTO-AIM","text":"AUTO-AIM"}
+{"key":"SKIP ANY MOVIE","text":"SKIP ANY MOVIE"}
+{"key":"MOUSE SENSITIVITY","text":"MOUSE SENSITIVITY"}
+{"key":"INVERT MOUSE","text":"INVERT MOUSE"}
+{"key":"AIM","text":"AIM"}
+{"key":"CROUCH","text":"CROUCH"}
+{"key":"WEAPON FOV","text":"WEAPON FOV"}
+{"key":"FPS COUNTER","text":"FPS COUNTER"}
+{"key":"MOVIE SUBTITLES","text":"MOVIE SUBTITLES"}
+{"key":"RESOLUTION SCALE","text":"RESOLUTION SCALE"}
+{"key":"ANISOTROPIC FILTERING","text":"ANISOTROPIC FILTERING"}
+{"key":"WINDOW SIZE","text":"WINDOW SIZE"}
+{"key":"CAMERA SHAKE","text":"CAMERA SHAKE"}
+{"key":"RELOAD BLUR","text":"RELOAD BLUR"}
+{"key":"TEXTURES","text":"TEXTURES"}
+{"key":"LANGUAGE","text":"LANGUAGE"}
+{"key":"DRAW DISTANCE","text":"DRAW DISTANCE"}
+{"key":"INPUT","text":"INPUT"}
+{"key":"INPUT DEVICE","text":"INPUT DEVICE"}
+{"key":"MOUSE/KEYBOARD","text":"MOUSE/KEYBOARD"}
+{"key":"CONTROLLER","text":"CONTROLLER"}
+{"key":"CHEATS","text":"CHEATS"}
+{"key":"UNLOCK ALL","text":"UNLOCK ALL"}
+{"key":"GOD MODE","text":"GOD MODE"}
+{"key":"INFINITE HEALTH PACKS","text":"INFINITE HEALTH PACKS"}
+{"key":"ON","text":"ON"}
+{"key":"OFF","text":"OFF"}
+{"key":"CUSTOM","text":"CUSTOM"}
+{"key":"1.5 X WINDOW","text":"1.5 X WINDOW"}
+{"key":"2 X WINDOW","text":"2 X WINDOW"}
+{"key":"CONTROLLER ONLY","text":"CONTROLLER ONLY"}
+{"key":"HOLD","text":"HOLD"}
+{"key":"TOGGLE","text":"TOGGLE"}
+{"key":"PROFILE OPTION","text":"PROFILE OPTION"}
+{"key":"RESET TO DEFAULTS","text":"RESET TO DEFAULTS"}
+{"key":"PRESS A KEY","text":"PRESS A KEY"}
+{"key":"WHEEL UP","text":"WHEEL UP"}
+{"key":"WHEEL DOWN","text":"WHEEL DOWN"}
+{"key":"RUN FORWARD","text":"RUN FORWARD"}
+{"key":"RUN BACK","text":"RUN BACK"}
+{"key":"SIDESTEP LEFT","text":"SIDESTEP LEFT"}
+{"key":"SIDESTEP RIGHT","text":"SIDESTEP RIGHT"}
+{"key":"FIRE","text":"FIRE"}
+{"key":"RELOAD","text":"RELOAD"}
+{"key":"USE, PICK UP","text":"USE, PICK UP"}
+{"key":"GRENADE","text":"GRENADE"}
+{"key":"MELEE","text":"MELEE"}
+{"key":"NEXT WEAPON","text":"NEXT WEAPON"}
+{"key":"PREVIOUS WEAPON","text":"PREVIOUS WEAPON"}
+{"key":"CHANGE FIRING MODE","text":"CHANGE FIRING MODE"}
+{"key":"TOGGLE SUPPRESSOR","text":"TOGGLE SUPPRESSOR"}
+{"key":"HEALTH PACK","text":"HEALTH PACK"}
+{"key":"NEXT MUSIC TRACK","text":"NEXT MUSIC TRACK"}
+{"key":"TURN LEFT","text":"TURN LEFT"}
+{"key":"TURN RIGHT","text":"TURN RIGHT"}
+{"key":"LOOK UP","text":"LOOK UP"}
+{"key":"LOOK DOWN","text":"LOOK DOWN"}
+{"key":"PAUSE","text":"PAUSE"}
+{"key":"SHOW OBJECTIVES","text":"SHOW OBJECTIVES"}
+{"key":"WEAPON 1","text":"WEAPON 1"}
+{"key":"WEAPON 2","text":"WEAPON 2"}
+{"key":"[ARROWS]","text":"[ARROWS]"}
+{"key":" (NEXT START)","text":" (NEXT START)"}
+{"key":" (RESTART)","text":" (RESTART)"}
+{"key":" (LANGUAGE)","text":" (LANGUAGE)"}
+{"key":" (ORIGINAL)","text":" (ORIGINAL)"}

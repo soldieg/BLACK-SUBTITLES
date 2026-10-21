@@ -1,0 +1,85 @@
+{"key":"PC SETTINGS","text":"IMPOSTAZIONI PC"}
+{"key":"VIDEO","text":"VIDEO"}
+{"key":"DISPLAY","text":"SCHERMO"}
+{"key":"AUDIO AND GAME","text":"AUDIO E GIOCO"}
+{"key":"CONTROLS","text":"COMANDI"}
+{"key":"MODS","text":"MOD"}
+{"key":"KEY BINDINGS","text":"ASSEGNAZIONE TASTI"}
+{"key":"QUIT","text":"ESCI"}
+{"key":"RESOLUTION","text":"RISOLUZIONE"}
+{"key":"ANTI-ALIASING","text":"ANTIALIASING"}
+{"key":"FIELD OF VIEW","text":"CAMPO VISIVO"}
+{"key":"BRIGHTNESS","text":"LUMINOSITÀ"}
+{"key":"GAMMA","text":"GAMMA"}
+{"key":"FULLSCREEN","text":"SCHERMO INTERO"}
+{"key":"ASPECT RATIO","text":"RAPPORTO D’ASPETTO"}
+{"key":"FRAME RATE","text":"FREQUENZA FOTOGRAMMI"}
+{"key":"FILL GEOMETRY SEAMS","text":"RIEMPIRE LE FESSURE GEOMETRICHE"}
+{"key":"EFFECTS AT XBOX SIZE","text":"EFFETTI ALLE DIMENSIONI XBOX"}
+{"key":"ROOM REVERB","text":"RIVERBERO AMBIENTALE"}
+{"key":"AUTO-AIM","text":"MIRA AUTOMATICA"}
+{"key":"SKIP ANY MOVIE","text":"SALTA QUALSIASI FILMATO"}
+{"key":"MOUSE SENSITIVITY","text":"SENSIBILITÀ DEL MOUSE"}
+{"key":"INVERT MOUSE","text":"INVERTI MOUSE"}
+{"key":"AIM","text":"MIRA"}
+{"key":"CROUCH","text":"ACCOVACCIARSI"}
+{"key":"WEAPON FOV","text":"FOV ARMA"}
+{"key":"FPS COUNTER","text":"CONTATORE FPS"}
+{"key":"MOVIE SUBTITLES","text":"SOTTOTITOLI FILMATI"}
+{"key":"RESOLUTION SCALE","text":"SCALA RISOLUZIONE"}
+{"key":"ANISOTROPIC FILTERING","text":"FILTRO ANISOTROPICO"}
+{"key":"WINDOW SIZE","text":"DIMENSIONI FINESTRA"}
+{"key":"CAMERA SHAKE","text":"OSCILLAZIONE TELECAMERA"}
+{"key":"RELOAD BLUR","text":"SFocatura durante la ricarica"}
+{"key":"TEXTURES","text":"TEXTURE"}
+{"key":"LANGUAGE","text":"LINGUA"}
+{"key":"DRAW DISTANCE","text":"DISTANZA DI DISEGNO"}
+{"key":"INPUT","text":"INPUT"}
+{"key":"INPUT DEVICE","text":"DISPOSITIVO DI INPUT"}
+{"key":"MOUSE/KEYBOARD","text":"MOUSE/TASTIERA"}
+{"key":"CONTROLLER","text":"CONTROLLER"}
+{"key":"CHEATS","text":"TRUCCHI"}
+{"key":"UNLOCK ALL","text":"SBLOCCA TUTTO"}
+{"key":"GOD MODE","text":"MODALITÀ DIO"}
+{"key":"INFINITE HEALTH PACKS","text":"KIT MEDICI INFINITI"}
+{"key":"ON","text":"ATTIVO"}
+{"key":"OFF","text":"DISATTIVO"}
+{"key":"CUSTOM","text":"PERSONALIZZATO"}
+{"key":"1.5 X WINDOW","text":"FINESTRA 1,5 X"}
+{"key":"2 X WINDOW","text":"FINESTRA 2 X"}
+{"key":"CONTROLLER ONLY","text":"SOLO CONTROLLER"}
+{"key":"HOLD","text":"TENERE PREMUTO"}
+{"key":"TOGGLE","text":"ATTIVA/DISATTIVA"}
+{"key":"PROFILE OPTION","text":"OPZIONE PROFILO"}
+{"key":"RESET TO DEFAULTS","text":"RIPRISTINA PREDEFINITI"}
+{"key":"PRESS A KEY","text":"PREMI UN TASTO"}
+{"key":"WHEEL UP","text":"ROTELLA SU"}
+{"key":"WHEEL DOWN","text":"ROTELLA GIÙ"}
+{"key":"RUN FORWARD","text":"CORRI AVANTI"}
+{"key":"RUN BACK","text":"CORRI INDIETRO"}
+{"key":"SIDESTEP LEFT","text":"PASSO LATERALE SINISTRO"}
+{"key":"SIDESTEP RIGHT","text":"PASSO LATERALE DESTRO"}
+{"key":"FIRE","text":"SPARA"}
+{"key":"RELOAD","text":"RICARICA"}
+{"key":"USE, PICK UP","text":"USA, RACCOGLI"}
+{"key":"GRENADE","text":"GRANATA"}
+{"key":"MELEE","text":"CORPO A CORPO"}
+{"key":"NEXT WEAPON","text":"ARMA SUCCESSIVA"}
+{"key":"PREVIOUS WEAPON","text":"ARMA PRECEDENTE"}
+{"key":"CHANGE FIRING MODE","text":"CAMBIA MODALITÀ DI FUOCO"}
+{"key":"TOGGLE SUPPRESSOR","text":"ATTIVA/DISATTIVA SILENZIATORE"}
+{"key":"HEALTH PACK","text":"KIT MEDICO"}
+{"key":"NEXT MUSIC TRACK","text":"TRACCIA MUSICALE SUCCESSIVA"}
+{"key":"TURN LEFT","text":"GIRA A SINISTRA"}
+{"key":"TURN RIGHT","text":"GIRA A DESTRA"}
+{"key":"LOOK UP","text":"GUARDA IN ALTO"}
+{"key":"LOOK DOWN","text":"GUARDA IN BASSO"}
+{"key":"PAUSE","text":"PAUSA"}
+{"key":"SHOW OBJECTIVES","text":"MOSTRA OBIETTIVI"}
+{"key":"WEAPON 1","text":"ARMA 1"}
+{"key":"WEAPON 2","text":"ARMA 2"}
+{"key":"[ARROWS]","text":"[FRECCE]"}
+{"key":" (NEXT START)","text":" (AL PROSSIMO AVVIO)"}
+{"key":" (RESTART)","text":" (RIAVVIA)"}
+{"key":" (LANGUAGE)","text":" (LINGUA)"}
+{"key":" (ORIGINAL)","text":" (ORIGINALE)"}
